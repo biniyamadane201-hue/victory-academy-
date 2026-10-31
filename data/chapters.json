@@ -1,0 +1,194 @@
+{
+  "psychology": [
+    {
+      "chapterNumber": 1,
+      "title": "Essence of Psychology",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 2,
+      "title": "Sensation and Perception",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 3,
+      "title": "Learning and Theories of Learning",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 4,
+      "title": "Memory and Forgetting",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 5,
+      "title": "Motivation and Emotions",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 6,
+      "title": "Personality",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 7,
+      "title": "Psychological Disorders and Treatment Techniques",
+      "questionCount": 50
+    }
+  ],
+  "geography": [
+    {
+      "chapterNumber": 1,
+      "title": "Introduction to Geography of Ethiopia and the Horn",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 2,
+      "title": "The Geology of Ethiopia and the Horn",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 3,
+      "title": "The Topography of Ethiopia and the Horn",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 4,
+      "title": "Drainage Systems and Water Resource of Ethiopia and the Horn",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 5,
+      "title": "The Climate of Ethiopia and the Horn",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 6,
+      "title": "Soils, Natural Vegetation and Wildlife Resources of Ethiopia and the Horn",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 7,
+      "title": "Population of Ethiopia and the Horn",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 8,
+      "title": "Economic Activities in Ethiopia",
+      "questionCount": 50
+    }
+  ],
+  "history": [
+    {
+      "chapterNumber": 1,
+      "title": "Introduction: The Nature and Uses of History",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 2,
+      "title": "Peoples and Cultures in Ethiopia and the Horn",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 3,
+      "title": "Politics, Economy and Society in Ethiopia and the Horn to the End of the 13th Century",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 4,
+      "title": "Politics, Economy and Society from the Late 13th to the Beginning of the 16th Centuries",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 5,
+      "title": "Politics, Economy & Social Processes from the Early 16th to the End of 18th Centuries",
+      "questionCount": 51
+    }
+  ],
+  "logic": [
+    {
+      "chapterNumber": 1,
+      "title": "Introducing Philosophy",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 2,
+      "title": "Basic Concepts of Logic",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 3,
+      "title": "Logic and Language",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 4,
+      "title": "Basic Concepts of Critical Thinking",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 5,
+      "title": "Informal Fallacies",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 6,
+      "title": "Categorical Propositions",
+      "questionCount": 50
+    }
+  ],
+  "mathematics": [
+    {
+      "chapterNumber": 1,
+      "title": "Propositional Logic and Set Theory",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 2,
+      "title": "The Real and Complex Number Systems",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 3,
+      "title": "Functions",
+      "questionCount": 50
+    },
+    {
+      "chapterNumber": 4,
+      "title": "Analytic Geometry",
+      "questionCount": 50
+    }
+  ],
+  "physics": [
+    {
+      "chapterNumber": 1,
+      "title": "Preliminaries",
+      "questionCount": 20
+    },
+    {
+      "chapterNumber": 2,
+      "title": "Kinematics and Dynamics of Particles",
+      "questionCount": 20
+    },
+    {
+      "chapterNumber": 3,
+      "title": "Fluid Mechanics",
+      "questionCount": 20
+    },
+    {
+      "chapterNumber": 4,
+      "title": "Heat and Thermodynamics",
+      "questionCount": 20
+    },
+    {
+      "chapterNumber": 5,
+      "title": "Oscillations, Waves and Optics",
+      "questionCount": 20
+    },
+    {
+      "chapterNumber": 6,
+      "title": "Electromagnetism and Electronics",
+      "questionCount": 20
+    }
+  ]
+}

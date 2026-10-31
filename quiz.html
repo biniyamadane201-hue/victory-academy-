@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Question Room — Victory Academy</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/quiz.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+</head>
+<body class="quiz-page-body">
+
+  <!-- Mobile-Sticky Header -->
+  <header class="quiz-topbar">
+    <div class="container quiz-topbar-inner">
+      <div class="quiz-meta-info">
+        <a href="courses.html" class="nav-back-link" aria-label="Back to courses">&#8592;</a>
+        <div>
+          <div class="quiz-title-code" id="quiz-course-code">COURSE</div>
+          <div class="quiz-chapter-pill" id="quiz-chapter-tag">Chapter 1</div>
+        </div>
+      </div>
+      
+      <div class="topbar-status-group">
+        <div class="counter-badge" id="answered-counter-badge" title="Questions Answered">
+          <span id="answered-count">0</span>/<span id="total-count">0</span>
+        </div>
+        <div class="quiz-timer-widget" id="timer-box">
+          <span class="timer-icon">⏱️</span>
+          <span id="quiz-timer">00:00</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Sticky Progress Meter -->
+  <div class="quiz-progress-wrapper">
+    <div class="quiz-progress-bar" id="quiz-progress-bar"></div>
+  </div>
+
+  <main class="container quiz-room-container">
+    <!-- View Mode Switcher & Filter -->
+    <div class="room-action-strip">
+      <div class="feed-info-text">
+        <h2 id="room-headline">Scrollable Question Feed</h2>
+        <p id="room-subtext">Scroll down, tap your choices, and review explanations instantly.</p>
+      </div>
+      <div class="room-quick-filter">
+        <button id="quick-submit-top" class="btn btn-gold btn-sm">Submit Exam</button>
+      </div>
+    </div>
+
+    <!-- Scrollable Feed: All 50 Questions Rendered Continuously -->
+    <div class="questions-scroll-feed" id="questions-scroll-feed">
+      <div class="loading-spinner-box">
+        <div class="spinner"></div>
+        <p>Loading curated question bank...</p>
+      </div>
+    </div>
+
+    <!-- Bottom Floating / Sticky Submit Trigger -->
+    <div class="room-submit-bottom-bar">
+      <button class="btn btn-gold btn-lg full-width" id="submit-exam-btn">
+        Submit Examination & View Analytics
+      </button>
+    </div>
+  </main>
+
+  <script src="js/app.js"></script>
+  <script src="js/json-loader.js"></script>
+  <script src="js/quiz.js"></script>
+  <script src="js/telegram.js"></script>
+</body>
+</html>

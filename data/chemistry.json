@@ -1,0 +1,28 @@
+{
+  "course": "General Chemistry",
+  "courseCode": "CHEM101",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Atomic Structure & Periodic Trends",
+      "questions": [
+        {
+          "id": "chm-101",
+          "question": "Which quantum number specifies the three-dimensional spatial orientation of an atomic orbital?",
+          "options": ["Principal (n)", "Angular momentum (l)", "Magnetic (m_l)", "Spin (m_s)"],
+          "answer": 2,
+          "explanation": "The magnetic quantum number m_l designates the spatial orientation of an orbital.",
+          "difficulty": "medium"
+        },
+        {
+          "id": "chm-102",
+          "question": "Which element possesses the highest first ionization energy on the periodic table?",
+          "options": ["Fluorine", "Helium", "Hydrogen", "Francium"],
+          "answer": 1,
+          "explanation": "Helium has a 1s^2 closed-shell configuration experiencing minimal shielding and maximum effective nuclear charge.",
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ]
+}

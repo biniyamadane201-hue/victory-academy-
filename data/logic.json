@@ -1,0 +1,3942 @@
+{
+  "course": "Logic and Critical Thinking (PHIL 1011)",
+  "courseCode": "PHIL1011",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Introducing Philosophy",
+      "questions": [
+        {
+          "id": "C01-Q01",
+          "question": "What is the etymological origin and literal definition of the word 'philosophy'?",
+          "options": [
+            "From Latin 'philo' (system) and 'sophia' (science), meaning systematic science",
+            "From Greek 'philo' (love) and 'sophia' (wisdom), meaning love of wisdom",
+            "From Greek 'philos' (truth) and 'anthropos' (man), meaning study of humanity",
+            "From Latin 'physis' (nature) and 'logos' (word), meaning discourse on nature"
+          ],
+          "answer": 1,
+          "explanation": "Etymologically, philosophy comes from two Greek words: 'philo' (love) and 'sophia' (wisdom), meaning literally 'love of wisdom'[cite: 195].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q02",
+          "question": "Who was the ancient Greek thinker that first used the term 'philosopher' to describe a person with marked curiosity about experience?",
+          "options": [
+            "Aristotle",
+            "Pythagoras",
+            "Socrates",
+            "Plato"
+          ],
+          "answer": 1,
+          "explanation": "Pythagoras was the first to use the word 'philosopher' to call a person showing curiosity in experiencing the world[cite: 195].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q03",
+          "question": "According to Socrates, what is the fundamental origin of philosophy?",
+          "options": [
+            "Philosophy begins in empirical measurement",
+            "Philosophy begins in wonder",
+            "Philosophy begins in social rebellion",
+            "Philosophy begins in religious revelation"
+          ],
+          "answer": 1,
+          "explanation": "Socrates famously proclaimed that 'Wonder is the feeling of a philosopher, and philosophy begins in wonder'[cite: 194].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q04",
+          "question": "How does the module distinguish the wisdom sought by philosophers from ordinary technical expertise?",
+          "options": [
+            "It consists of accumulating vast amounts of commercial information",
+            "It is the development of critical habits, continuous search for truth, and questioning the apparent",
+            "It is the memorization of scientific formulas",
+            "It is identical to professional vocational training"
+          ],
+          "answer": 1,
+          "explanation": "Philosophical wisdom is not technical expertise; it consists of a critical habit, eternal vigilance, reverence for truth, and questioning the apparent[cite: 195].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q05",
+          "question": "What does it mean to 'question the apparent' in philosophical inquiry?",
+          "options": [
+            "To completely deny the physical existence of reality",
+            "To go beyond common understanding and speculate creatively about things accepted without doubt",
+            "To reject all forms of logical thought",
+            "To accept social dogmas unconditionally"
+          ],
+          "answer": 1,
+          "explanation": "Questioning the apparent means to deal creatively with the phenomenal world, moving beyond common sense to speculate rigorously[cite: 195, 196].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q06",
+          "question": "What are the two interrelated dimensions that constitute the philosophical enterprise?",
+          "options": [
+            "A mathematical side and a biological side",
+            "A constructive side and a critical side",
+            "A subjective side and an emotional side",
+            "A dogmatic side and a passive side"
+          ],
+          "answer": 1,
+          "explanation": "Philosophy has a constructive side (formulating defensible answers) and a critical side (rational analysis and evaluation of answers)[cite: 196].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q07",
+          "question": "How does the informal sense of philosophy ('having' a philosophy) differ from the formal sense ('doing' philosophy)?",
+          "options": [
+            "'Having' refers to personal uncritical beliefs; 'doing' refers to active critical reflection and examination",
+            "'Having' is restricted to academics; 'doing' is practiced by ordinary citizens",
+            "'Doing' means memorizing history; 'having' means writing a book",
+            "There is no difference between the two senses"
+          ],
+          "answer": 0,
+          "explanation": "Having a philosophy refers to an informal set of unexamined beliefs, whereas doing philosophy is critical, systematic reflection[cite: 197].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q08",
+          "question": "Why do philosophers frequently disagree with one another according to the text?",
+          "options": [
+            "Because logic is entirely arbitrary",
+            "Due to different points of view/assumptions, changing societies, and incomplete evidence",
+            "Because philosophers refuse to use reason",
+            "Because language has no cognitive meaning"
+          ],
+          "answer": 1,
+          "explanation": "Philosophers disagree because they view things from different assumptions/backgrounds, live in a dynamic universe, and deal with incomplete evidence[cite: 198].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q09",
+          "question": "Which basic feature of philosophy emphasizes synthesizing scientific findings and human experiences into a unified worldview?",
+          "options": [
+            "Logical analysis of language",
+            "Philosophy as a rational attempt to look at the world as a whole",
+            "Philosophy as an informal set of dogmas",
+            "Specialized experimental testing"
+          ],
+          "answer": 1,
+          "explanation": "Philosophy attempts to view life as a totality, combining the conclusions of various sciences into a consistent worldview[cite: 198].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q10",
+          "question": "What is the primary role of philosophy according to twentieth-century linguistic analysts?",
+          "options": [
+            "Constructing grand metaphysical worldviews",
+            "Exposing confusion and nonsense through logical analysis of language and clarification of concepts",
+            "Developing speculative religious doctrines",
+            "Replacing all scientific inquiry"
+          ],
+          "answer": 1,
+          "explanation": "Linguistic analysts view philosophy's main task as the logical analysis of language, exposing nonsense, and clarifying terms[cite: 199].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q11",
+          "question": "What are the four primary branches of philosophy discussed in this course?",
+          "options": [
+            "Physics, chemistry, biology, and geology",
+            "Metaphysics, epistemology, axiology, and logic",
+            "Psychology, sociology, anthropology, and ethics",
+            "Theology, cosmology, ontology, and aesthetics"
+          ],
+          "answer": 1,
+          "explanation": "The primary core branches of philosophy are metaphysics, epistemology, axiology, and logic[cite: 201].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q12",
+          "question": "How did the term 'metaphysics' originate historically?",
+          "options": [
+            "It was coined by Socrates during his trial",
+            "Aristotle's editor, Andronicus of Rhodes, named Aristotle's works on 'first philosophy' that came after his physics treatise 'meta ta physika'",
+            "It was invented by medieval scholastic theologians",
+            "It was derived from Plato's allegory of the cave"
+          ],
+          "answer": 1,
+          "explanation": "Andronicus of Rhodes coined 'metaphysics' ('after physics') for Aristotle's works on first philosophy placed after his treatise on physics[cite: 202].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q13",
+          "question": "What is the central subject matter of metaphysics?",
+          "options": [
+            "The study of valid arguments",
+            "The study of the ultimate nature of reality or existence",
+            "The study of sensory perceptions",
+            "The study of civic governance"
+          ],
+          "answer": 1,
+          "explanation": "Metaphysics investigates the ultimate nature of reality, existence, mind-body relation, God, and first principles[cite: 202].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q14",
+          "question": "Which subset of metaphysics focuses on theories concerning the origin, nature, and development of the universe as an orderly system?",
+          "options": [
+            "Theology",
+            "Cosmology",
+            "Anthropology",
+            "Ontology"
+          ],
+          "answer": 1,
+          "explanation": "Cosmology is the metaphysical study of theories about the origin, nature, and development of the universe[cite: 203].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q15",
+          "question": "Which aspect of metaphysics examines questions regarding God's existence, attributes, and the problem of evil?",
+          "options": [
+            "Ontological aspect",
+            "Theological aspect",
+            "Anthropological aspect",
+            "Cosmological aspect"
+          ],
+          "answer": 1,
+          "explanation": "Theological metaphysics deals with conceptions of God, divine attributes, and relations to the created world[cite: 203].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q16",
+          "question": "The metaphysical study of the nature of human existence, including free will vs. determinism and the mind-body problem, belongs to:",
+          "options": [
+            "Cosmology",
+            "Anthropological aspect",
+            "Semiotics",
+            "Applied ethics"
+          ],
+          "answer": 1,
+          "explanation": "Anthropological metaphysics investigates human nature, free will, the relation of mind and body, and the soul[cite: 203].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q17",
+          "question": "Ontology is formally defined as the study of:",
+          "options": [
+            "Artistic beauty and taste",
+            "The nature of existence, or what it means for anything to exist",
+            "Deductive syllogistic rules",
+            "Linguistic syntax and phonemes"
+          ],
+          "answer": 1,
+          "explanation": "Ontology is the branch of metaphysics that studies the nature of existence and being as such[cite: 204].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q18",
+          "question": "What is the primary concern of epistemology?",
+          "options": [
+            "The moral codes of social institutions",
+            "The nature, source, scope, validity, and limits of human knowledge",
+            "The physical constituents of atomic matter",
+            "The grammatical classification of prepositions"
+          ],
+          "answer": 1,
+          "explanation": "Epistemology ('theory of knowledge') investigates the nature, sources, scope, and dependability of knowledge[cite: 204].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q19",
+          "question": "Which philosophical position claims that genuine, reliable knowledge is impossible to acquire and the search for truth is in vain?",
+          "options": [
+            "Rationalism",
+            "Skepticism",
+            "Empiricism",
+            "Authoritarianism"
+          ],
+          "answer": 1,
+          "explanation": "Skepticism is the philosophical stance asserting that humans cannot acquire reliable knowledge[cite: 205].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q20",
+          "question": "How is agnosticism distinguished from pure skepticism in epistemology?",
+          "options": [
+            "Agnosticism claims all knowledge is innate",
+            "Agnosticism is specifically a profession of ignorance regarding the existence or nonexistence of God",
+            "Agnosticism asserts that only mathematical knowledge is true",
+            "Agnosticism rejects all sensory experience"
+          ],
+          "answer": 1,
+          "explanation": "Agnosticism is a profession of ignorance specifically concerning the existence or nonexistence of God[cite: 205].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q21",
+          "question": "Empiricism identifies which faculty as the primary source of human knowledge?",
+          "options": [
+            "Pure abstract deduction",
+            "Sense perception and sensory experience",
+            "Supernatural divine revelation",
+            "Mystical intuition"
+          ],
+          "answer": 1,
+          "explanation": "Empiricism maintains that sensory experience (seeing, hearing, touching, etc.) is the basis of knowledge[cite: 205].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q22",
+          "question": "What is a major limitation of relying exclusively on sensory perception for knowledge?",
+          "options": [
+            "Sensory perceptions cannot be verified by other observers",
+            "Human senses can be deceived by optical illusions, fatigue, and physical limitations",
+            "Sensory data requires no mental interpretation",
+            "Senses provide only mathematical certainties"
+          ],
+          "answer": 1,
+          "explanation": "Sensory data is often incomplete, distorted by physical/mental states (such as a bent stick in water), and limited in range[cite: 206].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q23",
+          "question": "Rationalism asserts that the central factor in arriving at genuine knowledge is:",
+          "options": [
+            "Random trial and error",
+            "Human reason, thought, and intellectual logic",
+            "Subconscious intuition alone",
+            "The blind acceptance of traditional dogmas"
+          ],
+          "answer": 1,
+          "explanation": "Rationalism holds that reasoning and the mind's intellect are the essential factors in knowledge, independent of raw sensation[cite: 206].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q24",
+          "question": "How is intuition defined as an epistemological source of knowledge?",
+          "options": [
+            "The step-by-step application of categorical syllogisms",
+            "The direct, immediate apprehension of insight occurring beneath the threshold of conscious reasoning",
+            "The sensory inspection of external empirical objects",
+            "Consulting an encyclopedia or legal document"
+          ],
+          "answer": 1,
+          "explanation": "Intuition is immediate insight or knowing that bypasses conscious sequential reasoning or sensory perception[cite: 207].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q25",
+          "question": "What distinguishes revelation from all other sources of human knowledge?",
+          "options": [
+            "It is discovered solely in physics laboratories",
+            "It presupposes a transcendent, supernatural reality breaking into the natural order to communicate divine truth",
+            "It is universally open to direct sensory replication",
+            "It requires no personal belief or faith"
+          ],
+          "answer": 1,
+          "explanation": "Revealed knowledge presupposes a supernatural divine reality communicating truths not accessible via ordinary human faculties[cite: 207].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q26",
+          "question": "What danger is associated with accepting authority as a primary source of knowledge?",
+          "options": [
+            "It makes communication impossible",
+            "If authoritative claims rest on flawed assumptions or bias, the resulting knowledge will be distorted",
+            "Authoritative knowledge is always completely false",
+            "It forces people to rely entirely on intuition"
+          ],
+          "answer": 1,
+          "explanation": "While necessary for civilization, authoritative knowledge is dangerous if built on incorrect assumptions or uncritical traditions[cite: 207, 208].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q27",
+          "question": "Axiology is derived from the Greek words 'axios' and 'logos', which translate to:",
+          "options": [
+            "Study of physical motion",
+            "Study or theory of value and worth",
+            "Theory of grammar and syntax",
+            "Science of planetary orbits"
+          ],
+          "answer": 1,
+          "explanation": "Axiology stems from 'axios' (worth, value) and 'logos' (study/theory), meaning the philosophical study of value[cite: 209].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q28",
+          "question": "What are the three principal areas of inquiry within axiology?",
+          "options": [
+            "Mechanics, dynamics, and statics",
+            "Ethics, aesthetics, and social/political philosophy",
+            "Cosmology, theology, and ontology",
+            "Connotation, denotation, and semiotics"
+          ],
+          "answer": 1,
+          "explanation": "Axiology deals with human values across three distinct fields: Ethics, Aesthetics, and Social/Political Philosophy[cite: 209].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q29",
+          "question": "How is ethics (moral philosophy) formally defined?",
+          "options": [
+            "The mechanical study of legal statutes",
+            "The philosophical study of moral principles, rules, and values used to judge conduct as right or wrong",
+            "The historical analysis of ancient tribal customs",
+            "The calculation of financial profitability"
+          ],
+          "answer": 1,
+          "explanation": "Ethics is the philosophical inquiry into moral values and principles that determine right and wrong human actions[cite: 209, 210].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q30",
+          "question": "What are the three major branches of ethical studies?",
+          "options": [
+            "Linear ethics, circular ethics, and static ethics",
+            "Normative ethics, meta-ethics, and applied ethics",
+            "Subjective ethics, physical ethics, and psychological ethics",
+            "Formal ethics, syllogistic ethics, and modal ethics"
+          ],
+          "answer": 1,
+          "explanation": "Ethics is categorized into normative ethics, meta-ethics, and applied ethics[cite: 210, 211].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q31",
+          "question": "Which branch of ethics attempts to establish the moral standards, principles, and theories (e.g., deontology, utilitarianism) governing right action?",
+          "options": [
+            "Meta-ethics",
+            "Normative ethics",
+            "Applied ethics",
+            "Aesthetic ethics"
+          ],
+          "answer": 1,
+          "explanation": "Normative ethics searches for foundational principles and standards determining which acts are right or good[cite: 210].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q32",
+          "question": "Meta-ethics is primarily concerned with:",
+          "options": [
+            "Prescribing rules for business management",
+            "Investigating the meaning of ethical terms (e.g., 'good', 'right') and the epistemological status of moral claims",
+            "Resolving concrete dilemmas such as abortion and euthanasia",
+            "Codifying international environmental treaties"
+          ],
+          "answer": 1,
+          "explanation": "Meta-ethics examines the meaning, nature, and justification of moral terminology and moral statements[cite: 210, 211].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q33",
+          "question": "Applying general moral principles to specific controversial issues such as capital punishment, euthanasia, and abortion is the domain of:",
+          "options": [
+            "Ontology",
+            "Applied ethics",
+            "Meta-ethics",
+            "Cosmology"
+          ],
+          "answer": 1,
+          "explanation": "Applied ethics takes general ethical theories and applies them to specific real-world moral problems[cite: 211].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q34",
+          "question": "Aesthetics is the branch of axiology that studies:",
+          "options": [
+            "The distribution of economic wealth in civil society",
+            "The nature of beauty, art, taste, and sensory-emotional evaluations",
+            "The deductive validity of categorical syllogisms",
+            "The physical laws of gravitational motion"
+          ],
+          "answer": 1,
+          "explanation": "Aesthetics is the philosophical study of art, beauty, aesthetic experiences, and standards of taste[cite: 211].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q35",
+          "question": "Which of the following is a central question of social and political philosophy?",
+          "options": [
+            "What is the atomic composition of carbon?",
+            "What makes a government legitimate and what is the nature of justice in society?",
+            "How do sound waves refract across water?",
+            "Is the external world an illusion of the senses?"
+          ],
+          "answer": 1,
+          "explanation": "Social/political philosophy examines the justification of the state, justice, civil obligations, and ideal forms of society[cite: 212].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q36",
+          "question": "How is logic defined as a core branch of philosophy?",
+          "options": [
+            "The empirical measurement of neurological brainwaves",
+            "The philosophical study of arguments and the principles and methods of correct reasoning",
+            "The study of ancient political constitutions",
+            "The classification of moral codes across cultures"
+          ],
+          "answer": 1,
+          "explanation": "Logic is the systematic study of arguments and the principles that distinguish good reasoning from bad reasoning[cite: 212, 221, 222].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q37",
+          "question": "Socrates' famous dictum concerning the purpose of philosophical inquiry states that:",
+          "options": [
+            "Might makes right",
+            "The unexamined life is not worth living",
+            "Truth is purely subjective opinion",
+            "Philosophy is an impossible science"
+          ],
+          "answer": 1,
+          "explanation": "Socrates declared that 'the unexamined life is not worth living' to emphasize critical self-examination[cite: 213].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q38",
+          "question": "How do psychologists categorize human needs, and how does philosophy assist with them?",
+          "options": [
+            "Basic and biological; philosophy provides material food",
+            "Maintenance needs (food, shelter) and actualizing needs (self-fulfillment, creativity); philosophy promotes self-actualization",
+            "Sensory and mechanical; philosophy eliminates all physical needs",
+            "Conscious and subconscious; philosophy is an unconscious process"
+          ],
+          "answer": 1,
+          "explanation": "Humans have maintenance needs (physical survival) and actualizing needs (creativity, fulfillment); philosophy contributes to self-actualization[cite: 213, 214].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q39",
+          "question": "Which benefit of studying philosophy refers to the ability to develop one's own coherent, systematic worldview independently?",
+          "options": [
+            "Authoritative obedience",
+            "Intellectual and behavioral independence",
+            "Dogmatic skepticism",
+            "Emotional indulgence"
+          ],
+          "answer": 1,
+          "explanation": "Philosophy fosters intellectual and behavioral independence by helping individuals construct their own reasoned worldviews[cite: 214].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q40",
+          "question": "According to Bertrand Russell, where is the ultimate value of philosophy largely to be found?",
+          "options": [
+            "In proving absolute religious doctrines with scientific instruments",
+            "In its very uncertainty, which frees our minds from the tyranny of custom and dogmatism",
+            "In providing marketable technical skills for commercial industries",
+            "In producing dogmatic answers to everyday factual disputes"
+          ],
+          "answer": 1,
+          "explanation": "Bertrand Russell argued that philosophy's value lies in its uncertainty, liberating us from narrow prejudices and keeping alive our sense of wonder[cite: 215].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q41",
+          "question": "The philosophical approach that views reality as fundamentally spiritual or mental rather than purely physical is known as:",
+          "options": [
+            "Materialism",
+            "Idealism",
+            "Behaviorism",
+            "Pragmatism"
+          ],
+          "answer": 1,
+          "explanation": "Idealism is the philosophical theory maintaining that fundamental reality is mental, spiritual, or idea-based[cite: 200, 204].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q42",
+          "question": "George Knight's illustration of a floor (viewed differently by an ordinary person, a physicist, and a chemist) demonstrates that:",
+          "options": [
+            "Floors do not exist at all",
+            "The question of reality is multi-layered and foundational to metaphysical inquiry",
+            "Chemistry is superior to philosophy",
+            "Common sense always provides the final truth"
+          ],
+          "answer": 1,
+          "explanation": "The floor example shows that reality presents profound levels of description, proving that metaphysical reality is not simplistic[cite: 202, 203].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q43",
+          "question": "Which meta-ethical view claims that moral judgments merely express personal emotional feelings or attitudes rather than cognitive facts?",
+          "options": [
+            "Moral Intuitionism",
+            "Moral Emotivism",
+            "Moral Realism",
+            "Deontology"
+          ],
+          "answer": 1,
+          "explanation": "Emotivism holds that moral statements do not state facts but merely express emotional attitudes of approval or disapproval[cite: 210, 211].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q44",
+          "question": "What is the primary role of logic in relation to other philosophical investigations?",
+          "options": [
+            "Logic provides historical dates of philosophical texts",
+            "Logic serves as both a field of study and an indispensable tool to formulate and critically evaluate arguments",
+            "Logic is solely concerned with empirical biology",
+            "Logic replaces the need for epistemological inquiry"
+          ],
+          "answer": 1,
+          "explanation": "Logic is both an academic field and an instrument used by philosophers to evaluate arguments and clarify reasoning[cite: 193, 221, 222].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q45",
+          "question": "If an epistemologist argues that human knowledge is limited to statements about observable facts and their physical interrelations, they adopt:",
+          "options": [
+            "A narrow positivist or empiricist perspective",
+            "A metaphysical theological theory",
+            "An intuitionist framework",
+            "A radical skepticism"
+          ],
+          "answer": 0,
+          "explanation": "Restricting genuine knowledge to empirically verifiable facts reflects the narrow view of logical positivism and radical empiricism[cite: 199, 274].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q46",
+          "question": "What is a 'worldview' in the context of philosophy?",
+          "options": [
+            "An atlas containing physical boundary maps",
+            "A comprehensive, unified, and consistent interpretation of life, the universe, and human experience",
+            "A specialized handbook on industrial engineering",
+            "A transient emotional mood"
+          ],
+          "answer": 1,
+          "explanation": "A worldview is a coherent, comprehensive perspective on the whole of reality that synthesizes diverse areas of human inquiry[cite: 198, 214].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q47",
+          "question": "Why is philosophy considered an 'activity' rather than a static body of memorized doctrines?",
+          "options": [
+            "Because philosophers must run physical races",
+            "Because genuine philosophy consists of the ongoing dynamic exercise of questioning, analyzing, and philosophizing",
+            "Because philosophy cannot be written in textbooks",
+            "Because philosophical theories change every hour"
+          ],
+          "answer": 1,
+          "explanation": "Philosophy is fundamentally an activity: mastering philosophy means engaging actively in critical analysis, questioning, and evaluation[cite: 196].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q48",
+          "question": "The philosophical discipline that examines ethical obligations, rights, and responsibilities regarding animal treatment and environmental protection is:",
+          "options": [
+            "Meta-ethics",
+            "Applied ethics",
+            "Ontology",
+            "Epistemology"
+          ],
+          "answer": 1,
+          "explanation": "Animal rights and environmental ethics are practical applications of moral principles belonging to applied ethics[cite: 211].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q49",
+          "question": "How does philosophy enhance open-mindedness and tolerance?",
+          "options": [
+            "By teaching that only one culture possesses absolute truth",
+            "By exposing learners to diverse, competing perspectives and revealing that intellectual achievement is an ongoing, contextual process",
+            "By forcing students to abandon all moral standards",
+            "By discouraging logical debate"
+          ],
+          "answer": 1,
+          "explanation": "Studying alternative viewpoints shows the complexity of human thought, fostering tolerance, flexibility, and receptive critical thinking[cite: 214].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q50",
+          "question": "Which Greek Sophist asserted the extreme skeptical claim that 'nothing exists, and that if it did, we could not know it'?",
+          "options": [
+            "Socrates",
+            "Gorgias",
+            "Pythagoras",
+            "Aristotle"
+          ],
+          "answer": 1,
+          "explanation": "Gorgias the Sophist expressed extreme skepticism by asserting that nothing exists, or if it does, humans cannot know it[cite: 205].",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "Basic Concepts of Logic",
+      "questions": [
+        {
+          "id": "C02-Q01",
+          "question": "What is the primary definition and subject matter of logic as an academic field?",
+          "options": [
+            "The psychological analysis of brain function",
+            "The organized body of knowledge or science that evaluates arguments",
+            "The rhetoric of political speechmaking",
+            "The grammatical study of verb conjugations"
+          ],
+          "answer": 1,
+          "explanation": "Logic is the organized body of knowledge or science that evaluates arguments and correct reasoning[cite: 219, 221, 222].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q02",
+          "question": "How is an argument formally defined in logic?",
+          "options": [
+            "A heated verbal disagreement or shouting match between individuals",
+            "A group of statements, one or more of which (premises) are claimed to provide support or evidence for another statement (conclusion)",
+            "A single unconditional declarative statement",
+            "A series of non-declarative questions"
+          ],
+          "answer": 1,
+          "explanation": "An argument is a group of statements where the premises are claimed to provide support or reasons to believe the conclusion[cite: 224].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q03",
+          "question": "What is a statement in logic, and what are its possible truth-values?",
+          "options": [
+            "Any sentence whatsoever; truth-values are questions and commands",
+            "A declarative sentence that is either true or false",
+            "A proposal that is neither true nor false",
+            "An emotional exclamation"
+          ],
+          "answer": 1,
+          "explanation": "A statement is a declarative sentence that has a truth-value of either true or false[cite: 224].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q04",
+          "question": "Which of the following sentences qualifies as a statement in logical terms?",
+          "options": [
+            "Would you please close the classroom door?",
+            "Right on!",
+            "Mekelle is the capital city of Tigray Region.",
+            "Give me your student ID card immediately!"
+          ],
+          "answer": 2,
+          "explanation": "'Mekelle is the capital city of Tigray Region' is a declarative sentence asserting a fact with a definite truth-value (true)[cite: 224, 225].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q05",
+          "question": "What role does a premise play within an argument?",
+          "options": [
+            "It is the main claim that the argument tries to establish",
+            "It is a statement that sets forth the reasons, evidence, or grounds for accepting the conclusion",
+            "It is a passing commentary that has no bearing on the argument",
+            "It is always a rhetorical question"
+          ],
+          "answer": 1,
+          "explanation": "A premise is a statement that claims to provide evidence or reasons supporting the conclusion[cite: 225].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q06",
+          "question": "Which of the following lists contains only conclusion indicator words?",
+          "options": [
+            "Since, because, for the reason that, given that",
+            "Therefore, thus, consequently, accordingly, hence",
+            "Seeing that, inasmuch as, owing to, as indicated by",
+            "If, then, either, or"
+          ],
+          "answer": 1,
+          "explanation": "'Therefore', 'thus', 'consequently', 'accordingly', and 'hence' are standard conclusion indicators[cite: 227].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q07",
+          "question": "Which of the following lists contains only premise indicator words?",
+          "options": [
+            "Therefore, whence, wherefore, as a result",
+            "Since, because, given that, for, seeing that",
+            "It follows that, implies that, entails that",
+            "So, thus, consequently, we may conclude"
+          ],
+          "answer": 1,
+          "explanation": "'Since', 'because', 'given that', 'for', and 'seeing that' provide clues identifying premises[cite: 228].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q08",
+          "question": "What is unique about the phrase 'for this reason' when identifying premises and conclusions?",
+          "options": [
+            "It never appears in arguments",
+            "It occurs between the premise and conclusion: the statement before it is the premise, and the statement after it is the conclusion",
+            "It indicates that the argument is invalid",
+            "It functions exactly like 'for the reason that'"
+          ],
+          "answer": 1,
+          "explanation": "'For this reason' comes after the premise it indicates and precedes the conclusion[cite: 228].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q09",
+          "question": "What two conditions must be fulfilled for a passage to purport to prove something and qualify as an argument?",
+          "options": [
+            "It must use emotional language and have at least five sentences",
+            "At least one statement must claim to present evidence (factual claim), and there must be a claim that this evidence supports something (inferential claim)",
+            "It must be spoken by a licensed scientist and published in a journal",
+            "The statements must be mathematically formatted"
+          ],
+          "answer": 1,
+          "explanation": "An argument requires a factual claim (alleged evidence) and an inferential claim (that the evidence implies or supports the conclusion)[cite: 231].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q10",
+          "question": "How is an explicit inferential claim distinguished from an implicit inferential claim?",
+          "options": [
+            "Explicit uses premise/conclusion indicator words; implicit relies on an unstated inferential relationship between statements",
+            "Explicit arguments are deductive; implicit arguments are always fallacies",
+            "Implicit arguments contain only false statements",
+            "Explicit arguments have no conclusion"
+          ],
+          "answer": 0,
+          "explanation": "An explicit inferential claim is marked by indicator words ('thus', 'because'), while an implicit claim relies on structural reasoning without indicators[cite: 232].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q11",
+          "question": "Why is a warning (such as 'Never confide political secrets to your wife') classified as a non-argumentative passage?",
+          "options": [
+            "Because it is written in conversational prose",
+            "Because it lacks an inferential claim; no evidence is presented to prove that the statement is true",
+            "Because it contains two distinct premises",
+            "Because it uses conclusion indicators"
+          ],
+          "answer": 1,
+          "explanation": "Warnings and pieces of advice state cautions or suggestions without offering evidence to establish a truth claim[cite: 234, 235].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q12",
+          "question": "An expository passage is best interpreted as an argument when:",
+          "options": [
+            "The topic sentence makes an obvious claim accepted by everyone",
+            "The purpose of the subsequent sentences is not merely to develop or flesh out the topic sentence, but also to prove that it is true",
+            "The passage contains no declarative statements",
+            "The sentences are arranged in alphabetical order"
+          ],
+          "answer": 1,
+          "explanation": "Expository passages become arguments if the author intends the subsequent sentences to prove a controversial topic sentence[cite: 237, 238].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q13",
+          "question": "What are the two structural components of an explanation?",
+          "options": [
+            "Premise and conclusion",
+            "Explanandum (the phenomenon to be explained) and explanans (the statements doing the explaining)",
+            "Antecedent and consequent",
+            "Major term and minor term"
+          ],
+          "answer": 1,
+          "explanation": "Every explanation consists of the explanandum (the accepted fact) and the explanans (what purports to account for it)[cite: 239].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q14",
+          "question": "What is the primary logical difference between an argument and an explanation?",
+          "options": [
+            "Arguments use 'because'; explanations never do",
+            "In an argument, premises aim to prove that a claim is true; in an explanation, the explanans aims to show why an already accepted fact occurred",
+            "Explanations are always valid deductive syllogisms",
+            "Arguments proceed backwards from effect to cause"
+          ],
+          "answer": 1,
+          "explanation": "Arguments attempt to prove that something is the case, whereas explanations clarify why an accepted event happened[cite: 240].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q15",
+          "question": "In a conditional statement ('If A, then B'), what are the component statements A and B called?",
+          "options": [
+            "Premise and conclusion",
+            "Antecedent and consequent",
+            "Explanans and explanandum",
+            "Subject and predicate"
+          ],
+          "answer": 1,
+          "explanation": "In an 'If... then...' statement, the component immediately following 'if' is the antecedent, and the component following 'then' is the consequent[cite: 241].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q16",
+          "question": "Why is a single conditional statement NOT an argument by itself?",
+          "options": [
+            "Because it contains no declarative words",
+            "Because there is no assertion that either the antecedent or consequent is actually true, and neither presents evidence to prove the other",
+            "Because conditional statements are always false",
+            "Because it has more than one conclusion"
+          ],
+          "answer": 1,
+          "explanation": "A conditional statement asserts only a hypothetical relation between statements, not that either is an asserted premise proving a conclusion[cite: 242].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q17",
+          "question": "How are sufficient and necessary conditions expressed in conditional statements?",
+          "options": [
+            "The antecedent is a necessary condition; the consequent is a sufficient condition",
+            "The antecedent is a sufficient condition; the consequent is a necessary condition",
+            "Both antecedent and consequent are always necessary conditions",
+            "They are completely unrelated to conditional statements"
+          ],
+          "answer": 1,
+          "explanation": "In 'If A, then B', the occurrence of A is sufficient for B, and B is necessary for A[cite: 244, 245].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q18",
+          "question": "What defines a deductive argument?",
+          "options": [
+            "An argument where the conclusion follows only with a high degree of probability",
+            "An argument incorporating the claim that it is impossible for the conclusion to be false given that the premises are true",
+            "An argument that always proceeds from specific observations to a general law",
+            "An argument whose premises are based solely on eyewitness authority"
+          ],
+          "answer": 1,
+          "explanation": "A deductive argument claims that the conclusion follows necessarily and conclusively from the premises[cite: 246].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q19",
+          "question": "What defines an inductive argument?",
+          "options": [
+            "An argument where the premises guarantee the conclusion with 100% certainty",
+            "An argument incorporating the claim that it is improbable for the conclusion to be false given that the premises are true",
+            "An argument that cannot contain any factual claims",
+            "An argument that consists solely of a single conditional statement"
+          ],
+          "answer": 1,
+          "explanation": "An inductive argument involves probabilistic reasoning: if the premises are true, the conclusion is claimed to be probably true[cite: 247].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q20",
+          "question": "What three factors determine whether an argument is best interpreted as deductive or inductive?",
+          "options": [
+            "The author's name, the length of the paragraph, and the date of publication",
+            "The occurrence of special indicator words, the actual strength of the inferential link, and the form of argumentation used",
+            "The number of nouns, the emotional tone, and the presence of questions",
+            "The font size, the margin width, and the inclusion of diagrams"
+          ],
+          "answer": 1,
+          "explanation": "Deciding between deduction and induction depends on indicator words, the strength of the inferential link, and the argumentative form[cite: 248, 249].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q21",
+          "question": "Which of the following indicator words typically signals a deductive inferential claim?",
+          "options": [
+            "Plausible",
+            "Likely",
+            "Necessarily",
+            "Reasonable to conclude"
+          ],
+          "answer": 2,
+          "explanation": "Words such as 'certainly', 'necessarily', 'absolutely', and 'definitely' signal deductive claims[cite: 249].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q22",
+          "question": "Which of the following argumentative forms is typically classified as deductive?",
+          "options": [
+            "Prediction about the weather",
+            "Argument from analogy",
+            "Argument based on mathematics (arithmetic or geometric computation)",
+            "Inductive generalization from a survey"
+          ],
+          "answer": 2,
+          "explanation": "Arguments based on mathematics (excluding statistical arguments) follow necessarily and are deductive[cite: 251].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q23",
+          "question": "An argument concluding that 'Angel tells the truth' because 'Angel is honest' is an example of:",
+          "options": [
+            "An argument from definition (deductive)",
+            "A causal inference (inductive)",
+            "An argument from authority (inductive)",
+            "A disjunctive syllogism"
+          ],
+          "answer": 0,
+          "explanation": "Arguments based on definition are deductive because the conclusion follows directly from the definition of a term[cite: 251].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q24",
+          "question": "A syllogism having a conditional ('if... then...') statement for one or both of its premises is classified as:",
+          "options": [
+            "A categorical syllogism",
+            "A hypothetical syllogism",
+            "A disjunctive syllogism",
+            "An inductive generalization"
+          ],
+          "answer": 1,
+          "explanation": "A hypothetical syllogism is a syllogism containing conditional premises[cite: 252].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q25",
+          "question": "What type of argument is: 'Rewina is either Ethiopian or Eritrean. Rewina is not Eritrean. Therefore, Rewina is Ethiopian'?",
+          "options": [
+            "Inductive argument from analogy",
+            "Disjunctive syllogism (deductive)",
+            "Argument based on signs",
+            "Categorical syllogism"
+          ],
+          "answer": 1,
+          "explanation": "This is a disjunctive syllogism ('either... or...'), a standard deductive argument form[cite: 252].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q26",
+          "question": "An argument that proceeds from knowledge of a selected sample to a claim about an entire group is:",
+          "options": [
+            "An argument from definition",
+            "An inductive generalization",
+            "A hypothetical syllogism",
+            "A mathematical proof"
+          ],
+          "answer": 1,
+          "explanation": "Inductive generalizations infer attributes of an entire population based on a representative sample[cite: 253].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q27",
+          "question": "Inferring that a parking space is prohibited after observing a 'No Parking' sign posted on the street is:",
+          "options": [
+            "An argument based on signs (inductive)",
+            "A categorical syllogism (deductive)",
+            "An argument from analogy",
+            "A prediction"
+          ],
+          "answer": 0,
+          "explanation": "Arguments based on signs infer the reality of a situation from a symbolic sign and are inductive[cite: 253, 254].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q28",
+          "question": "Inferring that a water bottle left in a freezer overnight has frozen is an example of:",
+          "options": [
+            "A disjunctive syllogism",
+            "A causal inference (cause to effect, inductive)",
+            "An argument from authority",
+            "A definitional deduction"
+          ],
+          "answer": 1,
+          "explanation": "Reasoning from a physical cause to its expected effect is a causal inference, which is inherently probabilistic and inductive[cite: 254].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q29",
+          "question": "Can deductive arguments proceed from particular premises to a general conclusion?",
+          "options": [
+            "No, deduction strictly proceeds from general to particular only",
+            "Yes, deduction can proceed from particular to general (e.g., proving all odd numbers between 2 and 8 are prime)",
+            "No, only inductive arguments use particular statements",
+            "Yes, but such arguments are automatically invalid"
+          ],
+          "answer": 1,
+          "explanation": "Aristotle's traditional distinction is incomplete; deductive arguments can proceed from particular to general and vice versa[cite: 254, 255].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q30",
+          "question": "What is a valid deductive argument?",
+          "options": [
+            "An argument that contains only true premises in the real world",
+            "An argument such that if the premises are assumed true, it is impossible for the conclusion to be false",
+            "An argument that convinces the majority of listeners",
+            "An argument with a probable conclusion"
+          ],
+          "answer": 1,
+          "explanation": "Validity means the inferential connection guarantees that if premises were true, the conclusion could not be false[cite: 256].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q31",
+          "question": "What is an invalid deductive argument?",
+          "options": [
+            "An argument with false premises",
+            "A deductive argument such that even if the premises are assumed true, it is possible for the conclusion to be false",
+            "An argument that uses no indicator words",
+            "An argument whose conclusion is true"
+          ],
+          "answer": 1,
+          "explanation": "An invalid deductive argument is one where true premises do not guarantee the conclusion; the conclusion could still be false[cite: 256].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q32",
+          "question": "Which combination of truth-values in premises and conclusion automatically guarantees that a deductive argument is INVALID?",
+          "options": [
+            "False premises and False conclusion",
+            "True premises and False conclusion",
+            "False premises and True conclusion",
+            "True premises and True conclusion"
+          ],
+          "answer": 1,
+          "explanation": "Any deductive argument with actually true premises and an actually false conclusion is necessarily invalid[cite: 257, 258, 260].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q33",
+          "question": "Can a valid deductive argument have completely false premises and a false conclusion?",
+          "options": [
+            "No, valid arguments must have true premises",
+            "Yes, validity depends solely on the inferential link, not on real-world truth-values",
+            "No, that combination is logically impossible",
+            "Yes, but only if it is an inductive generalization"
+          ],
+          "answer": 1,
+          "explanation": "Validity depends on the structural relationship: if premises were true, the conclusion would follow. Hence, false premises and false conclusion can form a valid argument[cite: 257, 259].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q34",
+          "question": "What two conditions are required for a deductive argument to be classified as SOUND?",
+          "options": [
+            "It must be inductive and strong",
+            "It must be valid and have all actually true premises",
+            "It must be clear and persuasive to a popular audience",
+            "It must have a conclusion supported by expert testimony"
+          ],
+          "answer": 1,
+          "explanation": "A sound argument = a valid deductive argument + all true premises[cite: 260, 261].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q35",
+          "question": "What is the truth-value of the conclusion of every sound deductive argument?",
+          "options": [
+            "It is probably true",
+            "It is necessarily and strictly true",
+            "It is false",
+            "It is unknown"
+          ],
+          "answer": 1,
+          "explanation": "Because a sound argument is valid and has all true premises, its conclusion is guaranteed to be true[cite: 261].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q36",
+          "question": "What is an unsound deductive argument?",
+          "options": [
+            "An argument that is invalid, has one or more false premises, or both",
+            "Any argument that deals with metaphysics",
+            "A strong inductive argument",
+            "An argument with a true conclusion"
+          ],
+          "answer": 0,
+          "explanation": "An unsound argument is any deductive argument that is either invalid, contains at least one false premise, or both[cite: 260, 261].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q37",
+          "question": "What defines a strong inductive argument?",
+          "options": [
+            "An argument whose conclusion is impossible to doubt",
+            "An argument such that if the premises are assumed true, it is improbable for the conclusion to be false",
+            "An argument that has exactly two premises",
+            "An argument that uses mathematical deduction"
+          ],
+          "answer": 1,
+          "explanation": "A strong inductive argument is one where true premises make the conclusion highly probable[cite: 261].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q38",
+          "question": "What defines a weak inductive argument?",
+          "options": [
+            "An argument whose conclusion does not follow probably from the premises, even though it is claimed to",
+            "An argument with an uneducated author",
+            "A valid deductive argument",
+            "A categorical syllogism"
+          ],
+          "answer": 0,
+          "explanation": "A weak inductive argument fails its probabilistic inferential claim; even if premises are assumed true, the conclusion is not probable[cite: 261].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q39",
+          "question": "How do inductive strength and weakness differ fundamentally from deductive validity and invalidity?",
+          "options": [
+            "Deduction admits degrees; induction is absolute",
+            "Inductive strength admits degrees of probability and can be affected by adding new evidence; deductive validity is all-or-nothing",
+            "Inductive strength depends on grammar rules",
+            "There is no difference"
+          ],
+          "answer": 1,
+          "explanation": "Unlike validity (which is absolute), inductive strength admits degrees depending on sample size and additional evidence[cite: 263].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q40",
+          "question": "What two conditions make an inductive argument COGENT?",
+          "options": [
+            "It must be valid and sound",
+            "It must be strong and have all actually true premises (and not overlook key evidence)",
+            "It must be popular and emotional",
+            "It must be deductive and true"
+          ],
+          "answer": 1,
+          "explanation": "A cogent argument = a strong inductive argument + all true premises[cite: 265].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q41",
+          "question": "What is the truth status of the conclusion of every cogent inductive argument?",
+          "options": [
+            "It is guaranteed to be 100% true",
+            "It is probably true",
+            "It is necessarily false",
+            "It cannot be determined"
+          ],
+          "answer": 1,
+          "explanation": "Because premises are true and the reasoning is strong, the conclusion of a cogent argument is probably true[cite: 265].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q42",
+          "question": "What is an uncogent inductive argument?",
+          "options": [
+            "An inductive argument that is weak, has one or more false premises, or ignores critical countervailing evidence",
+            "A valid deductive syllogism",
+            "An argument that contains a true premise",
+            "An argument with an implicit conclusion"
+          ],
+          "answer": 0,
+          "explanation": "An uncogent argument is an inductive argument that is weak, contains false premises, or both[cite: 265].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q43",
+          "question": "How does the true-premise requirement for cogency differ from that for soundness?",
+          "options": [
+            "Cogency allows false premises",
+            "For cogency, true premises must also satisfy the total evidence requirement (not ignoring critical evidence that entails a different conclusion)",
+            "Soundness requires that premises be probable",
+            "There is no difference in the requirements"
+          ],
+          "answer": 1,
+          "explanation": "Unlike soundness, cogency requires that premises do not ignore key evidence that would alter the probability of the conclusion[cite: 265].",
+          "difficulty": "hard"
+        },
+        {
+          "id": "C02-Q44",
+          "question": "If an argument's premises do not support its conclusion at all, can it still be an argument?",
+          "options": [
+            "No, it becomes a simple report",
+            "Yes, it is still an argument, but a bad (fallacious) argument",
+            "No, all arguments must be valid",
+            "Yes, it becomes an explanation"
+          ],
+          "answer": 1,
+          "explanation": "An argument requires only the claim of support; if the premises fail to support the conclusion, it remains a bad argument[cite: 226].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q45",
+          "question": "What is an 'inferential link' in logic?",
+          "options": [
+            "A website hyperlink connecting articles",
+            "The reasoning connection or relationship by which premises are claimed to support the conclusion",
+            "The physical bond between sound waves in air",
+            "The punctuation mark separating paragraphs"
+          ],
+          "answer": 1,
+          "explanation": "The inferential link is the logical reasoning process connecting premises to the conclusion[cite: 230].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q46",
+          "question": "In evaluating an argument, which claim should always be tested first?",
+          "options": [
+            "The factual claim (whether premises are true)",
+            "The inferential claim (whether premises logically support the conclusion)",
+            "The moral character of the speaker",
+            "The grammatical formatting of the sentences"
+          ],
+          "answer": 1,
+          "explanation": "We test the inferential claim first; if the reasoning is flawed, the argument is worthless regardless of the truth of premises[cite: 255, 256].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q47",
+          "question": "Consider: 'All African leaders are corrupt. Nelson Mandela was an African leader. Therefore, Nelson Mandela was corrupt.' This argument is:",
+          "options": [
+            "Invalid and sound",
+            "Valid but unsound (because the first premise is false)",
+            "Weak and uncogent",
+            "A non-argumentative explanation"
+          ],
+          "answer": 1,
+          "explanation": "The structure is deductively valid (if premises were true, conclusion would follow), but the premise is false in reality, making it unsound[cite: 256, 260, 261].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q48",
+          "question": "Consider: 'This barrel contains 100 apples. 80 randomly selected apples were delicious. Therefore, probably all 100 apples are delicious.' This argument is:",
+          "options": [
+            "Valid and sound",
+            "Strong inductive argument",
+            "Weak inductive argument",
+            "A deductive syllogism based on definition"
+          ],
+          "answer": 1,
+          "explanation": "Sampling 80 out of 100 apples provides strong probabilistic support for the conclusion, making the argument inductively strong[cite: 261, 263].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q49",
+          "question": "Why is 'Since Edison invented the phonograph, there have been many technological developments' NOT an argument?",
+          "options": [
+            "Because Edison did not invent the phonograph",
+            "Because 'since' is used in a temporal sense ('from the time that') rather than a logical inferential sense",
+            "Because it contains a conclusion indicator",
+            "Because it is written in English"
+          ],
+          "answer": 1,
+          "explanation": "The word 'since' here functions temporally, not as a premise indicator asserting evidence for a conclusion[cite: 233].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q50",
+          "question": "What is the minimum and maximum number of conclusions an argument can have?",
+          "options": [
+            "Minimum of one, maximum of infinite",
+            "Exactly one conclusion",
+            "Zero conclusions",
+            "Two conclusions"
+          ],
+          "answer": 1,
+          "explanation": "By logical definition, an argument contains at least one premise, but one and only one conclusion[cite: 225].",
+          "difficulty": "classic"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "Logic and Language",
+      "questions": [
+        {
+          "id": "C03-Q01",
+          "question": "What is philosophy of language?",
+          "options": [
+            "The study of Latin verb conjugations",
+            "The reasoned inquiry into the origins of language, nature of meaning, usage, cognition, and relation between language and reality",
+            "The mechanical typesetting of dictionaries",
+            "The clinical treatment of speech disorders"
+          ],
+          "answer": 1,
+          "explanation": "Philosophy of language investigates meaning, language usage, cognition, and the relationship between language and reality[cite: 271].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q02",
+          "question": "How did linguist Noam Chomsky characterize human language acquisition?",
+          "options": [
+            "Language is learned purely by behavioral trial and error",
+            "Humans are born with an innate understanding of 'universal grammar', and exposure triggers this knowledge",
+            "Language is solely determined by written scripts",
+            "There are no shared linguistic principles among humans"
+          ],
+          "answer": 1,
+          "explanation": "Chomsky argues that humans possess an innate 'universal grammar' that structures language acquisition[cite: 272].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q03",
+          "question": "What is the view of Semantic Holism regarding linguistic meaning?",
+          "options": [
+            "Every word has a single dictionary definition",
+            "Meaning cannot be associated with an isolated word or sentence, but only attributed to an entire language",
+            "Meaning is completely determined by facial gestures",
+            "Words have no real reference to the world"
+          ],
+          "answer": 1,
+          "explanation": "Semantic Holism holds that meaning belongs to a whole language system rather than isolated individual words[cite: 272].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C03-Q04",
+          "question": "Which philosophical theory of meaning, associated with Ludwig Wittgenstein, understands meaning as related to speech acts and practical utterances?",
+          "options": [
+            "Idea theory",
+            "Use theory",
+            "Truth-conditional theory",
+            "Verificationist theory"
+          ],
+          "answer": 1,
+          "explanation": "Wittgenstein's Use theory identifies meaning with the practical application and social use of words in speech acts[cite: 274].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q05",
+          "question": "The Verificationist theory of meaning, adopted by 20th-century Logical Positivists, asserts that:",
+          "options": [
+            "Words have meaning only if sanctified by religious authorities",
+            "The meaning of a sentence is equivalent to its method of empirical verification or falsification",
+            "All words are innate mental symbols",
+            "Meaning is determined by emotional feelings"
+          ],
+          "answer": 1,
+          "explanation": "Verificationism equates the cognitive meaning of a statement with its method of empirical verification[cite: 274].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q06",
+          "question": "What two linguistic functions are of paramount importance for the study of logic?",
+          "options": [
+            "Telling jokes and singing songs",
+            "Conveying information (cognitive meaning) and expressing or evoking feelings (emotive meaning)",
+            "Asking questions and issuing legal commands",
+            "Greeting people and flirting"
+          ],
+          "answer": 1,
+          "explanation": "Logic focuses on language that conveys information (cognitive) versus language that expresses or evokes feelings (emotive)[cite: 276].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q07",
+          "question": "Why must logicians disengage the cognitive meaning of emotively charged statements from their emotive meaning?",
+          "options": [
+            "Because logic is concerned with evaluating arguments based on factual and inferential claims rather than emotional manipulation",
+            "Because words with emotive meaning have no definitions",
+            "Because emotions are grammatically illegal in sentences",
+            "Because logic cannot analyze declarative sentences"
+          ],
+          "answer": 0,
+          "explanation": "Logic evaluates truth claims and reasoning; emotive language obscures value claims and creates psychological bias[cite: 277].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q08",
+          "question": "What is a 'value claim' in the cognitive content of an emotive statement?",
+          "options": [
+            "A monetary estimate of market price",
+            "A claim that something is good, bad, right, wrong, better, or worse, which requires supporting evidence",
+            "A mathematical calculation of volume",
+            "A non-syntactic arrangement of terms"
+          ],
+          "answer": 1,
+          "explanation": "A value claim asserts that something is morally or qualitatively good/bad/right/wrong, demanding logical justification[cite: 277].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q09",
+          "question": "How does emotive terminology function like a 'steamroller' in poor arguments?",
+          "options": [
+            "It crushes physical obstacles on roads",
+            "It exerts psychological pressure that tends to paralyze critical thought and obscure the absence of evidence for value claims",
+            "It turns deductive arguments into sound deductions",
+            "It provides rigorous scientific data"
+          ],
+          "answer": 1,
+          "explanation": "Emotive language intimidates or seduces listeners, suppressing critical scrutiny of unevidenced value claims[cite: 277, 278].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C03-Q10",
+          "question": "When is a linguistic expression classified as VAGUE?",
+          "options": [
+            "When it has two distinct, crystal-clear meanings",
+            "When there are borderline cases where it is impossible to tell if the expression applies or does not apply (meaning is hazy and blurred)",
+            "When it contains mathematical equations",
+            "When it is translated from Latin"
+          ],
+          "answer": 1,
+          "explanation": "Vagueness involves hazy borders where meaning allows a continuous range of uncertain interpretations (e.g., 'fresh', 'rich')[cite: 279].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q11",
+          "question": "When is a linguistic expression classified as AMBIGUOUS?",
+          "options": [
+            "When it can be interpreted as having more than one clearly distinct meaning in a given context",
+            "When its letters are misspelled",
+            "When it lacks emotional vocabulary",
+            "When it refers to an empty class"
+          ],
+          "answer": 0,
+          "explanation": "Ambiguity arises when a word or phrase can mean multiple discrete, distinct things in a context (e.g., 'bank', 'light')[cite: 280].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q12",
+          "question": "How do verbal disputes differ from factual disputes in logic?",
+          "options": [
+            "Verbal disputes center on disagreements over the meanings of words; factual disputes center on disagreements over the facts themselves",
+            "Verbal disputes occur in writing; factual disputes are spoken",
+            "Verbal disputes are always sound arguments",
+            "There is no distinction between them"
+          ],
+          "answer": 0,
+          "explanation": "Verbal disputes arise from linguistic ambiguity or vagueness; factual disputes concern objective truth/falsity of factual claims[cite: 281, 282].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q13",
+          "question": "What is a TERM in logic?",
+          "options": [
+            "Any single word in a dictionary",
+            "Any word or arrangement of words that may serve as the subject of a statement (proper names, common names, descriptive phrases)",
+            "Any punctuation mark in a sentence",
+            "An exclamation or question"
+          ],
+          "answer": 1,
+          "explanation": "A term is any word or group of words that can serve as the subject of a proposition[cite: 282].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q14",
+          "question": "Which of the following expressions is NOT a term according to logical definitions?",
+          "options": [
+            "The Ethiopian Parliament",
+            "Those who study hard",
+            "Runs quickly into the forest",
+            "Abebe"
+          ],
+          "answer": 2,
+          "explanation": "'Runs quickly into the forest' consists of verbs, adverbs, and prepositions that cannot serve as the subject of a statement[cite: 283].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C03-Q15",
+          "question": "What is the difference between using a word and mentioning a word?",
+          "options": [
+            "Using a word applies it to an object; mentioning a word treats the word itself as the object of discourse (usually in quotes)",
+            "Mentioning a word makes it an argument",
+            "Using a word is always informal",
+            "There is no difference"
+          ],
+          "answer": 0,
+          "explanation": "A word is used to speak about things, but mentioned when the word itself is spoken about (e.g., 'Wherever' is an eight-letter word)[cite: 283].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q16",
+          "question": "What is the INTENSIONAL meaning (connotation) of a term?",
+          "options": [
+            "The individual physical members of the class denoted by the term",
+            "The qualities, attributes, or characteristics that the term connotes",
+            "The monetary market value of the object",
+            "The grammatical suffix of the word"
+          ],
+          "answer": 1,
+          "explanation": "Intensional meaning (connotation or sense) consists of the properties or attributes a term connotes[cite: 283].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q17",
+          "question": "What is the EXTENSIONAL meaning (denotation) of a term?",
+          "options": [
+            "The abstract qualities of the term",
+            "The members of the class that the term denotes",
+            "The emotional mood evoked by the term",
+            "The dictionary pronunciation of the term"
+          ],
+          "answer": 1,
+          "explanation": "Extensional meaning (denotation or reference) consists of the actual entities belonging to the class the term denotes[cite: 283].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q18",
+          "question": "What is 'conventional connotation' in logic?",
+          "options": [
+            "A person's idiosyncratic subjective emotions toward a word",
+            "The attributes that the term commonly calls forth in the minds of competent speakers of the language",
+            "The legal trademark registration of a word",
+            "The grammatical syntax of poetry"
+          ],
+          "answer": 1,
+          "explanation": "Conventional connotation avoids private subjective biases by focusing on shared attributes recognized by competent speakers[cite: 283, 284].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C03-Q19",
+          "question": "What does it mean for a term to have EMPTY EXTENSION?",
+          "options": [
+            "It has no intension and no meaning",
+            "It denotes the empty (null) class having no living or existing members (e.g., 'currently living dodo bird', 'unicorn')",
+            "It cannot be pronounced",
+            "It is an invalid argument"
+          ],
+          "answer": 1,
+          "explanation": "A term has empty extension when no physical members currently exist in the class it denotes, even though its intension is meaningful[cite: 284].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q20",
+          "question": "What is the fundamental rule governing the relationship between intension and extension?",
+          "options": [
+            "Extension determines intension",
+            "Intension determines extension",
+            "Intension and extension are always mutually exclusive",
+            "They vary randomly with the weather"
+          ],
+          "answer": 1,
+          "explanation": "Intension determines extension: the connoted attributes establish the criteria for determining class membership[cite: 284, 285].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q21",
+          "question": "Which of the following series of terms is arranged in the order of INCREASING INTENSION?",
+          "options": [
+            "Tiger, feline, mammal, animal",
+            "Animal, mammal, feline, tiger",
+            "Animal, tiger, mammal, feline",
+            "Feline, tiger, animal, mammal"
+          ],
+          "answer": 1,
+          "explanation": "Increasing intension moves from the most general to the most specific, adding attributes: animal -> mammal -> feline -> tiger[cite: 285].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q22",
+          "question": "Which of the following series of terms is arranged in the order of INCREASING EXTENSION?",
+          "options": [
+            "Animal, mammal, feline, tiger",
+            "Tiger, feline, mammal, animal",
+            "Tiger, animal, feline, mammal",
+            "Mammal, animal, tiger, feline"
+          ],
+          "answer": 1,
+          "explanation": "Increasing extension moves from smaller class sizes to larger class sizes: tiger -> feline -> mammal -> animal[cite: 285].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q23",
+          "question": "In logic, what are the two essential parts of every definition?",
+          "options": [
+            "Premise and conclusion",
+            "Definiendum (word to be defined) and definiens (group of words doing the defining)",
+            "Antecedent and consequent",
+            "Subject and predicate"
+          ],
+          "answer": 1,
+          "explanation": "Every definition consists of the definiendum (what is defined) and the definiens (what does the defining)[cite: 287].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q24",
+          "question": "What is a STIPULATIVE definition?",
+          "options": [
+            "A definition that reports the conventional dictionary meaning",
+            "A definition that assigns a meaning to a word for the first time (coining a new word or giving a new meaning to an old word)",
+            "A definition that reduces vagueness in legal courts",
+            "A definition that evokes negative emotions"
+          ],
+          "answer": 1,
+          "explanation": "A stipulative definition introduces a meaning to a symbol or word for the first time[cite: 288].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q25",
+          "question": "Can a stipulative definition be evaluated as strictly true or false?",
+          "options": [
+            "Yes, if it contradicts dictionary entries",
+            "No, because it is an arbitrary assignment of meaning, not an assertion of fact",
+            "Yes, if verified by an empirical experiment",
+            "Only if it is a mathematical equation"
+          ],
+          "answer": 1,
+          "explanation": "Because stipulative definitions assign meaning arbitrarily for the first time, they have no truth-value (cannot be true or false)[cite: 288, 289].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q26",
+          "question": "What is the primary purpose of a LEXICAL definition?",
+          "options": [
+            "To invent secret military codes",
+            "To report the meaning that a word already has in common usage and eliminate ambiguity",
+            "To establish speculative scientific theories",
+            "To manipulate public political attitudes"
+          ],
+          "answer": 1,
+          "explanation": "Lexical definitions report established usage in a language (like a dictionary) and prevent ambiguity[cite: 289].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q27",
+          "question": "What is the primary function of a PR\u00c9CISING definition?",
+          "options": [
+            "To evoke strong feelings of anger",
+            "To reduce the vagueness of a word so a decision can be reached in specific legal, medical, or technical contexts",
+            "To create fictional creatures",
+            "To replace an entire language"
+          ],
+          "answer": 1,
+          "explanation": "Pr\u00e9cising definitions reduce vagueness, clarifying borderline cases for specialized contexts like law or medicine[cite: 290].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q28",
+          "question": "Defining 'moment of death' as the cessation of brain activity as measured by an electroencephalograph is an example of:",
+          "options": [
+            "A persuasive definition",
+            "A pr\u00e9cising definition",
+            "A stipulative definition",
+            "An etymological definition"
+          ],
+          "answer": 1,
+          "explanation": "This establishes a precise boundary for medical and legal determinations, functioning as a pr\u00e9cising definition[cite: 290, 291].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q29",
+          "question": "What is a THEORETICAL definition?",
+          "options": [
+            "A definition assigning meaning by proposing a theory that characterizes the entity and suggests experimental consequences",
+            "A definition consisting of a single synonym",
+            "An emotional speech delivered in parliament",
+            "A demonstration pointing at a physical object"
+          ],
+          "answer": 0,
+          "explanation": "Theoretical definitions explain concepts (e.g., heat as molecular kinetic energy) in the context of an overarching theory[cite: 291].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q30",
+          "question": "A definition intended to engender a favorable or unfavorable emotional attitude toward the definiendum (e.g., 'Abortion means the ruthless murdering of innocent babies') is:",
+          "options": [
+            "A lexical definition",
+            "A persuasive definition",
+            "An operational definition",
+            "A demonstrative definition"
+          ],
+          "answer": 1,
+          "explanation": "Persuasive definitions use value-laden, emotive terms to influence attitudes toward the definiendum[cite: 292].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q31",
+          "question": "What is an extensional (denotative) definitional technique?",
+          "options": [
+            "Assigning meaning by indicating the individual members or subclasses of the class denoted by the term",
+            "Providing a single grammatical synonym",
+            "Tracing the Greek and Latin roots of a word",
+            "Specifying an experimental laboratory operation"
+          ],
+          "answer": 0,
+          "explanation": "Extensional techniques identify meaning by pointing to or naming the members of the class[cite: 293].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q32",
+          "question": "A definition in which the definiens consists at least partly of a physical gesture of pointing at an object is:",
+          "options": [
+            "An enumerative definition",
+            "A demonstrative (ostensive) definition",
+            "An etymological definition",
+            "A synonymous definition"
+          ],
+          "answer": 1,
+          "explanation": "Demonstrative or ostensive definitions define terms by physically pointing to instances of the object[cite: 293].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q33",
+          "question": "Defining 'Actor' as 'a person such as Abebe Balicha, Samsom Taddesse, or Mahder Assefa' is an example of:",
+          "options": [
+            "An operational definition",
+            "An enumerative definition",
+            "A definition by genus and difference",
+            "An etymological definition"
+          ],
+          "answer": 1,
+          "explanation": "Enumerative definitions assign meaning by naming individual members of the class denoted by the term[cite: 294].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q34",
+          "question": "Defining 'Tree' as 'an oak, pine, elm, spruce, or maple' is:",
+          "options": [
+            "A demonstrative definition",
+            "A definition by subclass",
+            "A theoretical definition",
+            "A synonymous definition"
+          ],
+          "answer": 1,
+          "explanation": "Definition by subclass identifies the meaning of a general term by naming specific subclasses within it[cite: 294, 295].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q35",
+          "question": "Why do all extensional definitions suffer from inherent deficiencies?",
+          "options": [
+            "Because extension determines intension",
+            "Because listing members cannot definitively communicate the intended intensional attributes (extensions suggest intensions, but cannot determine them)",
+            "Because no words can be defined extensionally",
+            "Because physical objects cannot be pointed at"
+          ],
+          "answer": 1,
+          "explanation": "Extensional definitions cannot guarantee that the listener understands the precise attributes meant by the term[cite: 295, 296].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C03-Q36",
+          "question": "What is a SYNONYMOUS definition?",
+          "options": [
+            "A definition where the definiens is a single word connoting the same attributes as the definiendum",
+            "A definition requiring a chemistry laboratory",
+            "A definition that traces linguistic root ancestry",
+            "A definition dividing a class into five subclasses"
+          ],
+          "answer": 0,
+          "explanation": "A synonymous definition equates the term with another single word sharing the same meaning (e.g., 'Physician' means doctor)[cite: 296].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q37",
+          "question": "An ETYMOLOGICAL definition assigns meaning by:",
+          "options": [
+            "Measuring brain waves",
+            "Disclosing the word's linguistic ancestry and root origins",
+            "Naming the members of a set",
+            "Pointing an index finger at a specimen"
+          ],
+          "answer": 1,
+          "explanation": "Etymological definitions trace a word's ancestral roots in its native or parent languages[cite: 297].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q38",
+          "question": "Which type of definition specifies experimental procedures that determine whether the term applies to a given phenomenon?",
+          "options": [
+            "Synonymous definition",
+            "Operational definition",
+            "Persuasive definition",
+            "Ostensive definition"
+          ],
+          "answer": 1,
+          "explanation": "Operational definitions define concepts through specific physical procedures or tests (e.g., litmus paper turning red)[cite: 297, 298].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q39",
+          "question": "In logic, what does 'definition by genus and difference' combine to define a species term?",
+          "options": [
+            "An emotional adjective and a verb",
+            "A relatively larger class term (genus) and the distinguishing attribute(s) (specific difference)",
+            "Two synonymous words",
+            "A proper name and a date"
+          ],
+          "answer": 1,
+          "explanation": "It identifies a broader category (genus) and the specific attribute that sets the subclass apart (difference)[cite: 298, 299].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q40",
+          "question": "In the definition ''Ice' means frozen water', what are the species, specific difference, and genus respectively?",
+          "options": [
+            "Species = frozen; difference = water; genus = ice",
+            "Species = ice; difference = frozen; genus = water",
+            "Species = water; difference = ice; genus = frozen",
+            "Species = ice; difference = water; genus = temperature"
+          ],
+          "answer": 1,
+          "explanation": "Ice is the species term, water is the broader genus, and frozen is the specific difference[cite: 299].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q41",
+          "question": "Why is 'A bird is any warm-blooded animal having wings' defective as a lexical definition?",
+          "options": [
+            "It is grammatically incorrect",
+            "It is too broad, because it mistakenly includes bats (which are mammals, not birds)",
+            "It is too narrow, because it excludes robins",
+            "It is intrinsically circular"
+          ],
+          "answer": 1,
+          "explanation": "The definition is too broad: the definiens applies to bats, which are warm-blooded and have wings[cite: 301].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C03-Q42",
+          "question": "Why is 'A bird is any warm-blooded, feathered animal that can fly' defective as a lexical definition?",
+          "options": [
+            "It is too broad",
+            "It is too narrow, because it excludes flightless birds such as ostriches and penguins",
+            "It contains affective language",
+            "It is an operational definition"
+          ],
+          "answer": 1,
+          "explanation": "The definition is too narrow: it fails to include birds that cannot fly, such as ostriches[cite: 301, 302].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C03-Q43",
+          "question": "The pair of definitions ''Science' means the activity engaged in by scientists' and ''Scientist' means anyone who engages in science' violates which rule of lexical definition?",
+          "options": [
+            "Avoid obscure language",
+            "Avoid circularity",
+            "Be affirmative rather than negative",
+            "Indicate the context"
+          ],
+          "answer": 1,
+          "explanation": "These definitions are circular: each term is defined entirely in terms of the other[cite: 302].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q44",
+          "question": "Defining 'Concord' as 'the absence of discord' violates which lexical rule when an affirmative definition ('harmony') is available?",
+          "options": [
+            "Conform to proper grammar",
+            "Avoid circularity",
+            "A lexical definition should not be negative when it can be affirmative",
+            "Avoid technical language"
+          ],
+          "answer": 2,
+          "explanation": "Definitions should be affirmative whenever possible, rather than defining something merely by what it lacks[cite: 302].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q45",
+          "question": "Defining 'Camel' as 'a ship of the desert' violates which rule of lexical definition?",
+          "options": [
+            "Avoid circularity",
+            "Avoid figurative or metaphorical language",
+            "Avoid narrowness",
+            "Indicate the context"
+          ],
+          "answer": 1,
+          "explanation": "Metaphorical or figurative descriptions paint pictures rather than conveying literal essential meanings[cite: 303].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q46",
+          "question": "Defining 'Bunny' as 'a mammalian of the family Leporidae of the order Lagomorpha' violates the rule against:",
+          "options": [
+            "Negative definitions",
+            "Obscure and needlessly technical language",
+            "Circularity",
+            "Grammatical incorrectness"
+          ],
+          "answer": 1,
+          "explanation": "Overly technical, obscure language should be avoided for common, non-technical words[cite: 303].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q47",
+          "question": "A definition stating ''Communism' means that brilliant invention of Karl Marx and other foolish visionaries...' violates the rule against:",
+          "options": [
+            "Avoid affective and emotionally sarcastic terminology",
+            "Conform to grammar",
+            "Avoid broad definitions",
+            "Indicate the context"
+          ],
+          "answer": 0,
+          "explanation": "Affective terminology plays on emotions through sarcasm and biases rather than giving objective meaning[cite: 304].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q48",
+          "question": "Why do definitions of words like 'Strike' require explicit reference to the context to which the definiens pertains?",
+          "options": [
+            "Because 'Strike' has empty extension",
+            "Because 'Strike' has distinctly different meanings in baseball, bowling, and industrial labor",
+            "Because 'Strike' is an invalid syllogism",
+            "Because 'Strike' has no intensional meaning"
+          ],
+          "answer": 1,
+          "explanation": "Rule 8 specifies that words with different contextual meanings must indicate their specialized domain[cite: 304].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q49",
+          "question": "Can proper names serve as terms according to the rules of logic?",
+          "options": [
+            "No, only common nouns can be terms",
+            "Yes, proper names can serve as the subject of a statement and denote individuals",
+            "Only if they are written in Greek",
+            "Only when used as adverbs"
+          ],
+          "answer": 1,
+          "explanation": "Proper names (e.g., 'Abebe', 'The Ethiopian Parliament') are terms because they serve as subjects of propositions[cite: 282, 284].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q50",
+          "question": "When pure silicon turns into an acid in a chemistry problem, defining an acid as 'having a pH of less than 7' fails to be an operational definition because:",
+          "options": [
+            "It is completely false",
+            "It prescribes no specific physical or experimental operation to be performed",
+            "It is an enumerative definition",
+            "It is too narrow"
+          ],
+          "answer": 1,
+          "explanation": "An operational definition must specify an action or test (such as immersing litmus paper); stating a value alone is not an operation[cite: 297, 298].",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "Basic Concepts of Critical Thinking",
+      "questions": [
+        {
+          "id": "C04-Q01",
+          "question": "How is critical thinking fundamentally defined in the module?",
+          "options": [
+            "The passive memorization and recitation of facts on examinations",
+            "A wide range of cognitive skills and intellectual dispositions needed to effectively identify, analyze, and evaluate arguments and truth claims",
+            "The habit of aggressively criticizing other people's personal character",
+            "The unquestioning acceptance of established traditions"
+          ],
+          "answer": 1,
+          "explanation": "Critical thinking encompasses cognitive skills and intellectual dispositions to evaluate claims and overcome biases[cite: 310].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q02",
+          "question": "How did American philosopher John Dewey define critical thinking?",
+          "options": [
+            "The memorization of encyclopedic knowledge",
+            "Active, persistent, and careful consideration of a belief or supposed knowledge in light of the grounds supporting it and further conclusions to which it tends",
+            "Unreflective, impulsive reaction to daily life events",
+            "Thinking that seeks to maximize personal financial profit"
+          ],
+          "answer": 1,
+          "explanation": "Dewey defined critical thinking as an active, persistent, and careful examination of beliefs and their supporting grounds[cite: 311].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q03",
+          "question": "Why did John Dewey characterize critical thinking as an 'active' process?",
+          "options": [
+            "It involves physical jogging while studying",
+            "The thinker raises questions, gathers evidence, and thinks things through for oneself rather than passively receiving information from others",
+            "It makes rapid decisions without reflection",
+            "It rejects all forms of reading"
+          ],
+          "answer": 1,
+          "explanation": "For Dewey, active thinking means questioning and reasoning independently rather than passively absorbing external claims[cite: 311].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q04",
+          "question": "How did Robert Ennis define critical thinking in his influential contribution to the field?",
+          "options": [
+            "Mechanical deduction based on symbolic tables",
+            "Reasonable, reflective thinking focused on deciding what to believe or do",
+            "The automatic acceptance of authoritative dogmas",
+            "Thinking that avoids all forms of practical decision-making"
+          ],
+          "answer": 1,
+          "explanation": "Robert Ennis defined critical thinking as reasonable, reflective thinking focused on deciding what to believe or do[cite: 312].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q05",
+          "question": "What is 'meta-cognition' in Richard Paul's conception of critical thinking?",
+          "options": [
+            "Thinking about one's own thinking, with the aim of consciously improving its quality against intellectual standards",
+            "Memorizing neurological anatomy",
+            "A form of mystical extrasensory perception",
+            "Subconscious wishful thinking"
+          ],
+          "answer": 0,
+          "explanation": "Meta-cognition is 'thinking about one's thinking', consciously monitoring and improving its rationality[cite: 312].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q06",
+          "question": "Why do some theorists use the term 'criticocreative' thinking instead of simply critical thinking?",
+          "options": [
+            "Because critical thinking requires artistic painting",
+            "To emphasize that good critical evaluation is not just negative fault-finding, but requires creative imagination to formulate alternative hypotheses and perspectives",
+            "To indicate that critical thinking is entirely emotional",
+            "Because critical thinking avoids logical rules"
+          ],
+          "answer": 1,
+          "explanation": "'Criticocreative' highlights that evaluating ideas requires creativity to envision alternative scenarios, points of view, and solutions[cite: 313, 314].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C04-Q07",
+          "question": "Which critical thinking standard is considered the 'gateway standard', without which one cannot evaluate accuracy or relevance?",
+          "options": [
+            "Consistency",
+            "Clarity",
+            "Completeness",
+            "Fairness"
+          ],
+          "answer": 1,
+          "explanation": "Clarity is the gateway standard: if an assertion is unclear or vague, one cannot determine whether it is true, accurate, or relevant[cite: 315].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q08",
+          "question": "The standard of PRECISION in critical thinking involves:",
+          "options": [
+            "Speaking in broad, hazy generalities",
+            "Insisting on exact, detailed, and careful answers to specific questions",
+            "Using emotional appeals to convince audiences",
+            "Rejecting all mathematical models"
+          ],
+          "answer": 1,
+          "explanation": "Precision requires cutting through ambiguities by demanding specific, exact details and careful distinctions[cite: 316].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q09",
+          "question": "How does John Rawls describe the primary importance of truth (accuracy) in 'A Theory of Justice'?",
+          "options": [
+            "Truth is secondary to political consensus",
+            "Truth is the first virtue of systems of thought; an elegant theory must be rejected or revised if it is untrue",
+            "Truth is entirely a subjective matter of opinion",
+            "Truth depends on the speaker's status"
+          ],
+          "answer": 1,
+          "explanation": "Rawls emphasized that no matter how elegant a theory is, it must be rejected if it lacks truth and accuracy[cite: 316].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C04-Q10",
+          "question": "The critical thinking standard of RELEVANCE focuses on:",
+          "options": [
+            "Raising sensational topics to distract listeners",
+            "Ensuring that statements have a genuine logical connection and bearing on the specific issue at hand",
+            "Gathering massive quantities of unrelated trivia",
+            "Verifying the monetary value of evidence"
+          ],
+          "answer": 1,
+          "explanation": "Relevance demands that ideas and evidence bear directly upon the truth or merit of the claim being evaluated[cite: 317].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q11",
+          "question": "What is the difference between logical inconsistency and practical inconsistency?",
+          "options": [
+            "Logical involves saying or believing contradictory things; practical involves saying one thing and doing another (hypocrisy)",
+            "Logical applies to science; practical applies to grammar",
+            "Practical is always conscious; logical is always accidental",
+            "There is no difference"
+          ],
+          "answer": 0,
+          "explanation": "Logical inconsistency is holding contradictory beliefs; practical inconsistency is a contradiction between one's professed beliefs and actual actions[cite: 317].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q12",
+          "question": "The standard of FAIRNESS in critical thinking demands that our thinking be:",
+          "options": [
+            "Biased exclusively toward our family and ethnic group",
+            "Open-minded, impartial, and free of distorting self-interest or preconceptions",
+            "Hostile to unfamiliar ideas",
+            "Governed entirely by peer pressure"
+          ],
+          "answer": 1,
+          "explanation": "Fairness requires treating all relevant viewpoints impartially without privileging self-serving biases[cite: 319].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q13",
+          "question": "According to the STRUCTURAL PRINCIPLE of a good argument:",
+          "options": [
+            "An argument must contain at least five paragraphs",
+            "An argument must be structurally well-formed, using premises that do not contradict each other or the conclusion, and drawing no invalid inferences",
+            "An argument must be phrased in Latin",
+            "An argument must use rhetorical questions"
+          ],
+          "answer": 1,
+          "explanation": "The structural principle requires that premises are mutually compatible and lead legitimately to the conclusion without contradiction[cite: 320, 321].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q14",
+          "question": "The RELEVANCE PRINCIPLE of a good argument requires an arguer to:",
+          "options": [
+            "Provide reasons whose truth provides actual evidence or counts in favor of the conclusion",
+            "Use only arguments from famous authorities",
+            "Appeal to the audience's deep emotional pity",
+            "Avoid deductive syllogisms"
+          ],
+          "answer": 0,
+          "explanation": "The relevance principle states that an arguer must present only reasons that bear directly upon the truth of the conclusion[cite: 321].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q15",
+          "question": "Why is the term 'acceptable' preferred over the traditional term 'true' in the ACCEPTABILITY PRINCIPLE of good arguments?",
+          "options": [
+            "Because truth does not exist",
+            "Because absolute truth is notoriously difficult to establish conclusively in informal discussions, making 'accepted as true by a rational person' more practical",
+            "Because acceptability allows an arguer to use obvious lies",
+            "Because logic rejects factual claims"
+          ],
+          "answer": 1,
+          "explanation": "Acceptability is practical: it requires reasons that a mature, rational person would accept in light of available evidence[cite: 322].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C04-Q16",
+          "question": "The SUFFICIENCY PRINCIPLE of a good argument requires that:",
+          "options": [
+            "An arguer present at least ten separate premises",
+            "The premises provided are sufficient in number, kind, and weight to justify acceptance of the conclusion",
+            "The premises be identical to the conclusion",
+            "The argument omit all counter-evidence"
+          ],
+          "answer": 1,
+          "explanation": "The sufficiency principle requires that relevant and acceptable reasons carry enough collective weight to justify the conclusion[cite: 323].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q17",
+          "question": "The REBUTTAL PRINCIPLE requires a good argument to:",
+          "options": [
+            "Attack the opponent's moral character directly",
+            "Anticipate and effectively respond to serious criticisms and counterarguments brought against the position",
+            "Ignore all objections raised by critics",
+            "Change the topic of discussion to something flashy"
+          ],
+          "answer": 1,
+          "explanation": "A complete, good argument must anticipate and effectively refute serious counterarguments[cite: 323, 324].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q18",
+          "question": "The FALLIBILITY PRINCIPLE in critical thinking requires each participant to:",
+          "options": [
+            "Insist that their own personal beliefs are 100% infallible",
+            "Acknowledge that one's own initial position may be wrong or not the most defensible view on the issue",
+            "Refuse to listen to opponents",
+            "Accept every argument presented without scrutiny"
+          ],
+          "answer": 1,
+          "explanation": "The fallibility principle requires an honest admission that one might be mistaken, which is essential for rational discussion[cite: 325].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q19",
+          "question": "What does the BURDEN OF PROOF PRINCIPLE require in a rational discussion?",
+          "options": [
+            "The listener must always disprove any claim made by the speaker",
+            "The burden of proof rests on the participant who sets forth a position, who is obligated to produce reasons if challenged",
+            "No one is ever required to give evidence",
+            "The oldest person in the room carries the burden of proof"
+          ],
+          "answer": 1,
+          "explanation": "Anyone making a positive or negative claim has the logical obligation to provide supporting reasons when asked[cite: 326, 327].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q20",
+          "question": "What does the PRINCIPLE OF CHARITY require when reformulating an opponent's argument?",
+          "options": [
+            "Distorting the argument into a ridiculous caricature to defeat it easily",
+            "Expressing the opponent's argument in its strongest possible version consistent with their original intention",
+            "Donating money to the opponent before arguing",
+            "Ignoring all the opponent's premises"
+          ],
+          "answer": 1,
+          "explanation": "Charity requires evaluating the best, strongest interpretation of an opponent's argument[cite: 327].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q21",
+          "question": "The SUSPENSION OF JUDGMENT PRINCIPLE states that:",
+          "options": [
+            "One should always make a snap judgment immediately",
+            "If no position is defended by a good argument, or competing positions are defended with equal strength, one should suspend judgment",
+            "One should flip a coin to decide complex ethical issues",
+            "Judges in courtrooms should never issue verdicts"
+          ],
+          "answer": 1,
+          "explanation": "When evidence is insufficient or evenly balanced on both sides, suspending judgment is the rational response[cite: 327, 328].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q22",
+          "question": "The RESOLUTION PRINCIPLE states that an issue should be considered settled when:",
+          "options": [
+            "The loudest arguer silences the room",
+            "An argument for one position is structurally sound, uses relevant and acceptable reasons sufficient to justify the conclusion, and provides effective rebuttals",
+            "The government bans all further discussion of the topic",
+            "Both sides agree to disagree permanently"
+          ],
+          "answer": 1,
+          "explanation": "An issue is resolved when an argument fulfills all criteria of a good argument and out-reasons competing alternatives[cite: 328].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q23",
+          "question": "Which of the following is a basic intellectual trait of a CRITICAL thinker?",
+          "options": [
+            "Pretending to know more than one actually does",
+            "Being honest with oneself, acknowledging limitations, and being watchful of personal errors",
+            "Regarding controversial issues as annoying threats to one's ego",
+            "Basing decisions entirely on first impressions and gut reactions"
+          ],
+          "answer": 1,
+          "explanation": "Critical thinkers practice intellectual honesty, recognizing their ignorance and revising judgments in the face of evidence[cite: 330, 331].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q24",
+          "question": "Which of the following is a characteristic trait of an UNCRITICAL thinker?",
+          "options": [
+            "Remaining patient with complexity and investing time to understand issues",
+            "Being impatient with complexity and preferring confusion over the effort to understand",
+            "Striving to see both sides of an issue",
+            "Thinking before acting"
+          ],
+          "answer": 1,
+          "explanation": "Uncritical thinkers are impatient with complex nuance, clinging stubbornly to initial impressions[cite: 331].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q25",
+          "question": "What is EGOCENTRISM as a major barrier to critical thinking?",
+          "options": [
+            "The tendency to view reality as centered entirely on oneself, viewing one's own interests and values as superior to others",
+            "A healthy self-confidence in public speaking",
+            "The practice of meditation",
+            "An academic study of ego psychology"
+          ],
+          "answer": 0,
+          "explanation": "Egocentrism is self-centered thinking that evaluates reality solely based on personal desires and interests[cite: 334].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q26",
+          "question": "The tendency to accept and defend beliefs merely because they harmonize with one's personal self-interest is:",
+          "options": [
+            "Sociocentrism",
+            "Self-interested thinking",
+            "Objective reasoning",
+            "Logical deduction"
+          ],
+          "answer": 1,
+          "explanation": "Self-interested thinking rationalizes that 'this benefits me, therefore it must be true or good'[cite: 334].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q27",
+          "question": "SUPERIORITY BIAS (the better-than-average effect) refers to:",
+          "options": [
+            "The tendency to overrate oneself and see oneself as better than one actually is",
+            "The pursuit of higher academic grades",
+            "An advanced stage of moral development",
+            "A form of formal logical inference"
+          ],
+          "answer": 0,
+          "explanation": "Superiority bias is an inflated self-assessment where an individual believes they are exceptionally immune to error[cite: 335].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q28",
+          "question": "SOCIOCENTRISM is best defined as:",
+          "options": [
+            "Thinking that is focused exclusively on empirical sociology",
+            "Group-centered thinking that hinders rational reflection by focusing excessively on one's own group",
+            "An altruistic concern for human welfare",
+            "The study of ancient civil societies"
+          ],
+          "answer": 1,
+          "explanation": "Sociocentrism distorts thinking through excessive loyalty, group bias, and social conformity[cite: 335].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q29",
+          "question": "The tendency to view one's own tribe, nation, religion, or social group as inherently superior to outsider groups is:",
+          "options": [
+            "Group bias",
+            "Individualism",
+            "Skepticism",
+            "Philosophical realism"
+          ],
+          "answer": 0,
+          "explanation": "Group bias is 'mine-is-better' thinking applied to one's social collective or nation[cite: 335].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q30",
+          "question": "CONFORMISM as a psychological barrier refers to:",
+          "options": [
+            "The tendency to unthinkingly follow the crowd, group standards, or authority figures",
+            "Conforming to the rigorous rules of categorical logic",
+            "Building identical geometric structures",
+            "The habit of independent critical thinking"
+          ],
+          "answer": 0,
+          "explanation": "Conformism is surrendering one's judgment to conform to peer pressure, groupthink, or authority[cite: 336].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q31",
+          "question": "What is an UNWARRANTED ASSUMPTION?",
+          "options": [
+            "An assumption that has been verified by mathematical calculation",
+            "Something taken for granted without good reason or evidence, preventing clear perception",
+            "A reasonable hypothesis used in science",
+            "A legal warranty accompanying a purchased product"
+          ],
+          "answer": 1,
+          "explanation": "Unwarranted assumptions are beliefs taken for granted without adequate justification, clouding objective judgment[cite: 336, 337].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q32",
+          "question": "How are STEREOTYPES typically formed in human cognition?",
+          "options": [
+            "Through exhaustive double-blind scientific research",
+            "Through a process of hasty generalization, drawing sweeping conclusions about an entire group from a tiny sample",
+            "By consulting official demographic censuses",
+            "Through deductive categorical syllogisms"
+          ],
+          "answer": 1,
+          "explanation": "Stereotypes assume all members of a group are stamped from the same plate, usually born of hasty generalizations[cite: 337].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q33",
+          "question": "RELATIVISTIC THINKING is the philosophical view that:",
+          "options": [
+            "Truth is absolute and eternally constant",
+            "Truth is merely a matter of opinion (individual or cultural) rather than objective reality",
+            "Einstein's physics applies to human biology",
+            "Only statements verified in laboratories are true"
+          ],
+          "answer": 1,
+          "explanation": "Relativism claims that there is no objective or absolute truth; truth is whatever an individual or culture believes it to be[cite: 337, 338].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q34",
+          "question": "What is the difference between SUBJECTIVISM and CULTURAL RELATIVISM?",
+          "options": [
+            "Subjectivism claims truth is relative to individual opinion; cultural relativism claims truth is relative to social/cultural consensus",
+            "Subjectivism applies to physics; cultural relativism applies to religion",
+            "Cultural relativism asserts absolute universal morality",
+            "There is no difference"
+          ],
+          "answer": 0,
+          "explanation": "Subjectivism makes individual opinion the measure of truth; cultural relativism bases truth on societal agreement[cite: 337, 338].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q35",
+          "question": "Why does widespread disagreement over moral issues fail to prove that morality is merely relative opinion?",
+          "options": [
+            "Because everyone secretly agrees on all ethical questions",
+            "Just as persistent disagreement in religion or science does not prove there is no objective truth, disagreement in ethics does not rule out objective moral truth",
+            "Because ethics can be mathematically calculated",
+            "Because moral opinions cannot be spoken aloud"
+          ],
+          "answer": 1,
+          "explanation": "Disagreement alone does not imply the absence of objective truth; complex subjects naturally generate disagreement[cite: 339, 340].",
+          "difficulty": "hard"
+        },
+        {
+          "id": "C04-Q36",
+          "question": "Why does cultural relativism fail to provide a genuine defense of the value of TOLERANCE?",
+          "options": [
+            "Because cultural relativism outlaws all cultures",
+            "If a culture's accepted norms happen to be intolerant, relativism implies that members of that culture ought to be intolerant",
+            "Because tolerance is an invalid syllogism",
+            "Because all cultures practice universal tolerance"
+          ],
+          "answer": 1,
+          "explanation": "If truth is defined by culture, then an intolerant society's intolerance is 'morally right' for that society, undermining universal tolerance[cite: 340].",
+          "difficulty": "hard"
+        },
+        {
+          "id": "C04-Q37",
+          "question": "WISHFUL THINKING refers to:",
+          "options": [
+            "Formulating ambitious career goals based on realistic self-assessment",
+            "Believing something not because you have good evidence for it, but simply because you wish it were true",
+            "The scientific testing of hypotheses",
+            "A form of deductive conditional statement"
+          ],
+          "answer": 1,
+          "explanation": "Wishful thinking embraces comforting beliefs (myths, quack cures) driven by desire rather than evidence[cite: 341].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q38",
+          "question": "How does critical thinking improve performance in the university classroom?",
+          "options": [
+            "By eliminating the need to take examinations",
+            "By developing skills to understand arguments, evaluate them critically, and defend well-supported positions of one's own",
+            "By ensuring automatic high grades without studying",
+            "By teaching students how to memorize lectures word-for-word"
+          ],
+          "answer": 1,
+          "explanation": "Critical thinking equips students to analyze complex textbooks, evaluate arguments, and construct defensible academic papers[cite: 342, 343].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q39",
+          "question": "What is meant by describing critical thinking as a 'transferable skill'?",
+          "options": [
+            "It can only be used in philosophy departments",
+            "Skills learned in critical thinking (evaluating sources, structuring arguments) easily apply to other subjects, careers, and personal decisions",
+            "It can be transferred to a computer hard drive",
+            "It transfers college credits to foreign universities"
+          ],
+          "answer": 1,
+          "explanation": "Critical thinking skills transfer seamlessly across diverse academic disciplines, workplace challenges, and personal contexts[cite: 343].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q40",
+          "question": "Why is critical thinking essential for sustaining a healthy democratic society?",
+          "options": [
+            "Because citizens must vote blindly for incumbents",
+            "Because democratic governance requires informed, rational citizens capable of evaluating competing public policies and rejecting propaganda",
+            "Because democracy eliminates all social disagreements",
+            "Because critical thinking allows governments to censor news"
+          ],
+          "answer": 1,
+          "explanation": "In democracies, the people decide public affairs; without critical thinking, citizens fall prey to demagoguery and corruption[cite: 344].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q41",
+          "question": "Which barrier to critical thinking involves blaming an innocent person or group for problems caused by other factors?",
+          "options": [
+            "Scapegoating",
+            "Rationalization",
+            "Provincialism",
+            "Relativism"
+          ],
+          "answer": 0,
+          "explanation": "Scapegoating is an uncritical psychological defense mechanism that unjustly casts blame upon the innocent[cite: 334].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q42",
+          "question": "RATIONALIZATION is defined as:",
+          "options": [
+            "The process of applying valid deductive logic",
+            "Inventing plausible-sounding excuses to justify actions and avoid facing our true motives",
+            "Calculating mathematical fractions",
+            "An open-minded search for truth"
+          ],
+          "answer": 1,
+          "explanation": "Rationalization is fabricating excuses to disguise one's real, often self-interested, motivations[cite: 334].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q43",
+          "question": "Martin Luther King Jr. famously asserted that the true function of education is to teach one to think:",
+          "options": [
+            "Quickly and emotionally",
+            "Intensively and critically",
+            "Passively and obediently",
+            "Technically and commercially"
+          ],
+          "answer": 1,
+          "explanation": "Martin Luther King Jr. proclaimed: 'The function of education is to teach one to think intensively and to think critically'[cite: 309].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q44",
+          "question": "What is the primary difference between college/university education and high school learning as described in the module?",
+          "options": [
+            "High schools emphasize critical thinking; colleges emphasize passive memorization",
+            "High schools often emphasize lower-order thinking (absorbing and repeating facts); universities foster higher-order critical thinking",
+            "Universities require no reading",
+            "High school teachers never give tests"
+          ],
+          "answer": 1,
+          "explanation": "Higher education focuses on active, intelligent evaluation of claims (higher-order thinking) rather than rote regurgitation[cite: 309].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q45",
+          "question": "How does critical thinking liberate individuals from societal conditioning?",
+          "options": [
+            "By encouraging complete social anarchy",
+            "By allowing individuals to step back from cultural customs and ask 'This is what I have been taught, but is it actually true?'",
+            "By erasing historical memory",
+            "By making people indifferent to morality"
+          ],
+          "answer": 1,
+          "explanation": "Critical thinking frees people from passive conditioning, enabling self-directed, examined lives[cite: 344].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q46",
+          "question": "In the context of critical thinking standards, COMPLETENESS implies:",
+          "options": [
+            "A preference for thorough, deep, and comprehensive analysis over shallow, superficial treatments",
+            "Writing a book that exceeds 1,000 pages",
+            "Including every irrelevant fact in existence",
+            "Never reaching a conclusion"
+          ],
+          "answer": 0,
+          "explanation": "Completeness values deep, thorough exploration of an issue over hasty, superficial glances[cite: 319].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q47",
+          "question": "What does LOGICAL CORRECTNESS require of a critical thinker?",
+          "options": [
+            "The ability to memorize foreign vocabulary",
+            "Drawing well-founded conclusions that legitimately follow from accurate and well-supported beliefs",
+            "Blind trust in gut intuitions",
+            "Rejecting all deductive structures"
+          ],
+          "answer": 1,
+          "explanation": "Logical correctness means reasoning validly or inductively strongly from premises to conclusions[cite: 319].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q48",
+          "question": "Why is 'Garbage in, garbage out' an apt analogy for human critical thinking regarding ACCURACY?",
+          "options": [
+            "Computers are superior to human brains",
+            "No matter how brilliant your reasoning process is, if your premises are false, your practical decisions will likely be disastrous",
+            "Critical thinking deals exclusively with waste management",
+            "Accuracy is an irrelevant standard"
+          ],
+          "answer": 1,
+          "explanation": "Flawed, inaccurate factual inputs guarantee flawed, misleading conclusions, regardless of reasoning skill[cite: 316].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q49",
+          "question": "The TRUTH-SEEKING PRINCIPLE in critical thinking discussions requires participants to:",
+          "options": [
+            "Defend one's established opinions at all costs",
+            "Be earnestly committed to finding the truth or most defensible position, seriously examining alternative views",
+            "Conceal weaknesses in one's argument",
+            "Interrupt opponents during debate"
+          ],
+          "answer": 1,
+          "explanation": "Truth-seeking requires genuine, honest inquiry and willingness to entertain alternative viewpoints[cite: 325, 326].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q50",
+          "question": "Can high general intelligence (IQ) guarantee that an individual will automatically think critically?",
+          "options": [
+            "Yes, high IQ individuals never make reasoning errors",
+            "No, highly intelligent people often fall prey to egocentrism, rationalization, and sophisticated defense of unwarranted biases",
+            "Yes, critical thinking is identical to mathematical speed",
+            "No, only uneducated people can think critically"
+          ],
+          "answer": 1,
+          "explanation": "Being smart or intelligent does not automatically confer critical thinking skills or intellectual humility[cite: 310, 334].",
+          "difficulty": "classic"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "Informal Fallacies",
+      "questions": [
+        {
+          "id": "C05-Q01",
+          "question": "How is a FALLACY broadly defined in logic?",
+          "options": [
+            "A statement that is factually false",
+            "A defect or logical flaw in an argument that consists in something other than merely false premises",
+            "A polite disagreement between friends",
+            "A purely grammatical spelling error"
+          ],
+          "answer": 1,
+          "explanation": "A fallacy is a defect in the reasoning or structure of an argument that undermines its logical force[cite: 347, 349].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q02",
+          "question": "What is the fundamental difference between a FORMAL fallacy and an INFORMAL fallacy?",
+          "options": [
+            "Formal fallacies occur only in inductive logic; informal in deduction",
+            "Formal fallacies are detected by inspecting the structural form of deductive arguments; informal fallacies require analyzing the specific content and meaning",
+            "Formal fallacies are written; informal are spoken",
+            "There is no difference"
+          ],
+          "answer": 1,
+          "explanation": "Formal fallacies are structural defects in deductive arguments; informal fallacies stem from content, language, or misdirection[cite: 347, 350].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q03",
+          "question": "In which kind of arguments do formal fallacies exclusively occur?",
+          "options": [
+            "Inductive causal inferences",
+            "Deductive arguments that have identifiable standard forms (categorical, hypothetical syllogisms)",
+            "Everyday casual conversations",
+            "Scientific predictions"
+          ],
+          "answer": 1,
+          "explanation": "Formal fallacies occur strictly in deductive arguments possessing identifiable logical structures[cite: 347, 350].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q04",
+          "question": "What common characteristic defines the FALLACIES OF RELEVANCE?",
+          "options": [
+            "The premises are mathematically false",
+            "The premises are logically irrelevant to the conclusion, though often psychologically or emotionally compelling",
+            "The argument contains no conclusion",
+            "The conclusion is an identical repetition of the premise"
+          ],
+          "answer": 1,
+          "explanation": "In fallacies of relevance, the premises have emotional or psychological appeal but lack genuine logical bearing on the conclusion[cite: 353].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q05",
+          "question": "Which fallacy occurs when an arguer threatens physical or psychological harm to force acceptance of a conclusion?",
+          "options": [
+            "Appeal to pity (ad misericordiam)",
+            "Appeal to force (argumentum ad baculum)",
+            "Straw man fallacy",
+            "Red herring fallacy"
+          ],
+          "answer": 1,
+          "explanation": "Argumentum ad baculum ('appeal to the stick') uses implicit or explicit threats to impose a conclusion[cite: 354].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q06",
+          "question": "'Mr. Kebede, you must drop the fraud charges against me. Remember, I am your former boss, and I will torture your family if you don't.' What fallacy is committed?",
+          "options": [
+            "Appeal to force",
+            "Accident",
+            "Appeal to vanity",
+            "Missing the point"
+          ],
+          "answer": 0,
+          "explanation": "This argument uses an explicit physical threat rather than evidence, committing the appeal to force fallacy[cite: 354].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q07",
+          "question": "What is the APPEAL TO PITY (argumentum ad misericordiam) fallacy?",
+          "options": [
+            "An argument attempting to support a conclusion merely by evoking feelings of sympathy and pity when they are logically irrelevant",
+            "An argument that provides statistical data on hospital patients",
+            "An argument using threats of arrest",
+            "A valid deduction in medical ethics"
+          ],
+          "answer": 0,
+          "explanation": "Appeal to pity tries to win acceptance for a conclusion by playing on sympathy rather than relevant qualifications or facts[cite: 355].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q08",
+          "question": "'The accounting department headship should be given to Oumer; he has six hungry children and his wife needs urgent eye surgery.' What fallacy is committed?",
+          "options": [
+            "Appeal to pity",
+            "Straw man",
+            "Ad hominem abusive",
+            "Red herring"
+          ],
+          "answer": 0,
+          "explanation": "A person's difficult personal situation, though sad, is logically irrelevant to academic leadership qualifications[cite: 356].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q09",
+          "question": "Are all appeals to compassion or pity fallacious in practical human affairs?",
+          "options": [
+            "Yes, compassion is never relevant to logic",
+            "No, appeals to compassion are legitimate when helping victims of disasters or those in distress through factors beyond their control",
+            "Yes, showing pity violates categorical syllogisms",
+            "Only in courtrooms"
+          ],
+          "answer": 1,
+          "explanation": "Appeals to compassion are legitimate social justifications for assisting victims of disasters who are not responsible for their plight[cite: 356, 357].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C05-Q10",
+          "question": "The DIRECT approach in the APPEAL TO THE PEOPLE (argumentum ad populum) fallacy involves:",
+          "options": [
+            "Addressing an individual privately",
+            "Exciting the emotions and enthusiasm of a large crowd to win collective acceptance for a conclusion (mob mentality)",
+            "Conducting a telephone opinion survey",
+            "Applying geometric theorems"
+          ],
+          "answer": 1,
+          "explanation": "The direct approach arouses mass euphoria, enthusiasm, and mob mentality in large gatherings[cite: 358].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q11",
+          "question": "Which variety of the indirect appeal to the people argues that 'The majority of people accept X, therefore you should accept X to fit in'?",
+          "options": [
+            "Appeal to snobbery",
+            "Bandwagon fallacy",
+            "Appeal to vanity",
+            "Tu quoque"
+          ],
+          "answer": 1,
+          "explanation": "The bandwagon fallacy exploits the desire to conform to group majority behavior[cite: 359].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q12",
+          "question": "An advertisement showing a famous athlete wearing a specific brand of shoes with the implied message 'Wear these and you too will be admired' commits:",
+          "options": [
+            "Appeal to vanity",
+            "Appeal to snobbery",
+            "Straw man",
+            "Missing the point"
+          ],
+          "answer": 0,
+          "explanation": "Appeal to vanity associates a product with an admired, glamorous celebrity to seduce consumers[cite: 359].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q13",
+          "question": "An advertisement claiming 'Gebeta Guder wine is not for the common masses; it is only for the elite few who are truly distinguished' commits:",
+          "options": [
+            "Appeal to force",
+            "Appeal to snobbery",
+            "Bandwagon fallacy",
+            "Ad hominem abusive"
+          ],
+          "answer": 1,
+          "explanation": "Appeal to snobbery plays on the desire to be regarded as superior, elite, and distinct from the masses[cite: 359, 360].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q14",
+          "question": "What characterizes an ARGUMENT AGAINST THE PERSON (argumentum ad hominem)?",
+          "options": [
+            "An arguer attacks the logical validity of an opponent's syllogism",
+            "A respondent directs attention away from an opponent's argument to attack the opponent personally",
+            "An arguer presents an inductive generalization",
+            "An arguer quotes an authoritative textbook"
+          ],
+          "answer": 1,
+          "explanation": "Ad hominem attacks the character, circumstances, or motives of the person making the argument rather than the argument's substance[cite: 361, 362].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q15",
+          "question": "Dismissing an opponent's proposal for animal welfare laws by saying 'He is a divorced drunk who cannot even manage his own home' commits:",
+          "options": [
+            "Ad hominem abusive",
+            "Ad hominem circumstantial",
+            "Tu quoque",
+            "Straw man"
+          ],
+          "answer": 0,
+          "explanation": "Ad hominem abusive heaps verbal insults on an opponent's personal background to discredit their claim[cite: 362, 363].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q16",
+          "question": "Dismissing Emperor Haile Selassie's appeal to the League of Nations by asserting 'He only argues this way because he wants to preserve his personal throne' commits:",
+          "options": [
+            "Ad hominem circumstantial",
+            "Ad hominem abusive",
+            "Straw man",
+            "Appeal to pity"
+          ],
+          "answer": 0,
+          "explanation": "Ad hominem circumstantial discredits an argument by pointing to the speaker's personal circumstances or vested interests[cite: 363].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q17",
+          "question": "A patient telling a physician 'How dare you advise me to stop smoking when you yourself smoke a pack a day!' commits:",
+          "options": [
+            "Ad hominem abusive",
+            "Tu quoque ('you too') fallacy",
+            "Accident",
+            "Red herring"
+          ],
+          "answer": 1,
+          "explanation": "Tu quoque rejects an argument by alleging that the arguer is hypocritical or fails to practice what they preach[cite: 364].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q18",
+          "question": "Can an ad hominem argument ever be legitimate in real-world contexts?",
+          "options": [
+            "No, it is always a grave logical error",
+            "Yes, in courtroom cross-examinations, questioning a witness's past record of lying or veracity is legitimate to evaluate credibility",
+            "Only when arguing about mathematics",
+            "Yes, whenever one wants to win a political debate"
+          ],
+          "answer": 1,
+          "explanation": "In legal testimony where a claim rests solely on a witness's honesty, challenging their character for veracity is legitimate[cite: 364, 365].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C05-Q19",
+          "question": "The fallacy of ACCIDENT is committed when:",
+          "options": [
+            "A general rule is misapplied to a specific case that has accidental features making it an exception to the rule",
+            "A person accidentally drops their notes",
+            "An arguer makes a hasty generalization from a tiny sample",
+            "An argument uses obscure words"
+          ],
+          "answer": 0,
+          "explanation": "Accident applies a general principle (e.g., freedom of speech) to an exceptional case it was not meant to govern (inciting a violent riot)[cite: 366].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q20",
+          "question": "'Freedom of speech is constitutionally guaranteed. Therefore, the radical speaker who incited a violent riot last night should not be arrested.' What fallacy is committed?",
+          "options": [
+            "Straw man",
+            "Fallacy of accident",
+            "Hasty generalization",
+            "Missing the point"
+          ],
+          "answer": 1,
+          "explanation": "The general right to free speech does not protect inciting violence; applying the general rule here commits the fallacy of accident[cite: 366].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q21",
+          "question": "The STRAW MAN fallacy occurs when an arguer:",
+          "options": [
+            "Burns a field of wheat",
+            "Distorts, exaggerates, or misrepresents an opponent's argument, defeats the distorted version, and claims the opponent's real argument is refuted",
+            "Threatens an opponent with physical injury",
+            "Uses a valid deductive form"
+          ],
+          "answer": 1,
+          "explanation": "Straw man sets up a weak caricature of an opponent's view, knocks it down, and falsely claims victory[cite: 366, 367].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q22",
+          "question": "The straw man fallacy represents a direct violation of which critical thinking principle?",
+          "options": [
+            "The fallibility principle",
+            "The principle of charity",
+            "The burden of proof principle",
+            "The resolution principle"
+          ],
+          "answer": 1,
+          "explanation": "The principle of charity requires presenting an opponent's view in its strongest light; straw man does the exact opposite[cite: 327, 367].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C05-Q23",
+          "question": "The fallacy of MISSING THE POINT (ignoratio elenchi) is committed when:",
+          "options": [
+            "The premises logically imply one specific, clear conclusion, but an entirely different, poorly connected conclusion is drawn",
+            "The arguer uses a pencil with no point",
+            "The premises are completely false",
+            "An arguer changes the subject to sex or crime"
+          ],
+          "answer": 0,
+          "explanation": "Missing the point occurs when an arguer fails to see the real implication of their premises and draws an uncalled-for conclusion[cite: 368].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q24",
+          "question": "The RED HERRING fallacy gets its name from:",
+          "options": [
+            "A red-colored fish used in oceanic navigation",
+            "A training technique where a pungent smoked fish is dragged across a trail to distract hunting dogs from the original scent",
+            "A communist political movement",
+            "An ancient Egyptian hieroglyphic symbol"
+          ],
+          "answer": 1,
+          "explanation": "Red herrings (pungent smoked fish) were dragged across trails to test whether hunting hounds could avoid being led astray[cite: 369].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q25",
+          "question": "How does an arguer commit a RED HERRING fallacy?",
+          "options": [
+            "By subtly diverting attention away from the original subject to a different, often flashy topic, and concluding that the original issue is resolved",
+            "By offering financial bribes to listeners",
+            "By proving a conclusion mathematically",
+            "By pointing out that the premise is true"
+          ],
+          "answer": 0,
+          "explanation": "Red herring derails the conversation by substituting a new topic (scandal, gossip) to distract the audience[cite: 369, 370].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q26",
+          "question": "How are RED HERRING and STRAW MAN distinguished from MISSING THE POINT?",
+          "options": [
+            "Missing the point generates new premises; straw man does not",
+            "Red herring and straw man proceed by generating a new set of premises (by changing the subject or distorting an argument); missing the point draws an irrelevant conclusion from the original premises",
+            "Missing the point is always valid",
+            "There is no distinction"
+          ],
+          "answer": 1,
+          "explanation": "Straw man and red herring shift ground to new premises, whereas missing the point draws the wrong conclusion from original premises[cite: 370].",
+          "difficulty": "hard"
+        },
+        {
+          "id": "C05-Q27",
+          "question": "How is STRAW MAN distinguished from RED HERRING?",
+          "options": [
+            "Straw man distorts an opponent's actual argument; red herring changes the subject entirely and often does not require an opposing argument",
+            "Red herring always involves two people",
+            "Straw man is an inductive generalization",
+            "They are completely identical"
+          ],
+          "answer": 0,
+          "explanation": "Straw man attacks a misrepresented version of an argument; red herring abandons the topic for a distracting alternative[cite: 370].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C05-Q28",
+          "question": "What common flaw characterizes FALLACIES OF WEAK INDUCTION?",
+          "options": [
+            "The premises are deductive categorical propositions",
+            "The connection between premises and conclusion is not strong enough to support the conclusion, providing inadequate probabilistic weight",
+            "The premises contain grammatical double negatives",
+            "The conclusion is an empty class"
+          ],
+          "answer": 1,
+          "explanation": "Fallacies of weak induction occur when inductive premises provide insufficient probabilistic evidence to justify the conclusion.",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q29",
+          "question": "The APPEAL TO UNQUALIFIED AUTHORITY (argumentum ad verecundiam) fallacy occurs when:",
+          "options": [
+            "An arguer cites a leading expert in their established field of expertise",
+            "A cited authority lacks genuine expertise, credibility, or objectivity in the specific field under discussion",
+            "An arguer consults an updated dictionary",
+            "An arguer cites a peer-reviewed scientific paper"
+          ],
+          "answer": 1,
+          "explanation": "Ad verecundiam appeals to a witness or authority who lacks relevant competence or is biased[cite: 253].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q30",
+          "question": "The APPEAL TO IGNORANCE (argumentum ad ignorantiam) fallacy occurs when:",
+          "options": [
+            "An arguer admits they do not know the answer",
+            "It is argued that a claim is true simply because no one has proved it false (or false because no one has proved it true)",
+            "An uneducated person speaks in public",
+            "An arguer uses an ambiguous term"
+          ],
+          "answer": 1,
+          "explanation": "Appeal to ignorance uses lack of proof or evidence as positive proof for the truth or falsity of an assertion[cite: 327].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q31",
+          "question": "Which of the following is an exception where an appeal to lack of evidence does NOT commit an ad ignorantiam fallacy?",
+          "options": [
+            "In criminal court proceedings where a defendant is presumed innocent until proven guilty beyond a reasonable doubt",
+            "In astrological horoscopes",
+            "In commercial advertising campaigns",
+            "In political mudslinging"
+          ],
+          "answer": 0,
+          "explanation": "In law, the legal presumption of innocence is a protective procedural standard, not an epistemological fallacy.",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C05-Q32",
+          "question": "The HASTY GENERALIZATION (converse accident) fallacy is committed when:",
+          "options": [
+            "An arguer moves from a general rule to an exceptional case",
+            "A general conclusion about an entire population is drawn from a sample that is either too small or unrepresentative",
+            "An arguer speaks too quickly during a lecture",
+            "A valid deductive syllogism has true premises"
+          ],
+          "answer": 1,
+          "explanation": "Hasty generalization leaps to a sweeping conclusion about a group based on an inadequate sample[cite: 337].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q33",
+          "question": "'I met two people from country X and both were rude. Therefore, everyone from country X is rude.' What fallacy is committed?",
+          "options": [
+            "Hasty generalization",
+            "Fallacy of accident",
+            "Ad hominem circumstantial",
+            "Missing the point"
+          ],
+          "answer": 0,
+          "explanation": "Drawing a conclusion about an entire national populace from a sample of two is a classic hasty generalization[cite: 337].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q34",
+          "question": "The POST HOC ERGO PROPTER HOC ('after this, therefore because of this') fallacy occurs when an arguer:",
+          "options": [
+            "Concludes that one event caused another simply because the first event preceded the second chronologically in time",
+            "Uses a Latin dictionary",
+            "Proves a geometric theorem",
+            "Cites an eyewitness under oath"
+          ],
+          "answer": 0,
+          "explanation": "Post hoc confuses mere temporal sequence with true physical cause and effect.",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q35",
+          "question": "'A black cat crossed my path this morning, and two hours later I failed my exam. The black cat caused my failure.' What fallacy is committed?",
+          "options": [
+            "Post hoc ergo propter hoc (false cause)",
+            "Slippery slope",
+            "Fallacy of accident",
+            "Appeal to pity"
+          ],
+          "answer": 0,
+          "explanation": "Assuming temporal succession establishes causality is the post hoc false cause fallacy.",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q36",
+          "question": "The SLIPPERY SLOPE fallacy occurs when an arguer claims without evidence that:",
+          "options": [
+            "A physical hill is icy",
+            "A single innocent first step will inevitably trigger a disastrous, uncontrollable chain reaction of events",
+            "All politicians are honest",
+            "Deductive syllogisms are invalid"
+          ],
+          "answer": 1,
+          "explanation": "Slippery slope asserts that taking one step will unavoidably lead down a slope to catastrophe without proving the causal links.",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q37",
+          "question": "The WEAK ANALOGY fallacy is committed when:",
+          "options": [
+            "Two things being compared share no relevant similarities, or the points of dissimilarity outweigh the similarities",
+            "An arguer refuses to use metaphors",
+            "An argument is valid",
+            "The premises are true"
+          ],
+          "answer": 0,
+          "explanation": "Weak analogy occurs when an inductive argument depends on an analogy that is too superficial to support the conclusion[cite: 253].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q38",
+          "question": "The BEGGING THE QUESTION (petitio principii) fallacy occurs when an arguer:",
+          "options": [
+            "Asks a polite question in class",
+            "Assumes the truth of the very conclusion they are trying to prove, creating a circular argument",
+            "Pleads for money on the street",
+            "Quotes a medical journal"
+          ],
+          "answer": 1,
+          "explanation": "Begging the question assumes as a premise the very conclusion in dispute, arguing in a circle[cite: 320].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q39",
+          "question": "'Murder is morally wrong. Therefore, abortion is morally wrong because abortion is murder.' What fallacy is committed?",
+          "options": [
+            "Begging the question (circular reasoning)",
+            "Red herring",
+            "Fallacy of accident",
+            "Weak analogy"
+          ],
+          "answer": 0,
+          "explanation": "Calling abortion 'murder' in the premise covertly assumes the conclusion that abortion is wrongful killing[cite: 320].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C05-Q40",
+          "question": "The COMPLEX QUESTION fallacy occurs when:",
+          "options": [
+            "A physics exam question is very difficult",
+            "Two or more questions are combined into a single query, where any simple answer confirms an incriminating presupposition",
+            "An arguer asks a rhetorical question",
+            "An argument uses three premises"
+          ],
+          "answer": 1,
+          "explanation": "Complex questions (e.g., 'Have you stopped beating your wife?') trap respondents by presupposing guilt.",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q41",
+          "question": "The FALSE DICHOTOMY fallacy is committed when:",
+          "options": [
+            "An arguer presents two alternative options as if they were exhaustive, hiding other viable possibilities ('Either you are with us or against us')",
+            "A person chooses a major in college",
+            "An argument contains a conditional statement",
+            "A syllogism has two true premises"
+          ],
+          "answer": 0,
+          "explanation": "False dichotomy creates a bogus 'either-or' dilemma, ignoring intermediate or alternative choices.",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q42",
+          "question": "The SUPPRESSED EVIDENCE fallacy occurs when an inductive argument:",
+          "options": [
+            "Uses a secret code",
+            "Ignores or conceals critical, relevant evidence that outweighs the given evidence and entails a different conclusion",
+            "Is written in an ancient language",
+            "Has true premises"
+          ],
+          "answer": 1,
+          "explanation": "Suppressed evidence violates the total evidence requirement by hiding critical facts that undermine the conclusion[cite: 265].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C05-Q43",
+          "question": "The fallacy of EQUIVOCATION occurs when:",
+          "options": [
+            "An arguer speaks with a horse voice",
+            "A key word or phrase is used in two or more completely different senses within the premises and conclusion of an argument",
+            "An argument has invalid deductive form",
+            "The conclusion is a tautology"
+          ],
+          "answer": 1,
+          "explanation": "Equivocation exploits semantic ambiguity: a word shifts meaning between premises (e.g., 'plants' as factory vs. vegetation)[cite: 352].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q44",
+          "question": "'All factories are plants. All plants contain chlorophyll. Therefore, all factories contain chlorophyll.' What fallacy is committed?",
+          "options": [
+            "Equivocation",
+            "Amphiboly",
+            "Composition",
+            "Division"
+          ],
+          "answer": 0,
+          "explanation": "The term 'plants' shifts from industrial building in premise 1 to biological flora in premise 2[cite: 352].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q45",
+          "question": "The fallacy of AMPHIBOLY occurs when an arguer:",
+          "options": [
+            "Misinterprets a statement whose ambiguity results from faulty sentence structure, misplaced modifiers, or loose grammar",
+            "Studies amphibians in biology",
+            "Uses an emotional vocabulary",
+            "Draws an invalid mathematical inference"
+          ],
+          "answer": 0,
+          "explanation": "Amphiboly arises from structural, grammatical ambiguity in an entire sentence rather than a single word.",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q46",
+          "question": "The fallacy of COMPOSITION is committed when an arguer erroneously infers that:",
+          "options": [
+            "What is true of an entire whole must be true of each of its parts",
+            "What is true of the individual parts must also be true of the assembled whole",
+            "A musician cannot write a musical composition",
+            "Words have no cognitive meaning"
+          ],
+          "answer": 1,
+          "explanation": "Composition falsely transfers an attribute from individual components to the entire entity as a whole.",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q47",
+          "question": "'Every part of this machine is lightweight. Therefore, the entire machine is lightweight.' What fallacy is committed?",
+          "options": [
+            "Fallacy of composition",
+            "Fallacy of division",
+            "Equivocation",
+            "Accident"
+          ],
+          "answer": 0,
+          "explanation": "Assembling thousands of lightweight parts can result in a very heavy machine; this commits the fallacy of composition.",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q48",
+          "question": "The fallacy of DIVISION is committed when an arguer erroneously infers that:",
+          "options": [
+            "What is true of the parts must be true of the whole",
+            "What is true of an entire whole must necessarily be true of each of its individual parts",
+            "Math division cannot be performed by computers",
+            "A categorical proposition has four components"
+          ],
+          "answer": 1,
+          "explanation": "Division is the reverse of composition: it wrongly assumes that attributes of an entire collective belong to every constituent part.",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q49",
+          "question": "'This Boeing 747 airplane can fly across the ocean. Therefore, each engine bolt in this airplane can fly across the ocean.' What fallacy is committed?",
+          "options": [
+            "Fallacy of division",
+            "Fallacy of composition",
+            "Hasty generalization",
+            "Amphiboly"
+          ],
+          "answer": 0,
+          "explanation": "The attribute of flying across the ocean belongs to the whole aircraft, not to an isolated bolt; this is division.",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q50",
+          "question": "How does HASTY GENERALIZATION differ from the fallacy of COMPOSITION?",
+          "options": [
+            "Hasty generalization proceeds from a small sample of a class to all members of that class; composition proceeds from parts of an integrated physical whole to the whole itself",
+            "Hasty generalization is deductive; composition is inductive",
+            "They are completely identical in every respect",
+            "Composition applies only to books"
+          ],
+          "answer": 0,
+          "explanation": "Hasty generalization concerns membership in a general class; composition concerns the physical parts of a structured whole.",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "Categorical Propositions",
+      "questions": [
+        {
+          "id": "C06-Q01",
+          "question": "What is a CATEGORICAL PROPOSITION in formal logic?",
+          "options": [
+            "A proposition asserting an 'if-then' conditional relation",
+            "A proposition that relates two classes, or categories, denoted by subject and predicate terms",
+            "An emotional expression of personal belief",
+            "A proposition that lacks any quantity"
+          ],
+          "answer": 1,
+          "explanation": "A categorical proposition asserts a relationship of inclusion or exclusion between two classes denoted by subject and predicate terms[cite: 221, 223].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q02",
+          "question": "What are the four standard forms of categorical propositions?",
+          "options": [
+            "P, Q, R, and S",
+            "All S are P (A), No S are P (E), Some S are P (I), Some S are not P (O)",
+            "If S then P, Either S or P, S and P, Not S",
+            "True, False, Valid, Sound"
+          ],
+          "answer": 1,
+          "explanation": "The four standard forms are denoted by letters A, E, I, and O[cite: 223].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q03",
+          "question": "What letter designation is assigned to the Universal Affirmative proposition ('All S are P')?",
+          "options": [
+            "A",
+            "E",
+            "I",
+            "O"
+          ],
+          "answer": 0,
+          "explanation": "'All S are P' is traditionally designated as an 'A' proposition (from Latin Affirmo)[cite: 223].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q04",
+          "question": "What letter designation is assigned to the Universal Negative proposition ('No S are P')?",
+          "options": [
+            "A",
+            "E",
+            "I",
+            "O"
+          ],
+          "answer": 1,
+          "explanation": "'No S are P' is designated as an 'E' proposition (from Latin Nego)[cite: 223].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q05",
+          "question": "What letter designation is assigned to the Particular Affirmative proposition ('Some S are P')?",
+          "options": [
+            "A",
+            "E",
+            "I",
+            "O"
+          ],
+          "answer": 2,
+          "explanation": "'Some S are P' is designated as an 'I' proposition[cite: 223].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q06",
+          "question": "What letter designation is assigned to the Particular Negative proposition ('Some S are not P')?",
+          "options": [
+            "A",
+            "E",
+            "I",
+            "O"
+          ],
+          "answer": 3,
+          "explanation": "'Some S are not P' is designated as an 'O' proposition[cite: 223].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q07",
+          "question": "What are the four structural components of every standard-form categorical proposition?",
+          "options": [
+            "Premise, conclusion, inference, indicator",
+            "Quantifier, subject term, copula, and predicate term",
+            "Antecedent, consequent, operator, variable",
+            "Major term, minor term, middle term, mood"
+          ],
+          "answer": 1,
+          "explanation": "Standard-form propositions consist of: Quantifier ('All', 'No', 'Some') + Subject term + Copula ('are', 'are not') + Predicate term[cite: 225].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q08",
+          "question": "In the proposition 'All emeralds are green gems', what is the COPULA?",
+          "options": [
+            "All",
+            "emeralds",
+            "are",
+            "green gems"
+          ],
+          "answer": 2,
+          "explanation": "The copula is the linking verb 'are' (or 'are not') connecting subject and predicate[cite: 225].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q09",
+          "question": "What are the only three standard QUANTIFIERS recognized in categorical logic?",
+          "options": [
+            "Many, few, several",
+            "All, No, Some",
+            "Every, none, each",
+            "Always, never, sometimes"
+          ],
+          "answer": 1,
+          "explanation": "Standard-form categorical logic permits only three quantifiers: 'All', 'No', and 'Some'[cite: 225].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q10",
+          "question": "What does the quantifier 'SOME' mean strictly in formal logic?",
+          "options": [
+            "Almost all",
+            "At least one",
+            "Exactly two",
+            "A majority"
+          ],
+          "answer": 1,
+          "explanation": "In logic, 'Some' means 'at least one member of the class exists'[cite: 225].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q11",
+          "question": "What is the QUALITY of a categorical proposition?",
+          "options": [
+            "Whether it is well-written or poorly written",
+            "Whether it is affirmative (affirming class membership) or negative (denying class membership)",
+            "Whether it is universal or particular",
+            "Whether its subject is distributed"
+          ],
+          "answer": 1,
+          "explanation": "Quality refers to whether a proposition is affirmative (A, I) or negative (E, O)[cite: 227].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q12",
+          "question": "What is the QUANTITY of a categorical proposition?",
+          "options": [
+            "The number of letters in the sentence",
+            "Whether it is universal (referring to all members of the subject class) or particular (referring to some members)",
+            "Whether it is true or false",
+            "The monetary cost of publication"
+          ],
+          "answer": 1,
+          "explanation": "Quantity refers to whether the claim pertains to all members (universal: A, E) or part of the members (particular: I, O)[cite: 227].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q13",
+          "question": "What is the quality and quantity of an 'A' proposition ('All S are P')?",
+          "options": [
+            "Particular Affirmative",
+            "Universal Affirmative",
+            "Universal Negative",
+            "Particular Negative"
+          ],
+          "answer": 1,
+          "explanation": "An 'A' proposition is Universal in quantity and Affirmative in quality[cite: 227].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q14",
+          "question": "What is the quality and quantity of an 'E' proposition ('No S are P')?",
+          "options": [
+            "Universal Negative",
+            "Universal Affirmative",
+            "Particular Negative",
+            "Particular Affirmative"
+          ],
+          "answer": 0,
+          "explanation": "An 'E' proposition is Universal in quantity and Negative in quality[cite: 227].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q15",
+          "question": "What is the quality and quantity of an 'I' proposition ('Some S are P')?",
+          "options": [
+            "Particular Affirmative",
+            "Universal Affirmative",
+            "Particular Negative",
+            "Universal Negative"
+          ],
+          "answer": 0,
+          "explanation": "An 'I' proposition is Particular in quantity and Affirmative in quality[cite: 227].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q16",
+          "question": "What is the quality and quantity of an 'O' proposition ('Some S are not P')?",
+          "options": [
+            "Universal Negative",
+            "Particular Negative",
+            "Particular Affirmative",
+            "Universal Affirmative"
+          ],
+          "answer": 1,
+          "explanation": "An 'O' proposition is Particular in quantity and Negative in quality[cite: 227].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q17",
+          "question": "What does DISTRIBUTION mean regarding terms in a categorical proposition?",
+          "options": [
+            "How widely a book is circulated in libraries",
+            "A term is distributed if the proposition makes an assertion about every member of the class denoted by that term",
+            "A term is distributed if it has an even number of syllables",
+            "A term is distributed only when true"
+          ],
+          "answer": 1,
+          "explanation": "Distribution attributes a claim to all members of a class denoted by a subject or predicate term[cite: 227].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q18",
+          "question": "Which terms are distributed in an 'A' proposition ('All S are P')?",
+          "options": [
+            "Both Subject and Predicate",
+            "Subject is distributed; Predicate is undistributed",
+            "Predicate is distributed; Subject is undistributed",
+            "Neither term is distributed"
+          ],
+          "answer": 1,
+          "explanation": "In an A proposition, 'All S' distributes the Subject, but not all P are asserted, so Predicate is undistributed[cite: 227].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C06-Q19",
+          "question": "Which terms are distributed in an 'E' proposition ('No S are P')?",
+          "options": [
+            "Subject only",
+            "Both Subject and Predicate terms are distributed",
+            "Predicate only",
+            "Neither term"
+          ],
+          "answer": 1,
+          "explanation": "In an E proposition, all members of S are excluded from all members of P; both terms are distributed[cite: 227].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C06-Q20",
+          "question": "Which terms are distributed in an 'I' proposition ('Some S are P')?",
+          "options": [
+            "Subject only",
+            "Predicate only",
+            "Both terms",
+            "Neither Subject nor Predicate term is distributed"
+          ],
+          "answer": 3,
+          "explanation": "In an I proposition, only part of S and part of P are related; neither term is distributed[cite: 227].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C06-Q21",
+          "question": "Which terms are distributed in an 'O' proposition ('Some S are not P')?",
+          "options": [
+            "Subject is distributed; Predicate is undistributed",
+            "Predicate is distributed; Subject is undistributed",
+            "Both terms are distributed",
+            "Neither term is distributed"
+          ],
+          "answer": 1,
+          "explanation": "In an O proposition, the subject is particular (undistributed), while the entire predicate class is excluded (distributed)[cite: 227].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C06-Q22",
+          "question": "What mnemonic device summarizes the distribution of terms in A, E, I, and O propositions?",
+          "options": [
+            "BARBARA",
+            "Unconditionals",
+            "A distributes Subject; E distributes Both; I distributes Neither; O distributes Predicate",
+            "Venn-Boole diagram"
+          ],
+          "answer": 2,
+          "explanation": "A = Subject only; E = Both; I = Neither; O = Predicate only[cite: 227].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q23",
+          "question": "In a Venn diagram for categorical propositions, what does SHADING an area represent?",
+          "options": [
+            "That the area contains an infinite number of members",
+            "That the shaded area is completely empty (no members exist in that region)",
+            "That at least one member exists in that region",
+            "That the proposition is invalid"
+          ],
+          "answer": 1,
+          "explanation": "In Venn diagrams, shading represents emptiness (null class)[cite: 231].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q24",
+          "question": "In a Venn diagram, what does placing an 'X' in an area represent?",
+          "options": [
+            "That the area is empty",
+            "That at least one entity exists in that region",
+            "That the argument is fallacious",
+            "That the proposition is universal"
+          ],
+          "answer": 1,
+          "explanation": "An 'X' in a Venn diagram signifies existence: at least one member exists in that region[cite: 231].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q25",
+          "question": "How is an 'A' proposition ('All S are P') diagrammed using two overlapping circles S and P?",
+          "options": [
+            "Placing an X in the center intersection",
+            "Shading the crescent area of S that lies outside of P",
+            "Shading the entire P circle",
+            "Shading the center overlap"
+          ],
+          "answer": 1,
+          "explanation": "To represent 'All S are P', the part of circle S that is outside P is shaded (asserting no S exists without being P)[cite: 231].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C06-Q26",
+          "question": "How is an 'E' proposition ('No S are P') diagrammed in a two-circle Venn diagram?",
+          "options": [
+            "Shading the central overlapping intersection of S and P",
+            "Placing an X in the crescent of S",
+            "Shading the entire S circle",
+            "Placing an X in the center"
+          ],
+          "answer": 0,
+          "explanation": "'No S are P' asserts that nothing exists in the intersection of S and P, so the overlapping region is shaded[cite: 231].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C06-Q27",
+          "question": "How is an 'I' proposition ('Some S are P') diagrammed in a Venn diagram?",
+          "options": [
+            "Shading the overlapping region",
+            "Placing an 'X' in the overlapping intersection of S and P",
+            "Placing an 'X' outside both circles",
+            "Shading the S crescent"
+          ],
+          "answer": 1,
+          "explanation": "'Some S are P' asserts that at least one member belongs to both S and P, represented by an 'X' in the overlap[cite: 231].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C06-Q28",
+          "question": "How is an 'O' proposition ('Some S are not P') diagrammed in a Venn diagram?",
+          "options": [
+            "Placing an 'X' in the crescent of circle S outside of circle P",
+            "Shading the overlap of S and P",
+            "Placing an 'X' in the P circle",
+            "Shading all of circle S"
+          ],
+          "answer": 0,
+          "explanation": "'Some S are not P' asserts at least one member exists in S outside P, represented by an 'X' in the S crescent[cite: 231].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C06-Q29",
+          "question": "What is the core difference between the ARISTOTELIAN (traditional) and BOOLEAN (modern) interpretations of categorical propositions?",
+          "options": [
+            "Aristotle rejected categorical logic entirely",
+            "The Boolean interpretation adopts existential presuppositionlessness (universal propositions A and E make no claim about actual existence), whereas Aristotle assumed existential import for universal claims about existing things",
+            "Boole rejected Venn diagrams",
+            "There is no difference"
+          ],
+          "answer": 1,
+          "explanation": "Boole's modern view treats universal propositions as making no existential claims, whereas traditional Aristotelian logic assumes universal statements about real things imply existence[cite: 233, 234].",
+          "difficulty": "hard"
+        },
+        {
+          "id": "C06-Q30",
+          "question": "On the Modern Square of Opposition (Boolean), what is the ONLY valid relationship that holds between propositions?",
+          "options": [
+            "Subalternation",
+            "Contradiction (between A and O, and between E and I)",
+            "Contrariety",
+            "Subcontrariety"
+          ],
+          "answer": 1,
+          "explanation": "In the modern Boolean square, only the diagonal CONTRADICTORY relations are valid[cite: 233].",
+          "difficulty": "hard"
+        },
+        {
+          "id": "C06-Q31",
+          "question": "If proposition A ('All S are P') is TRUE on the Modern Square of Opposition, what is the truth-value of proposition O ('Some S are not P')?",
+          "options": [
+            "True",
+            "False",
+            "Undetermined",
+            "Valid"
+          ],
+          "answer": 1,
+          "explanation": "Contradictory statements must have opposite truth-values; if A is true, O must be false[cite: 233].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q32",
+          "question": "If proposition E ('No S are P') is FALSE on the Modern Square of Opposition, what is the truth-value of proposition I ('Some S are P')?",
+          "options": [
+            "False",
+            "True",
+            "Undetermined",
+            "Invalid"
+          ],
+          "answer": 1,
+          "explanation": "E and I are contradictories; if E is false, I must be true[cite: 233].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q33",
+          "question": "What is the CONTRARY relationship on the Traditional (Aristotelian) Square of Opposition?",
+          "options": [
+            "The relationship between A and E: both cannot be true simultaneously, though both can be false",
+            "The relationship between I and O",
+            "The relationship between A and I",
+            "The diagonal relationship"
+          ],
+          "answer": 0,
+          "explanation": "Contraries (A and E) cannot both be true; if one is true, the other must be false (though both may be false)[cite: 234].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C06-Q34",
+          "question": "What is the SUBCONTRARY relationship on the Traditional Square of Opposition?",
+          "options": [
+            "The relationship between A and E",
+            "The relationship between I and O: both cannot be false simultaneously, though both can be true",
+            "The vertical relationship",
+            "The diagonal relationship"
+          ],
+          "answer": 1,
+          "explanation": "Subcontraries (I and O) cannot both be false; at least one must be true[cite: 234].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C06-Q35",
+          "question": "What is the SUBALTERNATION relationship on the Traditional Square of Opposition?",
+          "options": [
+            "The vertical relationship between universal (A, E) and particular (I, O): truth trickles down, falsity floats up",
+            "The diagonal contradiction",
+            "The horizontal relation between A and E",
+            "The relationship between subject and predicate"
+          ],
+          "answer": 0,
+          "explanation": "Subalternation links universal to particular: if A is true, I is true; if I is false, A is false[cite: 234, 235].",
+          "difficulty": "hard"
+        },
+        {
+          "id": "C06-Q36",
+          "question": "What is an IMMEDIATE INFERENCE in categorical logic?",
+          "options": [
+            "An argument that contains five premises",
+            "An inference drawn directly from a single premise to a conclusion without a second premise",
+            "A hasty emotional generalization",
+            "An unproved assumption"
+          ],
+          "answer": 1,
+          "explanation": "An immediate inference draws a conclusion directly from one single premise[cite: 237].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q37",
+          "question": "What logical operation is CONVERSION in categorical logic?",
+          "options": [
+            "Changing the quality and replacing the predicate with its complement",
+            "Interchanging the subject term with the predicate term",
+            "Replacing all letters with numbers",
+            "Negating the entire proposition"
+          ],
+          "answer": 1,
+          "explanation": "Conversion simply swaps the positions of the subject and predicate terms[cite: 242].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q38",
+          "question": "For which two categorical propositions is simple CONVERSION logically valid (yielding equivalent statements)?",
+          "options": [
+            "A and O propositions",
+            "E and I propositions",
+            "A and E propositions",
+            "I and O propositions"
+          ],
+          "answer": 1,
+          "explanation": "Conversion is valid for E ('No S are P' \u2261 'No P are S') and I ('Some S are P' \u2261 'Some P are S') propositions[cite: 242, 243].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q39",
+          "question": "Converting an 'A' proposition ('All S are P' into 'All P are S') commits which formal fallacy?",
+          "options": [
+            "Illicit conversion",
+            "Illicit obversion",
+            "Illicit contraposition",
+            "Straw man"
+          ],
+          "answer": 0,
+          "explanation": "Converting an A proposition without limitation is invalid and commits illicit conversion[cite: 243].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q40",
+          "question": "What is conversion by LIMITATION in the traditional Aristotelian square?",
+          "options": [
+            "Converting 'All S are P' into 'Some P are S'",
+            "Converting 'No S are P' into 'All S are P'",
+            "Converting an O proposition into an A proposition",
+            "Deleting the copula"
+          ],
+          "answer": 0,
+          "explanation": "Conversion by limitation changes the universal A into a particular I while interchanging terms[cite: 243].",
+          "difficulty": "hard"
+        },
+        {
+          "id": "C06-Q41",
+          "question": "What two steps are required to perform OBVERSION on a categorical proposition?",
+          "options": [
+            "Interchange subject and predicate, then add an X",
+            "Change the quality of the proposition, and replace the predicate term with its class complement",
+            "Change the quantity from universal to particular",
+            "Shade the subject circle"
+          ],
+          "answer": 1,
+          "explanation": "Obversion: 1) Change quality (affirmative to negative, or vice versa); 2) Replace predicate P with non-P[cite: 244].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q42",
+          "question": "For which categorical propositions is OBVERSION logically valid?",
+          "options": [
+            "Only A and E",
+            "All four propositions: A, E, I, and O",
+            "Only I and O",
+            "None of the propositions"
+          ],
+          "answer": 1,
+          "explanation": "Obversion is valid for all four standard forms (A, E, I, and O)[cite: 244].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q43",
+          "question": "What is the obverse of 'All dogs are animals'?",
+          "options": [
+            "No dogs are animals",
+            "No dogs are non-animals",
+            "Some dogs are non-animals",
+            "All animals are dogs"
+          ],
+          "answer": 1,
+          "explanation": "Change quality ('All... are' becomes 'No... are') and replace 'animals' with 'non-animals': 'No dogs are non-animals'[cite: 244].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C06-Q44",
+          "question": "What two steps are required to perform CONTRAPOSITION on a categorical proposition?",
+          "options": [
+            "Interchange the subject and predicate terms, and replace BOTH terms with their respective class complements",
+            "Change the quality from negative to affirmative",
+            "Shade the entire universe",
+            "Convert and obvert five times"
+          ],
+          "answer": 0,
+          "explanation": "Contraposition: swap subject and predicate, and replace each with its complement (S and P become non-P and non-S)[cite: 246].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q45",
+          "question": "For which categorical propositions is CONTRAPOSITION logically valid?",
+          "options": [
+            "A and O propositions",
+            "E and I propositions",
+            "A and E propositions",
+            "I and O propositions"
+          ],
+          "answer": 0,
+          "explanation": "Contraposition is valid for A and O propositions[cite: 246, 247].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q46",
+          "question": "Performing contraposition on an 'E' proposition ('No S are P' into 'No non-P are non-S') commits which formal fallacy?",
+          "options": [
+            "Illicit contraposition",
+            "Illicit conversion",
+            "Begging the question",
+            "Fallacy of division"
+          ],
+          "answer": 0,
+          "explanation": "Contraposition is invalid for E propositions and commits the fallacy of illicit contraposition[cite: 247].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q47",
+          "question": "What is the contrapositive of 'All musicians are artists'?",
+          "options": [
+            "All artists are musicians",
+            "All non-artists are non-musicians",
+            "No musicians are non-artists",
+            "Some non-artists are non-musicians"
+          ],
+          "answer": 1,
+          "explanation": "Interchange terms and complement both: 'All non-artists are non-musicians'[cite: 246].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C06-Q48",
+          "question": "What is the CLASS COMPLEMENT of the term 'dog'?",
+          "options": [
+            "Puppy",
+            "Non-dog (everything in the universe that is not a dog)",
+            "Cat",
+            "Animal"
+          ],
+          "answer": 1,
+          "explanation": "The class complement includes all entities outside the class denoted by the term, symbolized by attaching 'non-'[cite: 244].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q49",
+          "question": "In Aristotelian logic, what fallacy is committed by inferring 'Some S are P' from 'All S are P' if the class S has no real-world members (empty class)?",
+          "options": [
+            "Existential fallacy",
+            "Illicit conversion",
+            "Straw man",
+            "Amphiboly"
+          ],
+          "answer": 0,
+          "explanation": "Inferring existence from universal premises about empty classes commits the existential fallacy from the Boolean perspective[cite: 233, 237].",
+          "difficulty": "hard"
+        },
+        {
+          "id": "C06-Q50",
+          "question": "Evaluating the statement 'Some students are not cheaters' identifies its form as:",
+          "options": [
+            "A proposition",
+            "E proposition",
+            "I proposition",
+            "O proposition"
+          ],
+          "answer": 3,
+          "explanation": "'Some S are not P' is the standard form of an O proposition (Particular Negative)[cite: 223, 227].",
+          "difficulty": "classic"
+        }
+      ]
+    }
+  ]
+}

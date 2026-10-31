@@ -1,0 +1,96 @@
+{
+  "programs": [
+    {
+      "id": "social-sciences",
+      "name": "Social Sciences & Humanities",
+      "description": "General Psychology, Geography, History of Ethiopia & the Horn, Logic & Critical Thinking",
+      "icon": "\ud83c\udfdb\ufe0f"
+    },
+    {
+      "id": "natural-science",
+      "name": "Natural & Health Sciences",
+      "description": "General Physics, Mathematics for Natural Sciences, and Foundation Sciences",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "pre-engineering",
+      "name": "Pre-Engineering & Technology",
+      "description": "Applied Mathematics, Engineering Physics, and Analytical Logic",
+      "icon": "\ud83d\udcd0"
+    }
+  ],
+  "courses": [
+    {
+      "id": "psychology",
+      "title": "General Psychology",
+      "code": "PSYC 1011",
+      "programId": "social-sciences",
+      "description": "Essence of Psychology, Sensation & Perception, Learning Theories, Memory & Forgetting, Motivation & Emotion, Personality, and Disorders.",
+      "totalChapters": 7,
+      "totalQuestions": 350,
+      "dataFile": "data/psychology.json",
+      "icon": "\ud83e\udde0",
+      "badgeColor": "#f59e0b"
+    },
+    {
+      "id": "geography",
+      "title": "Geography of Ethiopia and the Horn",
+      "code": "GeES 1011",
+      "programId": "social-sciences",
+      "description": "Geology, Relief, Drainage Systems, Climate, Soils, Wildlife & Vegetation, Population, and Economic Activities.",
+      "totalChapters": 8,
+      "totalQuestions": 400,
+      "dataFile": "data/geography.json",
+      "icon": "\ud83c\udf0d",
+      "badgeColor": "#10b981"
+    },
+    {
+      "id": "history",
+      "title": "History of Ethiopia and the Horn",
+      "code": "HIST 1012",
+      "programId": "social-sciences",
+      "description": "Nature and Uses of History, Peoples and Cultures, Politics & Economy to 13th C, Solomonic Era, and 16th-18th Century Processes.",
+      "totalChapters": 5,
+      "totalQuestions": 250,
+      "dataFile": "data/history.json",
+      "icon": "\ud83d\udcdc",
+      "badgeColor": "#eab308"
+    },
+    {
+      "id": "logic",
+      "title": "Logic and Critical Thinking",
+      "code": "PHIL 1011",
+      "programId": "social-sciences",
+      "description": "Introducing Philosophy, Basic Concepts of Logic, Logic & Language, Critical Thinking, Informal Fallacies, and Categorical Propositions.",
+      "totalChapters": 6,
+      "totalQuestions": 300,
+      "dataFile": "data/logic.json",
+      "icon": "\ud83d\udca1",
+      "badgeColor": "#8b5cf6"
+    },
+    {
+      "id": "mathematics",
+      "title": "Mathematics for Natural Sciences",
+      "code": "MATH 1011",
+      "programId": "natural-science",
+      "description": "Propositional Logic & Set Theory, Real & Complex Numbers, Functions & Polynomials, and Analytic Geometry (Conic Sections).",
+      "totalChapters": 4,
+      "totalQuestions": 200,
+      "dataFile": "data/mathematics.json",
+      "icon": "\ud83d\udcd0",
+      "badgeColor": "#ec4899"
+    },
+    {
+      "id": "physics",
+      "title": "General Physics",
+      "code": "PHYS 1011",
+      "programId": "natural-science",
+      "description": "Preliminaries & Vectors, Kinematics & Dynamics, Fluid Mechanics, Heat & Thermodynamics, Oscillations & Optics, and Electromagnetism.",
+      "totalChapters": 6,
+      "totalQuestions": 120,
+      "dataFile": "data/physics.json",
+      "icon": "\u26a1",
+      "badgeColor": "#3b82f6"
+    }
+  ]
+}

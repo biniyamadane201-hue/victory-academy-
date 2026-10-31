@@ -1,0 +1,2630 @@
+{
+  "course": "Mathematics for Natural Sciences",
+  "courseCode": "MATH1011",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Propositional Logic and Set Theory",
+      "questions": [
+        {
+          "id": "C01-Q01",
+          "question": "Which of the following is the defining criterion of a proposition (statement) in symbolic logic?",
+          "options": [
+            "It must express an exclamation or moral command",
+            "It is a declarative sentence that has a truth value of either True or False, but not both",
+            "It must be a mathematical equation containing at least two variables",
+            "It must be an interrogative sentence whose answer is known"
+          ],
+          "answer": 1,
+          "explanation": "Definition 1.1 states that a proposition (or statement) is a sentence which has a truth value (either True or False but not both)[cite: 380].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q02",
+          "question": "Which of the following sentences qualifies as a proposition?",
+          "options": [
+            "May God bless you!",
+            "Give me that book.",
+            "2 is an even number.",
+            "What is your name?"
+          ],
+          "answer": 2,
+          "explanation": "'2 is an even number' is a declarative statement with a definitive truth value (True), whereas wishes, commands, and questions are not propositions[cite: 380].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q03",
+          "question": "A logical conjunction $p \\wedge q$ is true if and only if:",
+          "options": [
+            "At least one of $p$ or $q$ is true",
+            "Both $p$ and $q$ are true",
+            "$p$ is true and $q$ is false",
+            "Both $p$ and $q$ are false"
+          ],
+          "answer": 1,
+          "explanation": "By definition, the conjunction $p \\wedge q$ is true if and only if both components $p$ and $q$ are true[cite: 381].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q04",
+          "question": "How does the connective 'or' (disjunction, $\\vee$) in mathematical logic differ from its common exclusive use in everyday English?",
+          "options": [
+            "In logic, 'or' is strictly exclusive and forbids both components from being true",
+            "In logic, 'or' is inclusive, meaning $p \\vee q$ is true when either $p$ is true, $q$ is true, or both are true",
+            "In logic, 'or' is only defined when both statements are false",
+            "There is no difference at all between everyday and logical usage"
+          ],
+          "answer": 1,
+          "explanation": "In propositional logic, disjunction 'or' is used in the inclusive sense; $p \\vee q$ is false if and only if both $p$ and $q$ are false[cite: 381, 382].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q05",
+          "question": "Under which assignment of truth values is the conditional statement (implication) $p \\Rightarrow q$ false?",
+          "options": [
+            "$p$ is False and $q$ is True",
+            "$p$ is True and $q$ is False",
+            "$p$ is False and $q$ is False",
+            "$p$ is True and $q$ is True"
+          ],
+          "answer": 1,
+          "explanation": "A conditional proposition $p \\Rightarrow q$ is false if and only if the antecedent $p$ is true and the consequent $q$ is false[cite: 382].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q06",
+          "question": "Which of the following verbal formulations is NOT equivalent to $p \\Rightarrow q$?",
+          "options": [
+            "$p$ is sufficient for $q$",
+            "$q$ if $p$",
+            "$p$ is necessary for $q$",
+            "$p$ only if $q$"
+          ],
+          "answer": 2,
+          "explanation": "In $p \\Rightarrow q$, $p$ is sufficient for $q$, and $q$ is necessary for $p$. Hence, stating '$p$ is necessary for $q$' represents $q \\Rightarrow p$, not $p \\Rightarrow q$[cite: 383].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q07",
+          "question": "A logical bi-implication (equivalence) $p \\iff q$ is true if and only if:",
+          "options": [
+            "$p$ and $q$ have the same truth value",
+            "$p$ is true whenever $q$ is false",
+            "At least one of the components is false",
+            "The antecedent is true and the consequent is false"
+          ],
+          "answer": 0,
+          "explanation": "The bi-implication $p \\iff q$ is true when both $p$ and $q$ are true or both are false; it is false if and only if they have different truth values[cite: 383].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q08",
+          "question": "For a conditional statement $p \\Rightarrow q$, its converse, inverse, and contrapositive are respectively given by:",
+          "options": [
+            "$\\neg p \\Rightarrow \\neg q$, $q \\Rightarrow p$, and $\\neg q \\Rightarrow \\neg p$",
+            "$q \\Rightarrow p$, $\\neg p \\Rightarrow \\neg q$, and $\\neg q \\Rightarrow \\neg p$",
+            "$\\neg q \\Rightarrow \\neg p$, $q \\Rightarrow p$, and $\\neg p \\Rightarrow \\neg q$",
+            "$q \\Rightarrow p$, $\\neg q \\Rightarrow \\neg p$, and $\\neg p \\Rightarrow \\neg q$"
+          ],
+          "answer": 1,
+          "explanation": "Given $p \\Rightarrow q$: the converse is $q \\Rightarrow p$, the inverse is $\\neg p \\Rightarrow \\neg q$, and the contrapositive is $\\neg q \\Rightarrow \\neg p$[cite: 387].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q09",
+          "question": "Which of the following pairs of conditional propositions are logically equivalent?",
+          "options": [
+            "$p \\Rightarrow q$ and $q \\Rightarrow p$",
+            "$p \\Rightarrow q$ and $\\neg p \\Rightarrow \\neg q$",
+            "$p \\Rightarrow q$ and $\\neg q \\Rightarrow \\neg p$",
+            "$\\neg p \\Rightarrow q$ and $p \\Rightarrow \\neg q$"
+          ],
+          "answer": 2,
+          "explanation": "By the Law of Contrapositive, a conditional statement $p \\Rightarrow q$ is logically equivalent to its contrapositive $\\neg q \\Rightarrow \\neg p$[cite: 387, 388].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q10",
+          "question": "According to De Morgan's Laws of logic, the negation $\\neg(p \\vee q)$ is logically equivalent to:",
+          "options": [
+            "$\\neg p \\vee \\neg q$",
+            "$\\neg p \\wedge \\neg q$",
+            "$p \\wedge \\neg q$",
+            "$\\neg p \\Rightarrow q$"
+          ],
+          "answer": 1,
+          "explanation": "De Morgan's Laws state that $\\neg(p \\vee q) \\equiv \\neg p \\wedge \\neg q$ and $\\neg(p \\wedge q) \\equiv \\neg p \\vee \\neg q$[cite: 387, 388].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q11",
+          "question": "A compound proposition that is always TRUE regardless of the truth values of its component propositions is called a:",
+          "options": [
+            "Contradiction",
+            "Contingency",
+            "Tautology",
+            "Predicate"
+          ],
+          "answer": 2,
+          "explanation": "Definition states that a compound proposition is a tautology if it is always true regardless of the truth values of its components[cite: 388].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q12",
+          "question": "Which of the following compound propositions is a contradiction?",
+          "options": [
+            "$p \\vee \\neg p$",
+            "$p \\wedge \\neg p$",
+            "$p \\Rightarrow p$",
+            "$p \\iff p$"
+          ],
+          "answer": 1,
+          "explanation": "The proposition $p \\wedge \\neg p$ is always false for all truth values of $p$, making it a contradiction[cite: 388].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q13",
+          "question": "If $p$ is True, $q$ is False, and $r$ is False, what is the truth value of $(p \\vee q) \\Rightarrow (r \\wedge \\neg q)$?",
+          "options": [
+            "True",
+            "False",
+            "Tautology",
+            "Undefined"
+          ],
+          "answer": 1,
+          "explanation": "$p \\vee q = \\text{T} \\vee \\text{F} = \\text{T}$. Next, $\\neg q = \\text{T}$, so $r \\wedge \\neg q = \\text{F} \\wedge \\text{T} = \\text{F}$. Thus, $\\text{T} \\Rightarrow \\text{F}$ is False[cite: 382, 385].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q14",
+          "question": "What is an open statement (predicate)?",
+          "options": [
+            "A proposition containing no connectives",
+            "A sentence that contains one or more variables whose truth value depends on the values assigned to those variables",
+            "A statement whose truth value is always true",
+            "A proposition that has an empty truth table"
+          ],
+          "answer": 1,
+          "explanation": "Definition 1.4 defines an open statement as a sentence containing variables whose truth value depends on the values assigned to those variables[cite: 391].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q15",
+          "question": "To prove that the universally quantified statement $(\\forall x)P(x)$ is False, it is sufficient to:",
+          "options": [
+            "Show that $P(x)$ is false for every $x$ in the universe",
+            "Find at least one element $a$ in the universe such that $P(a)$ is False (a counterexample)",
+            "Show that the universe of discourse is infinite",
+            "Negate the predicate without changing the quantifier"
+          ],
+          "answer": 1,
+          "explanation": "To disprove $(\\forall x)P(x)$, it is sufficient to find a single element $a \\in U$ such that $P(a)$ is false; such an element is called a counterexample[cite: 393].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q16",
+          "question": "What is the negation of the quantified statement $(\\forall x)P(x)$?",
+          "options": [
+            "$(\\forall x)\\neg P(x)$",
+            "$(\\exists x)\\neg P(x)$",
+            "$\\neg(\\exists x)P(x)$",
+            "$(\\exists x)P(x)$"
+          ],
+          "answer": 1,
+          "explanation": "By the negation rule for quantifiers, $\\neg(\\forall x)P(x) \\equiv (\\exists x)\\neg P(x)$[cite: 394].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q17",
+          "question": "Let the universe of discourse $U = \\mathbb{R}$. What is the truth value of $(\\forall x)(x < x^2)$?",
+          "options": [
+            "True, because negative numbers squared are positive",
+            "False, because $x = 1/2$ is a counterexample since $1/2 \\not< 1/4$",
+            "True, because $x^2$ is always greater than $x$",
+            "Undefined for real numbers"
+          ],
+          "answer": 1,
+          "explanation": "For $x = 1/2 \\in \\mathbb{R}$, $(1/2)^2 = 1/4$. Since $1/2 < 1/4$ is false, $x = 1/2$ serves as a counterexample, making the universal statement False[cite: 393].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q18",
+          "question": "Which of the following implications correctly describes the relationship between transposed mixed quantifiers?",
+          "options": [
+            "$(\\forall x)(\\exists y)P(x,y) \\Rightarrow (\\exists y)(\\forall x)P(x,y)$",
+            "$(\\exists y)(\\forall x)P(x,y) \\Rightarrow (\\forall x)(\\exists y)P(x,y)$",
+            "$(\\exists x)(\\exists y)P(x,y) \\Rightarrow (\\forall x)(\\forall y)P(x,y)$",
+            "$(\\forall x)(\\forall y)P(x,y) \\iff (\\exists x)(\\exists y)P(x,y)$"
+          ],
+          "answer": 1,
+          "explanation": "If there is a single $y$ that works for every $x$, then for every $x$ there exists such a $y$; thus $(\\exists y)(\\forall x)P(x,y) \\Rightarrow (\\forall x)(\\exists y)P(x,y)$[cite: 397].",
+          "difficulty": "hard"
+        },
+        {
+          "id": "C01-Q19",
+          "question": "An argument form $p_1, p_2, \\dots, p_n \\vdash Q$ is valid if and only if:",
+          "options": [
+            "The conclusion $Q$ is true in at least one row of the truth table",
+            "The conditional statement $(p_1 \\wedge p_2 \\wedge \\dots \\wedge p_n) \\Rightarrow Q$ is a tautology",
+            "All premises $p_i$ are contradictions",
+            "The conclusion $Q$ is equivalent to $p_1$"
+          ],
+          "answer": 1,
+          "explanation": "An argument is valid iff $Q$ is true whenever all premises are true, which is equivalent to $(p_1 \\wedge p_2 \\wedge \\dots \\wedge p_n) \\Rightarrow Q$ being a tautology[cite: 399, 400].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q20",
+          "question": "Which rule of inference is represented by the argument form: $p \\Rightarrow q$, $p$, therefore $q$?",
+          "options": [
+            "Modus Tollens",
+            "Modus Ponens",
+            "Hypothetical Syllogism",
+            "Disjunctive Syllogism"
+          ],
+          "answer": 1,
+          "explanation": "Modus Ponens (Principle of Detachment) states that from $p$ and $p \\Rightarrow q$, one can validly infer $q$[cite: 400].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q21",
+          "question": "Which rule of inference is represented by: $p \\Rightarrow q$, $\\neg q$, therefore $\\neg p$?",
+          "options": [
+            "Modus Ponens",
+            "Modus Tollens",
+            "Constructive Dilemma",
+            "Principle of Adjunction"
+          ],
+          "answer": 1,
+          "explanation": "Modus Tollens states that from $p \\Rightarrow q$ and $\\neg q$, the conclusion $\\neg p$ follows validly[cite: 400].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q22",
+          "question": "The rule of inference known as the Principle of Syllogism (Hypothetical Syllogism) states that from $p \\Rightarrow q$ and $q \\Rightarrow r$, we can infer:",
+          "options": [
+            "$p \\wedge r$",
+            "$p \\Rightarrow r$",
+            "$r \\Rightarrow p$",
+            "$p \\iff r$"
+          ],
+          "answer": 1,
+          "explanation": "The Principle of Syllogism asserts that $(p \\Rightarrow q) \\wedge (q \\Rightarrow r) \\vdash p \\Rightarrow r$[cite: 400, 401].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q23",
+          "question": "How is a 'set' fundamentally defined in mathematics?",
+          "options": [
+            "A collection of numbers arranged in increasing order",
+            "A well-defined collection of objects that share certain common properties",
+            "Any group of words inside parentheses",
+            "A sequence that has a finite limit"
+          ],
+          "answer": 1,
+          "explanation": "A set is an undefined foundational concept referring to a well-defined collection of objects sharing specified properties[cite: 404].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q24",
+          "question": "Describing a set as $A = \\{x \\in \\mathbb{N} : 2n - 15 < 0\\}$ is an example of which method of describing sets?",
+          "options": [
+            "Roster method",
+            "Verbal method",
+            "Set-builder method",
+            "Partial listing method"
+          ],
+          "answer": 2,
+          "explanation": "Specifying a set via an open predicate condition inside braces $A = \\{x : P(x)\\}$ is called the set-builder method[cite: 405].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q25",
+          "question": "Let $A = \\{a, b, \\{c\\}\\}$. Which of the following statements is TRUE?",
+          "options": [
+            "$c \\in A$",
+            "$\\{c\\} \\subseteq A$",
+            "$\\{c\\} \\in A$",
+            "$\\{a, b, c\\} \\subseteq A$"
+          ],
+          "answer": 2,
+          "explanation": "The element $\\{c\\}$ is an explicit member of $A$, so $\\{c\\} \\in A$. However, $c \\notin A$, so $\\{c\\} \\not\\subseteq A$[cite: 405].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q26",
+          "question": "If a finite set $A$ contains exactly $n$ distinct elements, how many total subsets and how many proper subsets does $A$ possess?",
+          "options": [
+            "$2n$ subsets and $2n - 1$ proper subsets",
+            "$2^n$ subsets and $2^n - 1$ proper subsets",
+            "$n^2$ subsets and $n^2 - 1$ proper subsets",
+            "$2^n$ subsets and $2^{n-1}$ proper subsets"
+          ],
+          "answer": 1,
+          "explanation": "For a set with $n$ elements, the power set has $2^n$ subsets, and excluding the set itself yields $2^n - 1$ proper subsets[cite: 407].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q27",
+          "question": "If a set $A$ has exactly 64 subsets, how many elements does $A$ contain?",
+          "options": [
+            "5 elements",
+            "6 elements",
+            "7 elements",
+            "8 elements"
+          ],
+          "answer": 1,
+          "explanation": "The number of subsets is $2^n = 64 = 2^6$, so $n = 6$ elements[cite: 407, 409].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q28",
+          "question": "What is the power set of the empty set, denoted $P(\\emptyset)$?",
+          "options": [
+            "$\\emptyset$",
+            "$\\{\\emptyset\\}$",
+            "$\\{0\\}$",
+            "$\\{\\emptyset, \\{\\emptyset\\}\\}$"
+          ],
+          "answer": 1,
+          "explanation": "Since $\\emptyset$ has 0 elements, its power set has $2^0 = 1$ element, which is the empty set itself: $P(\\emptyset) = \\{\\emptyset\\}$[cite: 407, 409].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q29",
+          "question": "The union of two sets $A$ and $B$, denoted $A \\cup B$, corresponds to which logical connective in propositional logic?",
+          "options": [
+            "Conjunction ($\\wedge$)",
+            "Disjunction ($\\vee$)",
+            "Implication ($\\Rightarrow$)",
+            "Negation ($\\neg$)"
+          ],
+          "answer": 1,
+          "explanation": "By definition, $A \\cup B = \\{x : (x \\in A) \\vee (x \\in B)\\}$, which corresponds directly to disjunction $\\vee$[cite: 409].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q30",
+          "question": "The intersection of two sets $A$ and $B$, denoted $A \\cap B$, is defined as:",
+          "options": [
+            "$\\{x : (x \\in A) \\vee (x \\in B)\\}$",
+            "$\\{x : (x \\in A) \\wedge (x \\in B)\\}$",
+            "$\\{x : (x \\in A) \\wedge (x \\notin B)\\}$",
+            "$\\{x : (x \\in U) \\wedge (x \\notin A)\\}$"
+          ],
+          "answer": 1,
+          "explanation": "Definition 1.17 defines intersection as $A \\cap B = \\{x : (x \\in A) \\wedge (x \\in B)\\}$[cite: 409].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q31",
+          "question": "Two sets $A$ and $B$ are said to be disjoint if and only if:",
+          "options": [
+            "$A \\cup B = U$",
+            "$A \\cap B = \\emptyset$",
+            "$A - B = A$",
+            "$A \\subseteq B$"
+          ],
+          "answer": 1,
+          "explanation": "Disjoint sets have no elements in common, which means $A \\cap B = \\emptyset$[cite: 410].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q32",
+          "question": "The relative complement (difference) of set $B$ with respect to set $A$, denoted $A - B$ or $A \\setminus B$, is defined as:",
+          "options": [
+            "$\\{x : x \\in A \\vee x \\notin B\\}$",
+            "$\\{x : x \\in A \\wedge x \\notin B\\}$",
+            "$\\{x : x \\in B \\wedge x \\notin A\\}$",
+            "$\\{x : x \\in U \\wedge x \\notin A\\}$"
+          ],
+          "answer": 1,
+          "explanation": "Definition 1.18 defines the difference $A - B$ as the set of all elements in $A$ and not in $B$[cite: 410].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q33",
+          "question": "Which of the following set identities represents De Morgan's Law for set complementation?",
+          "options": [
+            "$(A \\cup B)' = A' \\cup B'$",
+            "$(A \\cup B)' = A' \\cap B'$",
+            "$(A \\cap B)' = A' \\cap B'$",
+            "$A - B = A' \\cap B$"
+          ],
+          "answer": 1,
+          "explanation": "Theorem 1.1 states De Morgan's laws for sets: $(A \\cup B)' = A' \\cap B'$ and $(A \\cap B)' = A' \\cup B'$[cite: 411].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q34",
+          "question": "How is the symmetric difference of two sets $A$ and $B$, denoted $A \\Delta B$, defined?",
+          "options": [
+            "$A \\Delta B = (A \\cap B) \\cup (A \\cup B)$",
+            "$A \\Delta B = (A - B) \\cup (B - A)$",
+            "$A \\Delta B = (A \\cup B)'$",
+            "$A \\Delta B = A' \\cap B'$"
+          ],
+          "answer": 1,
+          "explanation": "Definition 1.20 defines the symmetric difference as $A \\Delta B = (A - B) \\cup (B - A) = (A \\cup B) - (A \\cap B)$[cite: 411, 416].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q35",
+          "question": "Let $U = \\{1, 2, 3, \\dots, 10\\}$, $A = \\{2, 4, 6, 8, 9, 10\\}$, and $B = \\{3, 5, 7, 9\\}$. What is $A \\Delta B$?",
+          "options": [
+            "$\\{9\\}$",
+            "$\\{2, 3, 4, 5, 6, 7, 8, 10\\}$",
+            "$\\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10\\}$",
+            "$\\{2, 4, 6, 8, 10\\}$"
+          ],
+          "answer": 1,
+          "explanation": "$A - B = \\{2, 4, 6, 8, 10\\}$ and $B - A = \\{3, 5, 7\\}$. Union: $(A - B) \\cup (B - A) = \\{2, 3, 4, 5, 6, 7, 8, 10\\}$[cite: 411].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q36",
+          "question": "For any three sets $A$, $B$, and $C$, the distributive property of intersection over union states that:",
+          "options": [
+            "$A \\cap (B \\cup C) = (A \\cap B) \\cup (A \\cap C)$",
+            "$A \\cup (B \\cap C) = (A \\cap B) \\cup (A \\cap C)$",
+            "$A \\cap (B \\cup C) = (A \\cup B) \\cap (A \\cup C)$",
+            "$A \\cap (B \\cup C) = A \\cup (B \\cap C)$"
+          ],
+          "answer": 0,
+          "explanation": "Theorem 1.2(f) proves that intersection distributes over union: $A \\cap (B \\cup C) = (A \\cap B) \\cup (A \\cap C)$[cite: 411, 412].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q37",
+          "question": "In a Venn diagram with two overlapping sets $A$ and $B$, the region representing $A \\cap B'$ is:",
+          "options": [
+            "The overlapping intersection of $A$ and $B$",
+            "The region of $A$ that lies strictly outside $B$ (i.e., $A - B$)",
+            "The entire area outside both circles",
+            "The region of $B$ strictly outside $A$"
+          ],
+          "answer": 1,
+          "explanation": "Since $A - B = A \\cap B'$, it represents the crescent portion of circle $A$ outside of circle $B$[cite: 411, 414].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q38",
+          "question": "What is the truth value of the statement: 'For any set $A$, $\\emptyset \\subseteq P(A)$'?",
+          "options": [
+            "False, because $\\emptyset$ is an element, not a subset",
+            "True, because the empty set is a subset of every set, including $P(A)$",
+            "True only when $A = \\emptyset$",
+            "False, because $P(A)$ contains only non-empty sets"
+          ],
+          "answer": 1,
+          "explanation": "For any set $S$, $\\emptyset \\subseteq S$. Taking $S = P(A)$, $\\emptyset \\subseteq P(A)$ is unconditionally True[cite: 406, 409].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q39",
+          "question": "If $p \\Rightarrow q$ is True, what can be determined about the truth value of $\\neg p \\wedge q \\iff p \\vee q$?",
+          "options": [
+            "It is always False",
+            "It is always True",
+            "It can be either True or False depending on $p$",
+            "It is a tautology"
+          ],
+          "answer": 0,
+          "explanation": "If $p \\Rightarrow q$ is true, the cases are: (1) $p=\\text{T}, q=\\text{T} \\implies \\neg p \\wedge q = \\text{F}, p \\vee q = \\text{T} \\implies \\text{F} \\iff \\text{T} = \\text{F}$; (2) $p=\\text{F}, q=\\text{T} \\implies \\text{T} \\wedge \\text{T}=\\text{T}, \\text{F} \\vee \\text{T}=\\text{T} \\implies \\text{T} \\iff \\text{T} = \\text{T}$. Thus, both truth values are possible, or evaluated conditionally[cite: 389, 390].",
+          "difficulty": "hard"
+        },
+        {
+          "id": "C01-Q40",
+          "question": "What is the contrapositive of the statement: 'If it rains, Tigist does not take a walk'?",
+          "options": [
+            "If Tigist takes a walk, then it does not rain",
+            "If it does not rain, Tigist takes a walk",
+            "If Tigist does not take a walk, then it rains",
+            "Tigist takes a walk if and only if it rains"
+          ],
+          "answer": 0,
+          "explanation": "For $p \\Rightarrow \\neg q$, the contrapositive is $\\neg(\\neg q) \\Rightarrow \\neg p$, which translates to $q \\Rightarrow \\neg p$: 'If Tigist takes a walk, then it does not rain'[cite: 387, 389].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q41",
+          "question": "Let $P(x): x^2 + 1 \\ge 0$ for $x \\in \\mathbb{R}$. The truth value of $(\\forall x)P(x)$ is:",
+          "options": [
+            "False",
+            "True",
+            "Contradiction",
+            "Undefined"
+          ],
+          "answer": 1,
+          "explanation": "For every real number $x$, $x^2 \\ge 0$, so $x^2 + 1 \\ge 1 > 0$. Thus, $(\\forall x)(x^2 + 1 \\ge 0)$ is True[cite: 393].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q42",
+          "question": "Which of the following is equivalent to saying 'Two open propositions $P(x)$ and $Q(x)$ are equivalent over universe $U$'?",
+          "options": [
+            "$P(x) \\wedge Q(x)$ is true for some $x \\in U$",
+            "$P(a)$ and $Q(a)$ have the same truth value for all $a \\in U$",
+            "$P(x)$ and $Q(x)$ are both contradictions",
+            "$P(x)$ is the converse of $Q(x)$"
+          ],
+          "answer": 1,
+          "explanation": "Definition 1.5 states that $P(x)$ and $Q(x)$ are equivalent if and only if $P(a) = Q(a)$ for all $a \\in U$[cite: 391].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q43",
+          "question": "Which rule of inference allows concluding $p \\vee q$ directly from the single premise $p$?",
+          "options": [
+            "Principle of Detachment",
+            "Principle of Adjunction (Addition)",
+            "Modus Ponens",
+            "Modus Tollens"
+          ],
+          "answer": 1,
+          "explanation": "The Principle of Adjunction allows inferring $p \\vee q$ from the premise $p$[cite: 401].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q44",
+          "question": "Which rule of inference allows concluding $p$ from the single conjunction premise $p \\wedge q$?",
+          "options": [
+            "Principle of Detachment (Simplification)",
+            "Principle of Syllogism",
+            "Constructive Dilemma",
+            "Modus Tollendo Ponens"
+          ],
+          "answer": 0,
+          "explanation": "The Principle of Detachment (Simplification) states that from $p \\wedge q$, one can validly infer $p$[cite: 401].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q45",
+          "question": "The rule of inference Modus Tollendo Ponens (Disjunctive Syllogism) states that from $p \\vee q$ and $\\neg p$, we can validly infer:",
+          "options": [
+            "$\\neg q$",
+            "$q$",
+            "$p \\wedge q$",
+            "$p \\Rightarrow q$"
+          ],
+          "answer": 1,
+          "explanation": "Modus Tollendo Ponens states that if one disjunct is denied ($\\neg p$), the other disjunct ($q$) must be true[cite: 401].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q46",
+          "question": "The rule of inference Constructive Dilemma states that from $(p \\Rightarrow q) \\wedge (r \\Rightarrow s)$ and $p \\vee r$, one can validly conclude:",
+          "options": [
+            "$q \\wedge s$",
+            "$q \\vee s$",
+            "$\\neg p \\vee \\neg r$",
+            "$q \\Rightarrow s$"
+          ],
+          "answer": 1,
+          "explanation": "Constructive Dilemma asserts that from $(p \\Rightarrow q) \\wedge (r \\Rightarrow s)$ and $p \\vee r$, the conclusion $q \\vee s$ follows[cite: 401].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q47",
+          "question": "What is the truth value of $(\\exists x \\in \\mathbb{R})(\\forall y \\in \\mathbb{R})(x + y = 5)$?",
+          "options": [
+            "True, when $x = 0$",
+            "False, because no single fixed real number $x$ can satisfy $x + y = 5$ for every possible value of $y$",
+            "True, because $x = 5 - y$",
+            "Undefined"
+          ],
+          "answer": 1,
+          "explanation": "There is no constant $x$ that satisfies $x + y = 5$ for all $y \\in \\mathbb{R}$; hence the statement is False[cite: 395].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q48",
+          "question": "If $A \\subseteq B$, which of the following is logically equivalent according to set complement laws?",
+          "options": [
+            "$A' \\subseteq B'$",
+            "$B' \\subseteq A'$",
+            "$A \\cup B' = U$",
+            "$A \\cap B' \\ne \\emptyset$"
+          ],
+          "answer": 1,
+          "explanation": "Theorem 1.1(6) states that $A \\subseteq B \\iff B' \\subseteq A'$[cite: 411].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q49",
+          "question": "How many elements are in the set $C = \\{a, b, \\{a, b\\}, \\{a, \\{a\\}\\}\\}$?",
+          "options": [
+            "2 elements",
+            "3 elements",
+            "4 elements",
+            "6 elements"
+          ],
+          "answer": 2,
+          "explanation": "The set has exactly four distinct elements: $a$, $b$, the subset $\\{a, b\\}$, and the set $\\{a, \\{a\\}\\}$[cite: 405].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q50",
+          "question": "What is the value of $\\{\\phi, \\{\\phi\\}\\} - \\{\\phi\\}$?",
+          "options": [
+            "$\\emptyset$",
+            "$\\{\\emptyset\\}$",
+            "$\\{\\{\\emptyset\\}\\}$",
+            "$\\{\\phi, \\phi\\}$"
+          ],
+          "answer": 2,
+          "explanation": "Removing the element $\\phi$ from the set leave the single element $\\{\\phi\\}$ in a set, which is $\\{\\{\\phi\\}\\}$[cite: 415].",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "The Real and Complex Number Systems",
+      "questions": [
+        {
+          "id": "C02-Q01",
+          "question": "Which of the following describes the Well-Ordering Principle of the natural numbers $\\mathbb{N}$?",
+          "options": [
+            "Every bounded subset of $\\mathbb{N}$ has an upper bound",
+            "Every non-empty subset of the set of natural numbers has a smallest (least) element",
+            "Natural numbers are dense along the number line",
+            "Every natural number can be factored into two primes"
+          ],
+          "answer": 1,
+          "explanation": "Proposition 2.7 states that every non-empty subset of the set of natural numbers has a smallest (least) element[cite: 421].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q02",
+          "question": "The Fundamental Theorem of Arithmetic asserts that:",
+          "options": [
+            "Every natural number is a prime number",
+            "Every composite number can be uniquely expressed as a product of prime factors, up to the order of the factors",
+            "The set of primes is finite",
+            "Every real polynomial has a rational root"
+          ],
+          "answer": 1,
+          "explanation": "The Fundamental Theorem of Arithmetic states that every composite number can be expressed uniquely as a product of prime factors[cite: 419].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q03",
+          "question": "What is the Greatest Common Factor (GCF) of 24 and 60?",
+          "options": [
+            "6",
+            "12",
+            "24",
+            "120"
+          ],
+          "answer": 1,
+          "explanation": "$24 = 2^3 \\times 3$ and $60 = 2^2 \\times 3 \\times 5$. The common factors with smallest powers are $2^2 \\times 3 = 12$[cite: 420].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q04",
+          "question": "What is the Least Common Multiple (LCM) of 18 and 24?",
+          "options": [
+            "36",
+            "72",
+            "144",
+            "432"
+          ],
+          "answer": 1,
+          "explanation": "$18 = 2 \\times 3^2$ and $24 = 2^3 \\times 3$. The highest powers of all factors are $2^3 \\times 3^2 = 8 \\times 9 = 72$[cite: 420, 421].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q05",
+          "question": "If the GCF of two natural numbers is 1, the numbers are termed:",
+          "options": [
+            "Even numbers",
+            "Relatively prime (coprime)",
+            "Composite numbers",
+            "Irrational numbers"
+          ],
+          "answer": 1,
+          "explanation": "When $\\text{GCF}(a,b) = 1$, the numbers $a$ and $b$ are defined as relatively prime[cite: 420].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q06",
+          "question": "In the Principle of Mathematical Induction, if an assertion $P(n)$ is true for $n=1$, and assuming $P(k)$ is true implies $P(k+1)$ is true, then $P(n)$ is true for:",
+          "options": [
+            "All real numbers",
+            "Every natural number $n$",
+            "Only even numbers",
+            "All prime numbers"
+          ],
+          "answer": 1,
+          "explanation": "Mathematical induction proves that the statement $P(n)$ holds for all natural numbers $n \\in \\mathbb{N}$[cite: 422].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q07",
+          "question": "Using mathematical induction, the formula for the sum of the first $n$ odd natural numbers $1 + 3 + 5 + \\dots + (2n-1)$ equals:",
+          "options": [
+            "$n(n+1) / 2$",
+            "$n^2$",
+            "$2n^2 - 1$",
+            "$n(2n-1)$"
+          ],
+          "answer": 1,
+          "explanation": "Example 2.17 proves by mathematical induction that $1 + 3 + 5 + \\dots + (2n-1) = n^2$[cite: 422].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q08",
+          "question": "What is the closed-form formula for the sum of the first $n$ natural numbers $1 + 2 + 3 + \\dots + n$?",
+          "options": [
+            "$n^2$",
+            "$\\frac{n(n+1)}{2}$",
+            "$\\frac{n(n-1)}{2}$",
+            "$\\frac{n(2n+1)}{6}$"
+          ],
+          "answer": 1,
+          "explanation": "Example 2.18 proves that $\\sum_{i=1}^n i = \\frac{n(n+1)}{2}$[cite: 422, 423].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q09",
+          "question": "What is the additive identity element in the set of integers $\\mathbb{Z}$?",
+          "options": [
+            "1",
+            "0",
+            "-1",
+            "Undefined"
+          ],
+          "answer": 1,
+          "explanation": "For any integer $a$, $a + 0 = 0 + a = a$; hence 0 is the additive identity[cite: 424].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q10",
+          "question": "A rational number is defined as any number that can be expressed in the form $a/b$, where:",
+          "options": [
+            "$a, b \\in \\mathbb{R}$ and $b \\ne 0$",
+            "$a$ and $b$ are integers and $b \\ne 0$",
+            "$a$ is an integer and $b$ is a natural number",
+            "$a$ and $b$ are irrational numbers"
+          ],
+          "answer": 1,
+          "explanation": "Definition 2.9 states that a rational number is of the form $a/b$ where $a, b \\in \\mathbb{Z}$ and $b \\ne 0$[cite: 426].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q11",
+          "question": "Which decimal numbers represent rational numbers?",
+          "options": [
+            "Only terminating decimals",
+            "Both terminating decimals and non-terminating periodic (repeating) decimals",
+            "Only non-terminating non-periodic decimals",
+            "All square roots of positive integers"
+          ],
+          "answer": 1,
+          "explanation": "Both terminating decimals and non-terminating periodic decimals can be converted into fractions $a/b$, making them rational[cite: 428, 429].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q12",
+          "question": "What is the fraction representation of the non-terminating periodic decimal $0.\\overline{3}$ in lowest terms?",
+          "options": [
+            "$3/10$",
+            "$1/3$",
+            "$3/100$",
+            "$33/100$"
+          ],
+          "answer": 1,
+          "explanation": "Let $d = 0.333...$; $10d - d = 3 \\implies 9d = 3 \\implies d = 3/9 = 1/3$[cite: 428, 429].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q13",
+          "question": "Why is $\\sqrt{2}$ classified as an irrational number?",
+          "options": [
+            "It is a negative number",
+            "It cannot be written in the form $a/b$ where $a, b \\in \\mathbb{Z}$ and $\\text{GCF}(a,b) = 1$",
+            "It has a terminating decimal representation",
+            "It is an imaginary number"
+          ],
+          "answer": 1,
+          "explanation": "Example 2.40 proves by contradiction that assuming $\\sqrt{2} = a/b$ leads to both $a$ and $b$ being even, contradicting $\\text{GCF}(a,b)=1$[cite: 429, 430].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q14",
+          "question": "The Completeness Property of real numbers states that:",
+          "options": [
+            "Every integer has a square root in $\\mathbb{R}$",
+            "Every non-empty subset of $\\mathbb{R}$ bounded above has a least upper bound (lub), and every non-empty subset bounded below has a greatest lower bound (glb)",
+            "Every real number is a rational number",
+            "Between any two real numbers there are no irrational numbers"
+          ],
+          "answer": 1,
+          "explanation": "The completeness property of $\\mathbb{R}$ ensures that every non-empty set of real numbers bounded above has a supremum (lub) in $\\mathbb{R}$[cite: 433].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q15",
+          "question": "What are the greatest lower bound (glb) and least upper bound (lub) of the interval $A = [2, 5)$?",
+          "options": [
+            "$\\text{glb} = 2$, $\\text{lub} = 4$",
+            "$\\text{glb} = 2$, $\\text{lub} = 5$",
+            "$\\text{glb} = 0$, $\\text{lub} = 5$",
+            "$\\text{glb} = 1$, $\\text{lub} = 6$"
+          ],
+          "answer": 1,
+          "explanation": "The greatest lower bound is 2 (which is in $A$) and the least upper bound is 5 (which is not in $A$)[cite: 432].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q16",
+          "question": "For the set $A = \\{1, 1/2, 1/3, \\dots, 1/n, \\dots\\}$ where $n \\in \\mathbb{N}$, what is the greatest lower bound (glb)?",
+          "options": [
+            "1",
+            "0",
+            "$1/2$",
+            "-1"
+          ],
+          "answer": 1,
+          "explanation": "Example 2.42 shows that the lower bounds are all non-positive real numbers ($x \\le 0$), so the greatest lower bound is 0[cite: 432].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q17",
+          "question": "The imaginary unit $i$ in complex numbers is defined by the property:",
+          "options": [
+            "$i = 1$",
+            "$i^2 = -1$",
+            "$i^2 = 1$",
+            "$i = -1$"
+          ],
+          "answer": 1,
+          "explanation": "Definition 2.12 defines complex numbers where $z = x + iy$ with $x, y \\in \\mathbb{R}$ and $i^2 = -1$[cite: 434].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q18",
+          "question": "For the complex number $z = 3 - 7i$, what are $\\text{Re}(z)$ and $\\text{Im}(z)$ respectively?",
+          "options": [
+            "3 and 7",
+            "3 and -7",
+            "-7 and 3",
+            "3 and $-7i$"
+          ],
+          "answer": 1,
+          "explanation": "The real part $\\text{Re}(z) = 3$ and the imaginary part $\\text{Im}(z) = -7$[cite: 434].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q19",
+          "question": "Two complex numbers $z_1 = a + ib$ and $z_2 = c + id$ are equal if and only if:",
+          "options": [
+            "$a = d$ and $b = c$",
+            "$a = c$ and $b = d$",
+            "$a^2 + b^2 = c^2 + d^2$",
+            "$a + b = c + d$"
+          ],
+          "answer": 1,
+          "explanation": "Two complex numbers are equal iff their real parts are equal ($a = c$) and their imaginary parts are equal ($b = d$)[cite: 435].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q20",
+          "question": "Given $z_1 = 2 + 3i$ and $z_2 = 4 + i$, what is the product $z_1 \\cdot z_2$?",
+          "options": [
+            "$8 + 3i$",
+            "$5 + 14i$",
+            "$11 + 14i$",
+            "$5 + 10i$"
+          ],
+          "answer": 1,
+          "explanation": "$z_1 \\cdot z_2 = (2)(4) + 2i + 12i + 3i^2 = 8 + 14i - 3 = 5 + 14i$[cite: 435, 436].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q21",
+          "question": "What is the complex conjugate of $z = x + iy$?",
+          "options": [
+            "$-x - iy$",
+            "$-x + iy$",
+            "$x - iy$",
+            "$y + ix$"
+          ],
+          "answer": 2,
+          "explanation": "Definition 2.13 states that the conjugate of $z = x + iy$ is $\\bar{z} = x - iy$, which geometrically is the reflection across the real x-axis[cite: 436].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q22",
+          "question": "For any complex number $z = x + iy$, the product $z \\cdot \\bar{z}$ is equal to:",
+          "options": [
+            "$x^2 - y^2$",
+            "$x^2 + y^2 = |z|^2$",
+            "$2x$",
+            "$2iy$"
+          ],
+          "answer": 1,
+          "explanation": "$z \\cdot \\bar{z} = (x + iy)(x - iy) = x^2 - i^2y^2 = x^2 + y^2 = |z|^2$[cite: 437, 438].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q23",
+          "question": "What is the modulus (norm) of the complex number $z = 3 - 4i$?",
+          "options": [
+            "7",
+            "5",
+            "25",
+            "$\\sqrt{7}$"
+          ],
+          "answer": 1,
+          "explanation": "$|z| = \\sqrt{x^2 + y^2} = \\sqrt{3^2 + (-4)^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$[cite: 437].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q24",
+          "question": "What is the multiplicative inverse $z^{-1}$ of the complex number $z = 3 + 4i$?",
+          "options": [
+            "$3 - 4i$",
+            "$\\frac{3}{25} - \\frac{4}{25}i$",
+            "$\\frac{3}{7} - \\frac{4}{7}i$",
+            "$-\\frac{3}{25} - \\frac{4}{25}i$"
+          ],
+          "answer": 1,
+          "explanation": "$z^{-1} = \\frac{\\bar{z}}{|z|^2} = \\frac{3 - 4i}{3^2 + 4^2} = \\frac{3 - 4i}{25} = \\frac{3}{25} - \\frac{4}{25}i$[cite: 438].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q25",
+          "question": "The principal argument $\\text{Arg}(z)$ of a complex number is restricted to which standard interval?",
+          "options": [
+            "$[0, 2\\pi)$",
+            "$(-\\pi, \\pi]$",
+            "$[-\\pi/2, \\pi/2]$",
+            "$(0, \\pi]$"
+          ],
+          "answer": 1,
+          "explanation": "Definition 2.15 defines the principal argument $\\text{Arg}(z)$ in the range $-\\pi < \\theta \\le \\pi$[cite: 439].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q26",
+          "question": "What is the principal argument of $z = 1 + i$?",
+          "options": [
+            "$\\pi/2$",
+            "$\\pi/4$",
+            "$3\\pi/4$",
+            "$\\pi/6$"
+          ],
+          "answer": 1,
+          "explanation": "Both $x=1$ and $y=1$ are positive (Quadrant I), so $\\text{Arg}(z) = \\tan^{-1}(1/1) = \\pi/4$[cite: 440].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q27",
+          "question": "What is the principal argument of $z = -2 + 2\\sqrt{3}i$?",
+          "options": [
+            "$\\pi/3$",
+            "$2\\pi/3$",
+            "$-2\\pi/3$",
+            "$5\\pi/6$"
+          ],
+          "answer": 1,
+          "explanation": "Point is in Quadrant II ($x < 0, y > 0$). $\\theta = \\pi - \\tan^{-1}(\\sqrt{3}) = \\pi - \\pi/3 = 2\\pi/3$[cite: 440].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q28",
+          "question": "What is the argument of the product of two complex numbers, $\\arg(z_1 \\cdot z_2)$?",
+          "options": [
+            "$\\arg(z_1) \\cdot \\arg(z_2)$",
+            "$\\arg(z_1) + \\arg(z_2)$",
+            "$\\arg(z_1) - \\arg(z_2)$",
+            "$\\arg(z_1) / \\arg(z_2)$"
+          ],
+          "answer": 1,
+          "explanation": "The argument of a product is the sum of their individual arguments: $\\arg(z_1 z_2) = \\arg(z_1) + \\arg(z_2)$[cite: 440, 442].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q29",
+          "question": "In polar form, a complex number $z = x + iy$ is written as:",
+          "options": [
+            "$z = r(\\cos \\theta - i \\sin \\theta)$",
+            "$z = r(\\cos \\theta + i \\sin \\theta)$",
+            "$z = r(\\sin \\theta + i \\cos \\theta)$",
+            "$z = r e^{\\theta}$"
+          ],
+          "answer": 1,
+          "explanation": "Definition 2.16 states the polar form is $z = r(\\cos \\theta + i \\sin \\theta)$ where $r = |z|$ and $\\theta = \\text{Arg}(z)$[cite: 440].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q30",
+          "question": "What is the polar form of $z = 1 + i$?",
+          "options": [
+            "$z = 2(\\cos(\\pi/4) + i \\sin(\\pi/4))$",
+            "$z = \\sqrt{2}(\\cos(\\pi/4) + i \\sin(\\pi/4))$",
+            "$z = \\sqrt{2}(\\cos(\\pi/2) + i \\sin(\\pi/2))$",
+            "$z = \\cos(\\pi/4) + i \\sin(\\pi/4)$"
+          ],
+          "answer": 1,
+          "explanation": "$r = \\sqrt{1^2 + 1^2} = \\sqrt{2}$ and $\\theta = \\pi/4$. Thus, $z = \\sqrt{2}(\\cos(\\pi/4) + i\\sin(\\pi/4))$[cite: 440].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q31",
+          "question": "De Moivre's formula states that for any natural number $n$, $[r(\\cos \\theta + i \\sin \\theta)]^n$ equals:",
+          "options": [
+            "$r^n(\\cos^n \\theta + i \\sin^n \\theta)$",
+            "$r^n(\\cos(n\\theta) + i \\sin(n\\theta))$",
+            "$n r(\\cos(n\\theta) + i \\sin(n\\theta))$",
+            "$r^n(\\cos \\theta + i \\sin \\theta)$"
+          ],
+          "answer": 1,
+          "explanation": "De Moivre's theorem establishes that $z^n = r^n[\\cos(n\\theta) + i \\sin(n\\theta)]$[cite: 443].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q32",
+          "question": "Euler's formula states that the polar expression $\\cos \\theta + i \\sin \\theta$ can be compactly written as:",
+          "options": [
+            "$e^{i\\theta}$",
+            "$e^{\\theta}$",
+            "$\\ln(i\\theta)$",
+            "$i e^{\\theta}$"
+          ],
+          "answer": 0,
+          "explanation": "Euler's formula establishes $e^{i\\theta} = \\cos \\theta + i \\sin \\theta$; hence $z = r e^{i\\theta}$[cite: 443].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q33",
+          "question": "How many distinct $n$-th roots does a non-zero complex number $z$ have in the complex number system?",
+          "options": [
+            "1 root",
+            "2 roots",
+            "Exactly $n$ distinct roots",
+            "Infinitely many roots"
+          ],
+          "answer": 2,
+          "explanation": "A non-zero complex number has exactly $n$ distinct complex $n$-th roots given by $C_k = r^{1/n} e^{i(\\frac{\\theta}{n} + \\frac{2k\\pi}{n})}$ for $k=0, 1, \\dots, n-1$[cite: 444].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q34",
+          "question": "What are the square roots of $z = 1 + \\sqrt{3}i$?",
+          "options": [
+            "$\\pm (1 + i)$",
+            "$\\pm \\left(\\frac{\\sqrt{6}}{2} + \\frac{\\sqrt{2}}{2}i\\right)$",
+            "$\\pm \\left(\\sqrt{3} + i\\right)$",
+            "$\\pm 2i$"
+          ],
+          "answer": 1,
+          "explanation": "Here $r=2, \\theta=\\pi/3$. The roots are $\\sqrt{2} e^{i(\\pi/6 + k\\pi)}$ for $k=0, 1$. For $k=0$, $\\sqrt{2}(\\frac{\\sqrt{3}}{2} + \\frac{1}{2}i) = \\frac{\\sqrt{6}}{2} + \\frac{\\sqrt{2}}{2}i$, and for $k=1$, its negative[cite: 444].",
+          "difficulty": "hard"
+        },
+        {
+          "id": "C02-Q35",
+          "question": "What are the cube roots of $z = 8i$?",
+          "options": [
+            "$\\sqrt{3} + i, -\\sqrt{3} + i, -2i$",
+            "$2i, -2i, 2$",
+            "$1 + i, 1 - i, -2$",
+            "$2(\\cos \\pi + i \\sin \\pi)$"
+          ],
+          "answer": 0,
+          "explanation": "For $z = 8i$, $r=8, \\theta=\\pi/2$. The cube roots ($n=3$) are $2 e^{i(\\pi/6 + 2k\\pi/3)}$ for $k=0,1,2$, yielding $\\sqrt{3}+i$, $-\\sqrt{3}+i$, and $-2i$[cite: 445].",
+          "difficulty": "hard"
+        },
+        {
+          "id": "C02-Q36",
+          "question": "Which of the following is equal to the modulus $|e^{i\\theta}|$ for any real $\\theta$?",
+          "options": [
+            "$\\theta$",
+            "1",
+            "0",
+            "$e$"
+          ],
+          "answer": 1,
+          "explanation": "$|e^{i\\theta}| = |\\cos \\theta + i \\sin \\theta| = \\sqrt{\\cos^2 \\theta + \\sin^2 \\theta} = \\sqrt{1} = 1$[cite: 445].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q37",
+          "question": "What is the conjugate of the complex exponential $e^{i\\theta}$?",
+          "options": [
+            "$-e^{i\\theta}$",
+            "$e^{-i\\theta}$",
+            "$e^{\\theta}$",
+            "$-e^{-i\\theta}$"
+          ],
+          "answer": 1,
+          "explanation": "$\\overline{e^{i\\theta}} = \\overline{\\cos \\theta + i \\sin \\theta} = \\cos \\theta - i \\sin \\theta = \\cos(-\\theta) + i \\sin(-\\theta) = e^{-i\\theta}$[cite: 445].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q38",
+          "question": "The geometric locus of points in the complex plane satisfying $|z - z_0| = r$ describes a:",
+          "options": [
+            "Straight line through $z_0$",
+            "Circle of radius $r$ centered at $z_0$",
+            "Parabola with vertex at $z_0$",
+            "Hyperbola with foci at $z_0$"
+          ],
+          "answer": 1,
+          "explanation": "The equation $|z - z_0| = r$ asserts that the distance between $z$ and $z_0$ is constant $r$, which is the definition of a circle[cite: 439].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q39",
+          "question": "For any two complex numbers $z_1$ and $z_2$, the Triangle Inequality states that:",
+          "options": [
+            "$|z_1 + z_2| = |z_1| + |z_2|$",
+            "$|z_1 + z_2| \\le |z_1| + |z_2|$",
+            "$|z_1 + z_2| \\ge |z_1| + |z_2|$",
+            "$|z_1 - z_2| \\le |z_1| - |z_2|$"
+          ],
+          "answer": 1,
+          "explanation": "The Triangle Inequality for complex numbers asserts that $|z_1 + z_2| \\le |z_1| + |z_2|$[cite: 437].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q40",
+          "question": "What is the result of $(1 - i)^2$?",
+          "options": [
+            "$2$",
+            "$-2i$",
+            "$2 - 2i$",
+            "$0$"
+          ],
+          "answer": 1,
+          "explanation": "$(1 - i)^2 = 1 - 2i + i^2 = 1 - 2i - 1 = -2i$[cite: 435, 439].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q41",
+          "question": "What is the simplified value of $i^{2026}$?",
+          "options": [
+            "$1$",
+            "$-1$",
+            "$i$",
+            "$-i$"
+          ],
+          "answer": 1,
+          "explanation": "Divide exponent by 4: $2026 = 4 \\times 506 + 2$. Thus, $i^{2026} = (i^4)^{506} \\cdot i^2 = (1)^{506} \\cdot (-1) = -1$[cite: 434].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q42",
+          "question": "If $\\text{LCM}(x, 40) = 1400$ and $x$ is an odd natural number, what is $x$?",
+          "options": [
+            "25",
+            "35",
+            "175",
+            "70"
+          ],
+          "answer": 2,
+          "explanation": "$40 = 2^3 \\times 5$ and $1400 = 2^3 \\times 5^2 \\times 7$. Since $x$ is odd, it contains no factor of 2. Thus, $x$ must supply the factors $5^2 \\times 7 = 25 \\times 7 = 175$[cite: 420, 425].",
+          "difficulty": "hard"
+        },
+        {
+          "id": "C02-Q43",
+          "question": "The GCF of two numbers is 3 and their LCM is 180. If one of the numbers is 45, what is the second number?",
+          "options": [
+            "12",
+            "15",
+            "36",
+            "60"
+          ],
+          "answer": 0,
+          "explanation": "Since $\\text{GCF}(a,b) \\times \\text{LCM}(a,b) = a \\times b$, $3 \\times 180 = 45 \\times b \\implies 540 = 45b \\implies b = 12$[cite: 425].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q44",
+          "question": "Using the base induction step $n=1$, what is the value of $\\frac{1}{1 \\times 2} + \\frac{1}{2 \\times 3} + \\dots + \\frac{1}{n(n+1)}$?",
+          "options": [
+            "$\\frac{n}{n+1}$",
+            "$\\frac{1}{n+1}$",
+            "$\\frac{n+1}{n}$",
+            "$\\frac{n}{2(n+1)}$"
+          ],
+          "answer": 0,
+          "explanation": "Exercise 2.1(4g) states that $\\sum_{k=1}^n \\frac{1}{k(k+1)} = \\frac{n}{n+1}$[cite: 426].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q45",
+          "question": "Which of the following numbers is an irrational number?",
+          "options": [
+            "$2.75$",
+            "$0.\\overline{27}$",
+            "$\\sqrt{8} - \\frac{1}{\\sqrt{2}}$",
+            "$\\frac{22}{7}$"
+          ],
+          "answer": 2,
+          "explanation": "$\\sqrt{8} - \\frac{1}{\\sqrt{2}} = 2\\sqrt{2} - \\frac{\\sqrt{2}}{2} = \\frac{3\\sqrt{2}}{2}$, which is an irrational number[cite: 429, 433].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q46",
+          "question": "What is the additive inverse of the complex number $z = -5 + 8i$?",
+          "options": [
+            "$-5 - 8i$",
+            "$5 - 8i$",
+            "$5 + 8i$",
+            "$\\frac{5}{89} - \\frac{8}{89}i$"
+          ],
+          "answer": 1,
+          "explanation": "The additive inverse is $-z = -(-5 + 8i) = 5 - 8i$[cite: 438].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q47",
+          "question": "What is the principal argument of a negative real number $z = -a$ (where $a > 0$)?",
+          "options": [
+            "$0$",
+            "$\\pi$",
+            "$-\\pi$",
+            "$\\pi/2$"
+          ],
+          "answer": 1,
+          "explanation": "Negative real numbers lie along the negative real axis; by convention, $\\text{Arg}(z) = \\pi \\in (-\\pi, \\pi]$[cite: 439, 440].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q48",
+          "question": "For any complex number $z$, $\\text{Re}(iz)$ is equal to:",
+          "options": [
+            "$\\text{Re}(z)$",
+            "$-\\text{Im}(z)$",
+            "$\\text{Im}(z)$",
+            "$-\\text{Re}(z)$"
+          ],
+          "answer": 1,
+          "explanation": "Let $z = x + iy$. Then $iz = ix + i^2y = -y + ix$. Thus, $\\text{Re}(iz) = -y = -\\text{Im}(z)$[cite: 439].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q49",
+          "question": "What is the polar form of the quotient $\\frac{z_1}{z_2}$ if $z_1 = r_1(\\cos \\theta_1 + i \\sin \\theta_1)$ and $z_2 = r_2(\\cos \\theta_2 + i \\sin \\theta_2)$?",
+          "options": [
+            "$\\frac{r_1}{r_2}[\\cos(\\theta_1 + \\theta_2) + i \\sin(\\theta_1 + \\theta_2)]$",
+            "$\\frac{r_1}{r_2}[\\cos(\\theta_1 - \\theta_2) + i \\sin(\\theta_1 - \\theta_2)]$",
+            "$(r_1 - r_2)[\\cos(\\theta_1 / \\theta_2) + i \\sin(\\theta_1 / \\theta_2)]$",
+            "$\\frac{r_1}{r_2}[\\cos(\\theta_1 \\theta_2) + i \\sin(\\theta_1 \\theta_2)]$"
+          ],
+          "answer": 1,
+          "explanation": "By the division rule in polar form, moduli are divided and arguments are subtracted[cite: 441].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q50",
+          "question": "Which of the following subsets of $\\mathbb{R}$ has NO upper bound?",
+          "options": [
+            "$(-\\infty, 4]$",
+            "$\\{1/n : n \\in \\mathbb{N}\\}$",
+            "The set of natural numbers $\\mathbb{N}$",
+            "$[2, 7)$"
+          ],
+          "answer": 2,
+          "explanation": "The set of natural numbers $\\mathbb{N} = \\{1, 2, 3, \\dots\\}$ is infinite and unbounded above in $\\mathbb{R}$[cite: 432].",
+          "difficulty": "classic"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "Functions",
+      "questions": [
+        {
+          "id": "C03-Q01",
+          "question": "The Cartesian product $A \\times B$ of two sets $A$ and $B$ is formally defined as:",
+          "options": [
+            "$\\{a + b : a \\in A \\text{ and } b \\in B\\}$",
+            "$\\{(a, b) : a \\in A \\text{ and } b \\in B\\}$",
+            "$\\{a \\in A : a \\in B\\}$",
+            "$\\{(b, a) : a \\in A \\text{ and } b \\in B\\}$"
+          ],
+          "answer": 1,
+          "explanation": "Definition 3.1 defines the Cartesian product $A \\times B$ as the set of all ordered pairs $(a, b)$ with $a \\in A$ and $b \\in B$[cite: 447].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q02",
+          "question": "A relation $R$ from a set $A$ into a set $B$ is defined mathematically as:",
+          "options": [
+            "Any function from $A$ to $B$",
+            "Any subset of the Cartesian product $A \\times B$",
+            "The intersection $A \\cap B$",
+            "The power set $P(A \\cup B)$"
+          ],
+          "answer": 1,
+          "explanation": "Definition 3.3 defines a relation from $A$ to $B$ as any subset of $A \\times B$[cite: 447].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q03",
+          "question": "What is the defining condition for a relation $f$ from $A$ into $B$ to be a function?",
+          "options": [
+            "The range of $f$ must equal the codomain $B$",
+            "Each element in the domain $A$ is mapped to exactly one element in the range $B$",
+            "No two elements in $B$ have the same pre-image",
+            "$A$ and $B$ must have the same number of elements"
+          ],
+          "answer": 1,
+          "explanation": "Definition 3.5 states that a function is a relation in which each element of the domain corresponds to exactly one element of the range[cite: 450].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q04",
+          "question": "Why is the relation $R = \\{(5, -2), (3, 5), (3, 7)\\}$ NOT a function?",
+          "options": [
+            "Because the domain has negative values",
+            "Because the single domain element 3 is assigned to two different range values (5 and 7)",
+            "Because its inverse is empty",
+            "Because it is not a subset of $\\mathbb{R} \\times \\mathbb{R}$"
+          ],
+          "answer": 1,
+          "explanation": "A relation fails to be a function if any domain element corresponds to more than one range element[cite: 450].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q05",
+          "question": "What is the domain of the real-valued function $f(x) = \\frac{2x}{3x - 5}$?",
+          "options": [
+            "$\\mathbb{R}$",
+            "$\\{x \\in \\mathbb{R} : x \\ne 5/3\\}$",
+            "$\\{x \\in \\mathbb{R} : x \\ne 0\\}$",
+            "$(5/3, \\infty)$"
+          ],
+          "answer": 1,
+          "explanation": "Denominator cannot be zero: $3x - 5 = 0 \\implies x = 5/3$. Thus $\\text{Dom}(f) = \\{x : x \\ne 5/3\\}$[cite: 452, 453].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q06",
+          "question": "What is the domain of the function $f(x) = \\sqrt{3x - x^2}$ in the real number system?",
+          "options": [
+            "$(-\\infty, 0] \\cup [3, \\infty)$",
+            "$[0, 3]$",
+            "$(0, 3)$",
+            "$(-\\infty, 3]$"
+          ],
+          "answer": 1,
+          "explanation": "The radicand must be non-negative: $3x - x^2 \\ge 0 \\iff x(3 - x) \\ge 0$. Sign analysis yields $[0, 3]$[cite: 453].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C03-Q07",
+          "question": "If $f(x) = 3x^2 + 2$ and $g(x) = 5x - 4$, what is the domain of the quotient function $(f/g)(x)$?",
+          "options": [
+            "$\\mathbb{R}$",
+            "$\\mathbb{R} \\setminus \\{4/5\\}$",
+            "$\\mathbb{R} \\setminus \\{5/4\\}$",
+            "$[4/5, \\infty)$"
+          ],
+          "answer": 1,
+          "explanation": "The quotient domain excludes roots of $g(x)$: $5x - 4 = 0 \\implies x = 4/5$. So $\\text{Dom}(f/g) = \\mathbb{R} \\setminus \\{4/5\\}$[cite: 455, 456].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q08",
+          "question": "Given $f(x) = 5x^2 - 3x + 2$ and $g(x) = 4x + 3$, what is $(f \\circ g)(-2)$?",
+          "options": [
+            "67",
+            "142",
+            "-5",
+            "120"
+          ],
+          "answer": 1,
+          "explanation": "$g(-2) = 4(-2) + 3 = -5$. Then $f(-5) = 5(-5)^2 - 3(-5) + 2 = 5(25) + 15 + 2 = 125 + 17 = 142$[cite: 457].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C03-Q09",
+          "question": "When are two functions $f$ and $g$ said to be equal ($f = g$)?",
+          "options": [
+            "When their algebraic formulas look similar",
+            "If and only if they have the same domain, and $f(x) = g(x)$ for every element $x$ in that domain",
+            "When their graphs have the same y-intercept",
+            "When they are both invertible"
+          ],
+          "answer": 1,
+          "explanation": "Definition 3.9 states that two functions are equal iff they have the same domain and identical functional values for all $x$ in that domain[cite: 458].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q10",
+          "question": "A function $f: A \\to B$ is called ONE-TO-ONE (1-1 or injective) if and only if:",
+          "options": [
+            "$\\text{Range}(f) = B$",
+            "For all $x_1, x_2 \\in A$, $f(x_1) = f(x_2)$ implies $x_1 = x_2$",
+            "Every element of $A$ has an inverse in $B$",
+            "The graph is a straight line"
+          ],
+          "answer": 1,
+          "explanation": "Definition 3.10 states that $f$ is 1-1 iff distinct domain elements have distinct images: $f(x_1) = f(x_2) \\implies x_1 = x_2$[cite: 460].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q11",
+          "question": "A function $f: A \\to B$ is called ONTO (surjective) if and only if:",
+          "options": [
+            "$f$ is one-to-one",
+            "$\\text{Range}(f) = B$ (every element of $B$ is an image of at least one element of $A$)",
+            "$\\text{Dom}(f) = B$",
+            "$B$ contains no negative numbers"
+          ],
+          "answer": 1,
+          "explanation": "Definition 3.11 defines an onto function as one where the range equals the codomain $B$[cite: 460].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q12",
+          "question": "A function $f: A \\to B$ is a 1-1 CORRESPONDENCE (bijective) if and only if:",
+          "options": [
+            "$f$ is both one-to-one and onto",
+            "$f$ has an odd degree polynomial",
+            "$f(x) = f(-x)$",
+            "The domain and range are disjoint"
+          ],
+          "answer": 0,
+          "explanation": "Definition 3.12 defines a 1-1 correspondence as a function that is both injective (1-1) and surjective (onto)[cite: 461].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q13",
+          "question": "Under what condition does a function $f$ possess an inverse function $f^{-1}$?",
+          "options": [
+            "If and only if $f$ is a one-to-one function",
+            "If and only if $f$ is a quadratic function",
+            "Every relation possesses an inverse function",
+            "If $f(0) = 0$"
+          ],
+          "answer": 0,
+          "explanation": "A function has an inverse function if and only if it is one-to-one[cite: 461].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q14",
+          "question": "What is the inverse function of $f(x) = \\frac{x}{x + 2}$?",
+          "options": [
+            "$f^{-1}(x) = \\frac{x + 2}{x}$",
+            "$f^{-1}(x) = \\frac{2x}{1 - x}$",
+            "$f^{-1}(x) = \\frac{2x}{x - 1}$",
+            "$f^{-1}(x) = 1 - \\frac{2}{x}$"
+          ],
+          "answer": 1,
+          "explanation": "Interchange variables: $x = \\frac{y}{y + 2} \\implies xy + 2x = y \\implies 2x = y(1 - x) \\implies y = \\frac{2x}{1 - x}$[cite: 462].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C03-Q15",
+          "question": "What is the maximum number of real zeros a polynomial function of degree $n$ can have?",
+          "options": [
+            "$n - 1$ zeros",
+            "$n$ zeros",
+            "$2n$ zeros",
+            "Infinitely many"
+          ],
+          "answer": 1,
+          "explanation": "A polynomial of degree $n$ has at most $n$ zeros in the real numbers[cite: 465].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q16",
+          "question": "The Division Algorithm for polynomials states that $p(x) = d(x) \\cdot q(x) + R(x)$, where:",
+          "options": [
+            "$R(x) = d(x)$",
+            "Either $R(x) = 0$ or the degree of $R(x)$ is strictly less than the degree of $d(x)$",
+            "The degree of $R(x)$ equals the degree of $p(x)$",
+            "$q(x)$ is a constant"
+          ],
+          "answer": 1,
+          "explanation": "The remainder $R(x)$ must either be 0 or have a degree strictly less than the divisor $d(x)$[cite: 465].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q17",
+          "question": "According to the Remainder Theorem, when a polynomial $p(x)$ is divided by the linear factor $x - r$, the remainder is:",
+          "options": [
+            "$r$",
+            "$p(r)$",
+            "$p(0)$",
+            "$p(x) / (x - r)$"
+          ],
+          "answer": 1,
+          "explanation": "The Remainder Theorem establishes that dividing $p(x)$ by $x - r$ produces a constant remainder equal to $p(r)$[cite: 466].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q18",
+          "question": "What does the Factor Theorem state?",
+          "options": [
+            "$x - r$ is a factor of $p(x)$ if and only if $p(r) = 0$",
+            "Every polynomial has at least two factors",
+            "$p(x)$ has no zeros if $p(r) > 0$",
+            "All factors are prime numbers"
+          ],
+          "answer": 0,
+          "explanation": "The Factor Theorem states that $(x - r)$ is a factor of $p(x)$ if and only if $r$ is a root ($p(r) = 0$)[cite: 466].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q19",
+          "question": "What is the remainder when $p(x) = x^3 - x^2 + 3x - 1$ is divided by $x - 2$?",
+          "options": [
+            "5",
+            "9",
+            "13",
+            "0"
+          ],
+          "answer": 1,
+          "explanation": "By the Remainder Theorem, $R = p(2) = 2^3 - 2^2 + 3(2) - 1 = 8 - 4 + 6 - 1 = 9$[cite: 466].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q20",
+          "question": "The Fundamental Theorem of Algebra, proved by Carl Friedrich Gauss, asserts that:",
+          "options": [
+            "All polynomials have only integer roots",
+            "Every polynomial $p(x)$ of degree $n > 0$ with complex coefficients has at least one zero in the complex number system",
+            "Every polynomial has a vertical asymptote",
+            "The graph of a polynomial has no turning points"
+          ],
+          "answer": 1,
+          "explanation": "The Fundamental Theorem of Algebra guarantees that every non-constant polynomial has at least one complex zero[cite: 466, 467].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q21",
+          "question": "According to the Conjugate Roots Theorem, if a polynomial $p(x)$ has real coefficients and $a + bi$ is a zero, then:",
+          "options": [
+            "$-a - bi$ must be a zero",
+            "Its complex conjugate $a - bi$ must also be a zero",
+            "$b$ must equal zero",
+            "$p(x)$ cannot be factored"
+          ],
+          "answer": 1,
+          "explanation": "Complex roots of polynomials with real coefficients always occur in conjugate pairs: $a \\pm bi$[cite: 468].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q22",
+          "question": "According to the Rational Root Theorem, if $p/q$ is a rational root in lowest terms of $a_n x^n + \\dots + a_0 = 0$ with integer coefficients, then:",
+          "options": [
+            "$p$ is a factor of $a_n$ and $q$ is a factor of $a_0$",
+            "$p$ is a factor of $a_0$ and $q$ is a factor of $a_n$",
+            "$p + q = a_n$",
+            "$p/q = a_0 / a_n$"
+          ],
+          "answer": 1,
+          "explanation": "The numerator $p$ must divide the constant term $a_0$, and the denominator $q$ must divide the leading coefficient $a_n$[cite: 469].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q23",
+          "question": "For a rational function $f(x) = \\frac{n(x)}{d(x)}$ in lowest terms, the vertical line $x = a$ is a VERTICAL ASYMPTOTE if:",
+          "options": [
+            "$n(a) = 0$",
+            "$d(a) = 0$ and $n(a) \\ne 0$",
+            "$n(a) = d(a) = 0$",
+            "The degree of $n(x)$ is larger than $d(x)$"
+          ],
+          "answer": 1,
+          "explanation": "A vertical asymptote occurs where the denominator is zero but the numerator is non-zero, driving $f(x) \\to \\pm\\infty$[cite: 472, 473].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q24",
+          "question": "What is the horizontal asymptote of the rational function $f(x) = \\frac{a_n x^n + \\dots}{b_m x^m + \\dots}$ when $\\text{degree}(n(x)) < \\text{degree}(d(x))$?",
+          "options": [
+            "$y = a_n / b_m$",
+            "$y = 0$ (the x-axis)",
+            "There is no horizontal asymptote",
+            "$x = 0$"
+          ],
+          "answer": 1,
+          "explanation": "When the degree of the numerator is strictly less than the degree of the denominator, $y = 0$ is the horizontal asymptote[cite: 473].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q25",
+          "question": "What is the horizontal asymptote of the rational function $f(x) = \\frac{4x^2 + 1}{2x^2 - 3}$?",
+          "options": [
+            "$y = 0$",
+            "$y = 2$",
+            "$y = 4$",
+            "$x = 2$"
+          ],
+          "answer": 1,
+          "explanation": "Degrees are equal ($n=2$). The horizontal asymptote is the ratio of leading coefficients: $y = 4/2 = 2$[cite: 473].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q26",
+          "question": "Under what condition does a rational function $f(x) = \\frac{n(x)}{d(x)}$ have an OBLIQUE (slant) asymptote?",
+          "options": [
+            "$\\text{degree}(n(x)) = \\text{degree}(d(x))$",
+            "$\\text{degree}(n(x)) = \\text{degree}(d(x)) + 1$",
+            "$\\text{degree}(n(x)) < \\text{degree}(d(x))$",
+            "When $d(x)$ has no real roots"
+          ],
+          "answer": 1,
+          "explanation": "An oblique asymptote occurs if and only if the degree of the numerator is exactly one greater than the degree of the denominator[cite: 473, 477].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q27",
+          "question": "What is the domain and range of the standard exponential function $f(x) = b^x$ ($b > 0, b \\ne 1$)?",
+          "options": [
+            "$\\text{Dom} = (0, \\infty)$, $\\text{Range} = \\mathbb{R}$",
+            "$\\text{Dom} = \\mathbb{R}$, $\\text{Range} = (0, \\infty)$",
+            "$\\text{Dom} = [0, \\infty)$, $\\text{Range} = [0, \\infty)$",
+            "$\\text{Dom} = \\mathbb{R}$, $\\text{Range} = \\mathbb{R}$"
+          ],
+          "answer": 1,
+          "explanation": "Exponential functions are defined for all real numbers $\\mathbb{R}$ and yield strictly positive outputs $(0, \\infty)$[cite: 480, 481].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q28",
+          "question": "The graph of $y = b^x$ exhibits EXPONENTIAL DECAY when the base $b$ satisfies:",
+          "options": [
+            "$b > 1$",
+            "$0 < b < 1$",
+            "$b < 0$",
+            "$b = 1$"
+          ],
+          "answer": 1,
+          "explanation": "When $0 < b < 1$, the function values decrease as $x$ increases, exhibiting exponential decay[cite: 481].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q29",
+          "question": "What is the equivalent exponential form of the logarithmic equation $\\log_b x = y$?",
+          "options": [
+            "$x^y = b$",
+            "$b^y = x$",
+            "$y^b = x$",
+            "$b^x = y$"
+          ],
+          "answer": 1,
+          "explanation": "Definition 2.20 establishes that $\\log_b x = y \\iff b^y = x$[cite: 484].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q30",
+          "question": "What is the value of $\\log_3 81$?",
+          "options": [
+            "3",
+            "4",
+            "9",
+            "27"
+          ],
+          "answer": 1,
+          "explanation": "Let $t = \\log_3 81 \\implies 3^t = 81 = 3^4 \\implies t = 4$[cite: 484, 485].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q31",
+          "question": "What is the domain of the logarithmic function $f(x) = \\log_b x$?",
+          "options": [
+            "$\\mathbb{R}$",
+            "$(0, \\infty)$",
+            "$[0, \\infty)$",
+            "$(-\\infty, 0)$"
+          ],
+          "answer": 1,
+          "explanation": "Logarithms are only defined for strictly positive real inputs $(0, \\infty)$[cite: 486].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q32",
+          "question": "According to the properties of logarithms, $\\log_b(u/v)$ equals:",
+          "options": [
+            "$\\log_b u / \\log_b v$",
+            "$\\log_b u - \\log_b v$",
+            "$\\log_b(u - v)$",
+            "$\\log_b u + \\log_b v$"
+          ],
+          "answer": 1,
+          "explanation": "The logarithm of a quotient is the logarithm of the numerator minus the logarithm of the denominator[cite: 487].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q33",
+          "question": "The natural logarithmic function $\\ln x$ uses which special mathematical constant as its base?",
+          "options": [
+            "10",
+            "$e \\approx 2.71828$",
+            "$\\pi$",
+            "2"
+          ],
+          "answer": 1,
+          "explanation": "Natural logarithm $\\ln x = \\log_e x$ where $e$ is Euler's constant $\\approx 2.71828$[cite: 483, 488].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q34",
+          "question": "How many degrees are equivalent to an angle measure of $\\frac{3\\pi}{5}$ radians?",
+          "options": [
+            "$36^\\circ$",
+            "$108^\\circ$",
+            "$72^\\circ$",
+            "$54^\\circ$"
+          ],
+          "answer": 1,
+          "explanation": "Using the conversion formula: $\\theta = \\frac{3\\pi}{5} \\times \\frac{180^\\circ}{\\pi} = 3 \\times 36^\\circ = 108^\\circ$[cite: 490].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q35",
+          "question": "For an angle $\\theta$ in standard position on a circle of radius $r$, how is $\\tan \\theta$ defined in Cartesian coordinates?",
+          "options": [
+            "$y / r$",
+            "$x / r$",
+            "$y / x$ (provided $x \\ne 0$)",
+            "$x / y$"
+          ],
+          "answer": 2,
+          "explanation": "Definition 3.23 defines $\\tan \\theta = y/x$ for $x \\ne 0$[cite: 491].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q36",
+          "question": "What is the domain of the tangent function $f(x) = \\tan x$?",
+          "options": [
+            "$\\mathbb{R}$",
+            "$\\{x : x \\ne n\\pi, n \\in \\mathbb{Z}\\}$",
+            "$\\{x : x \\ne \\frac{\\pi}{2} + n\\pi, n \\in \\mathbb{Z}\\}$",
+            "$(-1, 1)$"
+          ],
+          "answer": 2,
+          "explanation": "Tangent is undefined when $x = 0$ (on the y-axis), which occurs at odd multiples of $\\pi/2$: $x \\ne \\pi/2 + n\\pi$[cite: 493, 496].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C03-Q37",
+          "question": "What are the fundamental periods of $y = \\sin x$, $y = \\cos x$, and $y = \\tan x$ respectively?",
+          "options": [
+            "$\\pi, \\pi, 2\\pi$",
+            "$2\\pi, 2\\pi, \\pi$",
+            "$2\\pi, \\pi, \\pi$",
+            "$\\pi, 2\\pi, 2\\pi$"
+          ],
+          "answer": 1,
+          "explanation": "Sine and cosine repeat every $2\\pi$ radians, whereas tangent has a period of $\\pi$ radians[cite: 494].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q38",
+          "question": "What are the period and amplitude of the trigonometric function $y = 3 \\sin(2x)$?",
+          "options": [
+            "Period $= 2\\pi$, Amplitude $= 3$",
+            "Period $= \\pi$, Amplitude $= 3$",
+            "Period $= \\pi$, Amplitude $= 1$",
+            "Period $= 4\\pi$, Amplitude $= 6$"
+          ],
+          "answer": 1,
+          "explanation": "Amplitude is $|A| = 3$. Period is $2\\pi / B = 2\\pi / 2 = \\pi$[cite: 494, 495].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C03-Q39",
+          "question": "Which of the following is the fundamental Pythagorean Identity in trigonometry?",
+          "options": [
+            "$\\sin^2 x - \\cos^2 x = 1$",
+            "$\\sin^2 x + \\cos^2 x = 1$",
+            "$\\tan^2 x - 1 = \\sec^2 x$",
+            "$\\cos(2x) = 2\\cos x$"
+          ],
+          "answer": 1,
+          "explanation": "Identity 6 states the Pythagorean relationship: $\\sin^2 x + \\cos^2 x = 1$[cite: 496].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q40",
+          "question": "What is the double-angle formula for $\\sin(2x)$?",
+          "options": [
+            "$\\cos^2 x - \\sin^2 x$",
+            "$2\\sin x \\cos x$",
+            "$\\sin^2 x + \\cos^2 x$",
+            "$2\\tan x$"
+          ],
+          "answer": 1,
+          "explanation": "Identity 12 gives $\\sin(2x) = 2\\sin x \\cos x$[cite: 497].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q41",
+          "question": "How is the hyperbolic sine function, $\\sinh x$, defined in terms of exponential functions?",
+          "options": [
+            "$\\frac{e^x + e^{-x}}{2}$",
+            "$\\frac{e^x - e^{-x}}{2}$",
+            "$\\frac{e^x - e^{-x}}{e^x + e^{-x}}$",
+            "$\\frac{2}{e^x - e^{-x}}$"
+          ],
+          "answer": 1,
+          "explanation": "Definition 3.27 defines the hyperbolic sine as $\\sinh x = \\frac{e^x - e^{-x}}{2}$[cite: 497].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q42",
+          "question": "How is the hyperbolic cosine function, $\\cosh x$, defined?",
+          "options": [
+            "$\\frac{e^x - e^{-x}}{2}$",
+            "$\\frac{e^x + e^{-x}}{2}$",
+            "$e^x + e^{-x}$",
+            "$\\frac{1}{e^x + e^{-x}}$"
+          ],
+          "answer": 1,
+          "explanation": "Definition 3.27 defines the hyperbolic cosine as $\\cosh x = \\frac{e^x + e^{-x}}{2}$[cite: 497].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q43",
+          "question": "Which of the following identities holds for all real $x$ in hyperbolic trigonometry?",
+          "options": [
+            "$\\cosh^2 x + \\sinh^2 x = 1$",
+            "$\\cosh^2 x - \\sinh^2 x = 1$",
+            "$\\sinh^2 x - \\cosh^2 x = 1$",
+            "$\\tanh^2 x + 1 = \\text{sech}^2 x$"
+          ],
+          "answer": 1,
+          "explanation": "Example 3.28 proves the fundamental hyperbolic identity: $\\cosh^2 x - \\sinh^2 x = 1$[cite: 498].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q44",
+          "question": "What is the range of the hyperbolic cosine function $y = \\cosh x$?",
+          "options": [
+            "$\\mathbb{R}$",
+            "$[1, \\infty)$",
+            "$(0, \\infty)$",
+            "$[-1, 1]$"
+          ],
+          "answer": 1,
+          "explanation": "Since $\\cosh(0) = 1$ is the minimum value and $e^x/2 \\to \\infty$, the range of $\\cosh x$ is $[1, \\infty)$[cite: 498, 499].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C03-Q45",
+          "question": "Are the hyperbolic functions $\\sinh x$ and $\\cosh x$ periodic functions?",
+          "options": [
+            "Yes, with period $2\\pi$",
+            "No, hyperbolic functions are not periodic",
+            "Yes, with period $\\pi$",
+            "Only $\\sinh x$ is periodic"
+          ],
+          "answer": 1,
+          "explanation": "Unlike the circular trigonometric functions, hyperbolic functions are non-periodic combinations of exponentials[cite: 498].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q46",
+          "question": "What is the exact numerical value of $\\sinh(\\ln 2)$?",
+          "options": [
+            "$0$",
+            "$3/4$",
+            "$5/4$",
+            "$1$"
+          ],
+          "answer": 1,
+          "explanation": "$\\sinh(\\ln 2) = \\frac{e^{\\ln 2} - e^{-\\ln 2}}{2} = \\frac{2 - 1/2}{2} = \\frac{3/2}{2} = \\frac{3}{4}$[cite: 497, 501].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C03-Q47",
+          "question": "Why are trigonometric functions called 'circular functions' while $\\cosh$ and $\\sinh$ are called 'hyperbolic functions'?",
+          "options": [
+            "Because circles are round and hyperbolas are lines",
+            "Because $(\\cos \\theta, \\sin \\theta)$ lies on the circle $x^2 + y^2 = 1$, whereas $(\\cosh \\theta, \\sinh \\theta)$ lies on the hyperbola $x^2 - y^2 = 1$",
+            "Because of the shapes of their coordinate axes",
+            "There is no mathematical reason"
+          ],
+          "answer": 1,
+          "explanation": "Identity $\\cos^2\\theta + \\sin^2\\theta = 1$ parametrizes the unit circle, while $\\cosh^2\\theta - \\sinh^2\\theta = 1$ parametrizes the unit hyperbola[cite: 500].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C03-Q48",
+          "question": "What is the solution to the exponential equation $2^{x-1} = 8$?",
+          "options": [
+            "$x = 2$",
+            "$x = 4$",
+            "$x = 3$",
+            "$x = 5$"
+          ],
+          "answer": 1,
+          "explanation": "$2^{x-1} = 2^3 \\implies x - 1 = 3 \\implies x = 4$[cite: 500].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q49",
+          "question": "If $\\tan \\theta = 1/2$ and $\\sin \\theta < 0$, in which quadrant does $\\theta$ lie?",
+          "options": [
+            "Quadrant I",
+            "Quadrant II",
+            "Quadrant III",
+            "Quadrant IV"
+          ],
+          "answer": 2,
+          "explanation": "Tangent is positive in Quadrants I and III; sine is negative in Quadrants III and IV. The common quadrant is Quadrant III[cite: 491, 501].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C03-Q50",
+          "question": "What is the inverse function of $f(x) = e^{3x - 1}$?",
+          "options": [
+            "$f^{-1}(x) = \\frac{\\ln x + 1}{3}$",
+            "$f^{-1}(x) = \\ln(3x - 1)$",
+            "$f^{-1}(x) = \\frac{1}{e^{3x-1}}$",
+            "$f^{-1}(x) = 3\\ln x - 1$"
+          ],
+          "answer": 0,
+          "explanation": "$x = e^{3y - 1} \\implies \\ln x = 3y - 1 \\implies 3y = \\ln x + 1 \\implies y = \\frac{\\ln x + 1}{3}$[cite: 488, 501].",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "Analytic Geometry",
+      "questions": [
+        {
+          "id": "C04-Q01",
+          "question": "What is the distance formula between two points $P(x_1, y_1)$ and $Q(x_2, y_2)$ in the coordinate plane?",
+          "options": [
+            "$|PQ| = (x_2 - x_1) + (y_2 - y_1)$",
+            "$|PQ| = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$",
+            "$|PQ| = \\sqrt{(x_2 + x_1)^2 + (y_2 + y_1)^2}$",
+            "$|PQ| = (x_2 - x_1)^2 - (y_2 - y_1)^2$"
+          ],
+          "answer": 1,
+          "explanation": "Applying the Pythagorean theorem to right triangle $PRQ$ yields $|PQ| = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$[cite: 503].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q02",
+          "question": "What is the distance between the points $P(-1, 2)$ and $Q(5, -6)$?",
+          "options": [
+            "8",
+            "10",
+            "12",
+            "$\\sqrt{14}$"
+          ],
+          "answer": 1,
+          "explanation": "$|PQ| = \\sqrt{(5 - (-1))^2 + (-6 - 2)^2} = \\sqrt{6^2 + (-8)^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10$[cite: 504].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q03",
+          "question": "If point $R(x_0, y_0)$ divides line segment $PQ$ in the ratio $r_1 : r_2$, what are the coordinates of $R$?",
+          "options": [
+            "$x_0 = \\frac{x_1 + x_2}{2}, y_0 = \\frac{y_1 + y_2}{2}$",
+            "$x_0 = \\frac{r_1 x_2 + r_2 x_1}{r_1 + r_2}, y_0 = \\frac{r_1 y_2 + r_2 y_1}{r_1 + r_2}$",
+            "$x_0 = \\frac{r_2 x_2 + r_1 x_1}{r_1 + r_2}, y_0 = \\frac{r_2 y_2 + r_1 y_1}{r_1 + r_2}$",
+            "$x_0 = r_1 x_1 + r_2 x_2, y_0 = r_1 y_1 + r_2 y_2$"
+          ],
+          "answer": 1,
+          "explanation": "Theorem 4.1 establishes the division of segments formula: $x_0 = \\frac{r_1 x_2 + r_2 x_1}{r_1 + r_2}, y_0 = \\frac{r_1 y_2 + r_2 y_1}{r_1 + r_2}$[cite: 504, 505].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C04-Q04",
+          "question": "What is the midpoint of the line segment joining $P(-3, 3)$ and $Q(7, 8)$?",
+          "options": [
+            "$(2, 11/2)$",
+            "$(5, 5)$",
+            "$(4, 11)$",
+            "$(2, 5)$"
+          ],
+          "answer": 0,
+          "explanation": "Midpoint $= (\\frac{-3 + 7}{2}, \\frac{3 + 8}{2}) = (\\frac{4}{2}, \\frac{11}{2}) = (2, 11/2)$[cite: 505].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q05",
+          "question": "The slope $m$ of a non-vertical straight line passing through points $P_1(x_1, y_1)$ and $P_2(x_2, y_2)$ is defined as:",
+          "options": [
+            "$m = \\frac{x_2 - x_1}{y_2 - y_1}$",
+            "$m = \\frac{y_2 - y_1}{x_2 - x_1} = \\tan \\theta$",
+            "$m = (y_2 - y_1)(x_2 - x_1)$",
+            "$m = \\sqrt{x_2^2 + y_2^2}$"
+          ],
+          "answer": 1,
+          "explanation": "Definition 4.1 defines slope as the rate of change $m = \\frac{\\Delta y}{\\Delta x} = \\frac{y_2 - y_1}{x_2 - x_1} = \\tan \\theta$[cite: 506].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q06",
+          "question": "What is the slope of a vertical line?",
+          "options": [
+            "0",
+            "1",
+            "Undefined",
+            "-1"
+          ],
+          "answer": 2,
+          "explanation": "For a vertical line, $x_2 - x_1 = 0$; hence division by zero makes the slope undefined[cite: 506].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q07",
+          "question": "What is the point-slope form of the equation of a line with slope $m$ passing through $(x_1, y_1)$?",
+          "options": [
+            "$y = mx + b$",
+            "$y - y_1 = m(x - x_1)$",
+            "$\\frac{x}{a} + \\frac{y}{b} = 1$",
+            "$ax + by + c = 0$"
+          ],
+          "answer": 1,
+          "explanation": "The point-slope form is given by $y - y_1 = m(x - x_1)$[cite: 507].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q08",
+          "question": "What is the equation of the line passing through $(3, -2)$ with an angle of inclination $\\theta = 135^\\circ$?",
+          "options": [
+            "$y = x - 5$",
+            "$y = -x + 1$",
+            "$x + y = 5$",
+            "$y = -x - 1$"
+          ],
+          "answer": 1,
+          "explanation": "Slope $m = \\tan(135^\\circ) = -1$. Point-slope: $y - (-2) = -1(x - 3) \\implies y + 2 = -x + 3 \\implies y = -x + 1$[cite: 507].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C04-Q09",
+          "question": "Two non-vertical lines $l_1$ and $l_2$ with slopes $m_1$ and $m_2$ are PERPENDICULAR if and only if:",
+          "options": [
+            "$m_1 = m_2$",
+            "$m_1 \\cdot m_2 = -1$",
+            "$m_1 + m_2 = 0$",
+            "$m_1 \\cdot m_2 = 1$"
+          ],
+          "answer": 1,
+          "explanation": "Two non-vertical lines are perpendicular iff the product of their slopes is $-1$ ($m_1 m_2 = -1$)[cite: 508].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q10",
+          "question": "What is the perpendicular distance between the point $P(x_0, y_0)$ and the line $L: ax + by + c = 0$?",
+          "options": [
+            "$d(P, L) = \\frac{|ax_0 + by_0 + c|}{\\sqrt{a^2 + b^2}}$",
+            "$d(P, L) = |ax_0 + by_0 + c|$",
+            "$d(P, L) = \\frac{a^2 + b^2}{|ax_0 + by_0 + c|}$",
+            "$d(P, L) = \\sqrt{(x_0 - a)^2 + (y_0 - b)^2}$"
+          ],
+          "answer": 0,
+          "explanation": "Theorem 4.2 establishes the point-line distance formula: $d(P, L) = \\frac{|ax_0 + by_0 + c|}{\\sqrt{a^2 + b^2}}$[cite: 510].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q11",
+          "question": "A circle is defined as the locus of points in a plane that are equidistant from a fixed point. The fixed point and constant distance are called:",
+          "options": [
+            "Focus and directrix",
+            "Center and radius",
+            "Vertex and focal length",
+            "Origin and intercept"
+          ],
+          "answer": 1,
+          "explanation": "Definition 4.2 defines the fixed point as the center and the constant distance as the radius[cite: 512].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q12",
+          "question": "What is the standard equation of a circle with center $(h, k)$ and radius $r$?",
+          "options": [
+            "$(x + h)^2 + (y + k)^2 = r^2$",
+            "$(x - h)^2 + (y - k)^2 = r^2$",
+            "$\\frac{(x-h)^2}{a^2} + \\frac{(y-k)^2}{b^2} = 1$",
+            "$(x - h)^2 = 4p(y - k)$"
+          ],
+          "answer": 1,
+          "explanation": "Applying the distance formula $|CP| = r$ gives $(x - h)^2 + (y - k)^2 = r^2$[cite: 513].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q13",
+          "question": "What are the center and radius of the circle given by $(x + 2)^2 + (y - 1)^2 = 16$?",
+          "options": [
+            "Center $(2, -1)$, radius $16$",
+            "Center $(-2, 1)$, radius $4$",
+            "Center $(-2, 1)$, radius $16$",
+            "Center $(2, 1)$, radius $4$"
+          ],
+          "answer": 1,
+          "explanation": "Comparing with $(x - h)^2 + (y - k)^2 = r^2$: $h = -2, k = 1$, and $r = \\sqrt{16} = 4$[cite: 514].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q14",
+          "question": "For the general quadratic equation $x^2 + y^2 + Dx + Ey + F = 0$, what condition guarantees that it represents a circle of positive radius?",
+          "options": [
+            "$D^2 + E^2 - 4F > 0$",
+            "$D^2 + E^2 - 4F = 0$",
+            "$D^2 + E^2 - 4F < 0$",
+            "$D = E = F$"
+          ],
+          "answer": 0,
+          "explanation": "Completing squares yields radius $r = \\frac{1}{2}\\sqrt{D^2 + E^2 - 4F}$, which requires $D^2 + E^2 - 4F > 0$ for a real non-degenerate circle[cite: 515].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C04-Q15",
+          "question": "If $D^2 + E^2 - 4F = 0$ in the equation $x^2 + y^2 + Dx + Ey + F = 0$, the locus is called a:",
+          "options": [
+            "Parabola",
+            "Point-circle (circle of zero radius)",
+            "Hyperbola",
+            "Non-existent locus"
+          ],
+          "answer": 1,
+          "explanation": "When $D^2 + E^2 - 4F = 0$, the equation is satisfied by only the single point $(-D/2, -E/2)$, termed a point-circle[cite: 515].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C04-Q16",
+          "question": "A straight line that intersects a circle at one and only one point is called a:",
+          "options": [
+            "Secant line",
+            "Tangent line",
+            "Chord",
+            "Directrix"
+          ],
+          "answer": 1,
+          "explanation": "A line intersecting a circle at exactly one point is a tangent line, and the point is the point of tangency[cite: 516].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q17",
+          "question": "What is the geometric relationship between a tangent line to a circle and the radius drawn to the point of tangency?",
+          "options": [
+            "They are parallel",
+            "They are perpendicular ($CP \\perp l$)",
+            "They intersect at an angle of $45^\\circ$",
+            "They have identical slopes"
+          ],
+          "answer": 1,
+          "explanation": "The radius to the point of tangency is perpendicular to the tangent line[cite: 517].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q18",
+          "question": "A parabola is defined as the set of all points in a plane equidistant from a fixed point $F$ (focus) and a fixed line $L$ called the:",
+          "options": [
+            "Asymptote",
+            "Directrix",
+            "Latus rectum",
+            "Axis of symmetry"
+          ],
+          "answer": 1,
+          "explanation": "Definition 4.3 defines the fixed reference line as the directrix of the parabola[cite: 519].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q19",
+          "question": "The point halfway between the focus and directrix on the axis of symmetry of a parabola is called the:",
+          "options": [
+            "Center",
+            "Vertex",
+            "Pole",
+            "Eccentricity"
+          ],
+          "answer": 1,
+          "explanation": "The point halfway between the focus and directrix is the vertex $V$ of the parabola[cite: 519].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q20",
+          "question": "If the focal length of a parabola is $p$, what is the length of its latus rectum (focal width)?",
+          "options": [
+            "$p$",
+            "$2p$",
+            "$4p$",
+            "$p^2$"
+          ],
+          "answer": 2,
+          "explanation": "The focal width (length of the latus rectum) is four times the focal length: $|BB'| = 4p$[cite: 519].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q21",
+          "question": "What is the standard equation of a vertical parabola with vertex $(h, k)$ that opens UPWARD?",
+          "options": [
+            "$(y - k)^2 = 4p(x - h)$",
+            "$(x - h)^2 = 4p(y - k)$",
+            "$(x - h)^2 = -4p(y - k)$",
+            "$(x - h)^2 + (y - k)^2 = 4p$"
+          ],
+          "answer": 1,
+          "explanation": "A vertical parabola opening upward has the equation $(x - h)^2 = 4p(y - k)$ with $p > 0$[cite: 520].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q22",
+          "question": "What are the vertex, focus, and directrix of the parabola $x^2 = y$?",
+          "options": [
+            "Vertex $(0,0)$, Focus $(0, 1/4)$, Directrix $y = -1/4$",
+            "Vertex $(0,0)$, Focus $(1/4, 0)$, Directrix $x = -1/4$",
+            "Vertex $(0,0)$, Focus $(0, 1)$, Directrix $y = -1$",
+            "Vertex $(1, 1)$, Focus $(0, 1/2)$, Directrix $y = -1/2$"
+          ],
+          "answer": 0,
+          "explanation": "$4p = 1 \\implies p = 1/4$. It is vertical and opens upward: vertex is $(0,0)$, focus is $(0, 1/4)$, and directrix is $y = -1/4$[cite: 521].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q23",
+          "question": "What is the standard equation of a horizontal parabola with vertex $(h, k)$ opening to the LEFT?",
+          "options": [
+            "$(y - k)^2 = 4p(x - h)$",
+            "$(y - k)^2 = -4p(x - h)$",
+            "$(x - h)^2 = -4p(y - k)$",
+            "$(y - k)^2 = -4p(x + h)$"
+          ],
+          "answer": 1,
+          "explanation": "A horizontal parabola opening to the left has the standard form $(y - k)^2 = -4p(x - h)$ with $p > 0$[cite: 522].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q24",
+          "question": "Find the vertex and focus of the parabola $y^2 + 4y + 8x - 4 = 0$.",
+          "options": [
+            "Vertex $(1, -2)$, Focus $(-1, -2)$",
+            "Vertex $(-1, 2)$, Focus $(1, 2)$",
+            "Vertex $(1, 2)$, Focus $(3, 2)$",
+            "Vertex $(0, 0)$, Focus $(-2, 0)$"
+          ],
+          "answer": 0,
+          "explanation": "Complete square: $(y + 2)^2 = -8(x - 1)$. Vertex is $(h, k) = (1, -2)$, $4p = 8 \\implies p = 2$. Opens left, so focus is $(1 - 2, -2) = (-1, -2)$[cite: 523].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C04-Q25",
+          "question": "An ellipse is defined as the locus of points in a plane such that:",
+          "options": [
+            "The difference of distances to two fixed foci is constant",
+            "The sum of the distances from each point to two fixed foci is constant ($|PF| + |PF'| = 2a$)",
+            "The distance to a fixed point equals the distance to a fixed line",
+            "The product of distances to two foci is constant"
+          ],
+          "answer": 1,
+          "explanation": "Definition 4.4 defines an ellipse by the constant sum of distances from any point on the curve to two foci: $|PF| + |PF'| = 2a$[cite: 525].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q26",
+          "question": "For an ellipse with semi-major axis $a$, semi-minor axis $b$, and focal distance $c$, which relationship holds?",
+          "options": [
+            "$a^2 + b^2 = c^2$",
+            "$b^2 = a^2 - c^2$ (or $a^2 = b^2 + c^2$)",
+            "$c^2 = a^2 + b^2$",
+            "$a = b + c$"
+          ],
+          "answer": 1,
+          "explanation": "Applying the Pythagorean theorem to triangle $\\Delta BCF$ yields $a^2 = b^2 + c^2$, so $b^2 = a^2 - c^2$[cite: 526].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q27",
+          "question": "The eccentricity $e$ of an ellipse is defined as the ratio $c/a$. What is the range of values for $e$?",
+          "options": [
+            "$e = 0$",
+            "$0 < e < 1$",
+            "$e = 1$",
+            "$e > 1$"
+          ],
+          "answer": 1,
+          "explanation": "Since $0 < c < a$, the eccentricity $e = c/a$ strictly satisfies $0 < e < 1$[cite: 526].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q28",
+          "question": "What is the standard equation of a HORIZONTAL ellipse centered at the origin $(0,0)$?",
+          "options": [
+            "$\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$ (where $a > b$)",
+            "$\\frac{x^2}{b^2} + \\frac{y^2}{a^2} = 1$ (where $a > b$)",
+            "$\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$",
+            "$x^2 + y^2 = a^2$"
+          ],
+          "answer": 0,
+          "explanation": "A horizontal ellipse has its major axis along the x-axis, placing the larger value $a^2$ under $x^2$: $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$[cite: 527].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q29",
+          "question": "Find the vertices and foci of the ellipse $16x^2 + 9y^2 = 144$.",
+          "options": [
+            "Vertices $(\\pm 4, 0)$, Foci $(\\pm\\sqrt{7}, 0)$",
+            "Vertices $(0, \\pm 4)$, Foci $(0, \\pm\\sqrt{7})$",
+            "Vertices $(0, \\pm 3)$, Foci $(0, \\pm 2)$",
+            "Vertices $(\\pm 3, 0)$, Foci $(\\pm\\sqrt{7}, 0)$"
+          ],
+          "answer": 1,
+          "explanation": "Dividing by 144 gives $\\frac{x^2}{9} + \\frac{y^2}{16} = 1$. This is a vertical ellipse with $a=4, b=3$. $c = \\sqrt{16 - 9} = \\sqrt{7}$. Vertices are $(0, \\pm 4)$, foci are $(0, \\pm\\sqrt{7})$[cite: 528].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C04-Q30",
+          "question": "What is the standard equation of a VERTICAL ellipse centered at $(h, k)$?",
+          "options": [
+            "$\\frac{(x - h)^2}{a^2} + \\frac{(y - k)^2}{b^2} = 1$",
+            "$\\frac{(x - h)^2}{b^2} + \\frac{(y - k)^2}{a^2} = 1$ (where $a > b$)",
+            "$\\frac{(x - h)^2}{a^2} - \\frac{(y - k)^2}{b^2} = 1$",
+            "$(x - h)^2 + (y - k)^2 = a^2$"
+          ],
+          "answer": 1,
+          "explanation": "For a vertical ellipse, the larger denominator $a^2$ is under the $y$-term: $\\frac{(x - h)^2}{b^2} + \\frac{(y - k)^2}{a^2} = 1$[cite: 529].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q31",
+          "question": "A hyperbola is geometrically defined as the locus of points in a plane such that:",
+          "options": [
+            "The sum of distances to two foci is constant",
+            "The absolute value of the difference of the distances to two fixed foci is constant ($||PF| - |PF'|| = 2a$)",
+            "The distance to a focus equals distance to a directrix",
+            "All points are equidistant from the origin"
+          ],
+          "answer": 1,
+          "explanation": "Definition 4.5 defines a hyperbola by the constant difference of distances from two fixed points (foci)[cite: 378, 502].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q32",
+          "question": "For a hyperbola with transverse axis $2a$, conjugate axis $2b$, and focal distance $c$, which relationship holds?",
+          "options": [
+            "$a^2 = b^2 + c^2$",
+            "$c^2 = a^2 + b^2$",
+            "$b^2 = a^2 + c^2$",
+            "$c = a + b$"
+          ],
+          "answer": 1,
+          "explanation": "In a hyperbola, the foci lie farther from the center than the vertices, so $c^2 = a^2 + b^2$[cite: 378].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q33",
+          "question": "What is the eccentricity $e$ of a hyperbola?",
+          "options": [
+            "$e < 1$",
+            "$e = 1$",
+            "$e > 1$",
+            "$e = 0$"
+          ],
+          "answer": 2,
+          "explanation": "For a hyperbola, $c > a$, which implies that its eccentricity $e = c/a > 1$[cite: 378].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q34",
+          "question": "What is the standard equation of a HORIZONTAL hyperbola centered at the origin $(0,0)$?",
+          "options": [
+            "$\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$",
+            "$\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$",
+            "$\\frac{y^2}{a^2} - \\frac{x^2}{b^2} = 1$",
+            "$x^2 - y^2 = 1$"
+          ],
+          "answer": 1,
+          "explanation": "A horizontal hyperbola opens left and right, with positive $x^2$-term: $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$[cite: 378].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q35",
+          "question": "What are the equations of the asymptotes for the horizontal hyperbola $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$?",
+          "options": [
+            "$y = \\pm \\frac{a}{b}x$",
+            "$y = \\pm \\frac{b}{a}x$",
+            "$y = \\pm x$",
+            "$x = \\pm a$"
+          ],
+          "answer": 1,
+          "explanation": "The asymptotes of a horizontal hyperbola centered at $(0,0)$ are lines $y = \\pm \\frac{b}{a}x$[cite: 378].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q36",
+          "question": "What are the equations of the asymptotes for a VERTICAL hyperbola $\\frac{y^2}{a^2} - \\frac{x^2}{b^2} = 1$?",
+          "options": [
+            "$y = \\pm \\frac{b}{a}x$",
+            "$y = \\pm \\frac{a}{b}x$",
+            "$y = \\pm \\frac{a}{b}$",
+            "$x = \\pm \\frac{a}{b}y$"
+          ],
+          "answer": 1,
+          "explanation": "For a vertical hyperbola centered at the origin, the asymptotes are $y = \\pm \\frac{a}{b}x$[cite: 378].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q37",
+          "question": "In the general second-degree equation $Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0$, what does the discriminant $\\Delta = B^2 - 4AC$ determine regarding conic sections?",
+          "options": [
+            "The area of the conic",
+            "The geometric type of the conic: ellipse if $\\Delta < 0$, parabola if $\\Delta = 0$, and hyperbola if $\\Delta > 0$",
+            "The slope of the directrix",
+            "The length of the major axis"
+          ],
+          "answer": 1,
+          "explanation": "The indicator $B^2 - 4AC$ classifies the conic: negative yields an ellipse (or circle), zero yields a parabola, and positive yields a hyperbola[cite: 378].",
+          "difficulty": "hard"
+        },
+        {
+          "id": "C04-Q38",
+          "question": "When axes are rotated by an angle $\\theta$ to eliminate the $xy$-term from $Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0$, the angle $\\theta$ is chosen such that:",
+          "options": [
+            "$\\tan \\theta = A / C$",
+            "$\\cot(2\\theta) = \\frac{A - C}{B}$ (or $\\tan(2\\theta) = \\frac{B}{A - C}$)",
+            "$\\sin(2\\theta) = B$",
+            "$\\theta = 45^\\circ$ always"
+          ],
+          "answer": 1,
+          "explanation": "The standard rotation angle $\\theta$ to remove the cross-product term satisfies $\\cot(2\\theta) = \\frac{A - C}{B}$[cite: 378].",
+          "difficulty": "hard"
+        },
+        {
+          "id": "C04-Q39",
+          "question": "What is the distance from the point $P(2, 3)$ to the line $L: 4x + 3y + 8 = 0$?",
+          "options": [
+            "3",
+            "5",
+            "25",
+            "1"
+          ],
+          "answer": 1,
+          "explanation": "$d = \\frac{|4(2) + 3(3) + 8|}{\\sqrt{4^2 + 3^2}} = \\frac{|8 + 9 + 8|}{\\sqrt{16 + 9}} = \\frac{25}{5} = 5$[cite: 510].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q40",
+          "question": "What is the equation of the line passing through $(2, -1)$ and perpendicular to $3x + 4y = 6$?",
+          "options": [
+            "$3x + 4y = 2$",
+            "$4x - 3y = 11$",
+            "$4x + 3y = 5$",
+            "$3x - 4y = 10$"
+          ],
+          "answer": 1,
+          "explanation": "Slope of given line is $-3/4$. Perpendicular slope is $4/3$. Equation: $y - (-1) = \\frac{4}{3}(x - 2) \\implies 3y + 3 = 4x - 8 \\implies 4x - 3y = 11$[cite: 508, 509].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C04-Q41",
+          "question": "If a line segment has endpoints $A(1, 1)$ and $B(7, 1)$, what is its length?",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "answer": 1,
+          "explanation": "The points lie on a horizontal line ($y=1$). Distance $= |7 - 1| = 6$[cite: 503, 505].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q42",
+          "question": "What is the center and radius of the circle $x^2 + y^2 - 4x + 6y - 12 = 0$?",
+          "options": [
+            "Center $(2, -3)$, radius 5",
+            "Center $(-2, 3)$, radius 5",
+            "Center $(2, -3)$, radius 25",
+            "Center $(4, -6)$, radius 12"
+          ],
+          "answer": 0,
+          "explanation": "Complete square: $(x - 2)^2 + (y + 3)^2 = 12 + 4 + 9 = 25$. Center is $(2, -3)$, radius is $\\sqrt{25} = 5$[cite: 514, 515].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C04-Q43",
+          "question": "What is the equation of the directrix of the parabola $y^2 = -16x$?",
+          "options": [
+            "$x = -4$",
+            "$x = 4$",
+            "$y = 4$",
+            "$y = -4$"
+          ],
+          "answer": 1,
+          "explanation": "Form is $y^2 = -4px \\implies 4p = 16 \\implies p = 4$. Opens left, so directrix is $x = p \\implies x = 4$[cite: 522].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q44",
+          "question": "What is the focus of the parabola $x^2 = 12y$?",
+          "options": [
+            "$(3, 0)$",
+            "$(0, 3)$",
+            "$(0, -3)$",
+            "$(0, 12)$"
+          ],
+          "answer": 1,
+          "explanation": "$4p = 12 \\implies p = 3$. Standard vertical parabola opening upward: focus is $(0, p) = (0, 3)$[cite: 520, 521].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q45",
+          "question": "What is the length of the major axis of the ellipse $\\frac{x^2}{25} + \\frac{y^2}{9} = 1$?",
+          "options": [
+            "5",
+            "10",
+            "6",
+            "3"
+          ],
+          "answer": 1,
+          "explanation": "$a^2 = 25 \\implies a = 5$. The length of the major axis is $2a = 2(5) = 10$[cite: 525, 527].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q46",
+          "question": "What is the length of the minor axis of the ellipse $\\frac{x^2}{16} + \\frac{y^2}{36} = 1$?",
+          "options": [
+            "4",
+            "8",
+            "6",
+            "12"
+          ],
+          "answer": 1,
+          "explanation": "$a^2 = 36$ (vertical major axis) and $b^2 = 16 \\implies b = 4$. Minor axis length is $2b = 2(4) = 8$[cite: 525, 527].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q47",
+          "question": "What is the distance between the two foci of an ellipse with equation $\\frac{x^2}{25} + \\frac{y^2}{16} = 1$?",
+          "options": [
+            "3",
+            "6",
+            "8",
+            "10"
+          ],
+          "answer": 1,
+          "explanation": "$c^2 = a^2 - b^2 = 25 - 16 = 9 \\implies c = 3$. Distance between foci is $2c = 2(3) = 6$[cite: 525, 526].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C04-Q48",
+          "question": "The conic section formed when a cutting plane is parallel to a generator line of a right circular cone is a:",
+          "options": [
+            "Circle",
+            "Parabola",
+            "Ellipse",
+            "Hyperbola"
+          ],
+          "answer": 1,
+          "explanation": "When the cutting plane is parallel to a generating line of the double cone, the intersection curve is a parabola[cite: 502].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C04-Q49",
+          "question": "The conic section formed when a cutting plane cuts both nappes of a double right circular cone is a:",
+          "options": [
+            "Parabola",
+            "Hyperbola",
+            "Circle",
+            "Ellipse"
+          ],
+          "answer": 1,
+          "explanation": "Cutting both halves (nappes) of the cone creates two unbounded branches, forming a hyperbola[cite: 502].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q50",
+          "question": "What are the coordinates of the vertices of the hyperbola $\\frac{x^2}{9} - \\frac{y^2}{16} = 1$?",
+          "options": [
+            "$(\\pm 3, 0)$",
+            "$(0, \\pm 4)$",
+            "$(\\pm 5, 0)$",
+            "$(\\pm 4, 0)$"
+          ],
+          "answer": 0,
+          "explanation": "This is a horizontal hyperbola with $a^2 = 9 \\implies a = 3$. Vertices are located at $(\\pm a, 0) = (\\pm 3, 0)$[cite: 378].",
+          "difficulty": "classic"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1602 @@
+{
+  "course": "General Physics",
+  "courseCode": "Phys1011",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Preliminaries",
+      "questions": [
+        {
+          "id": "C01-Q01",
+          "question": "Which of the following correctly lists only SI base quantities according to the module?",
+          "options": [
+            "Length, mass, and force",
+            "Length, electric current, and thermodynamic temperature",
+            "Energy, time, and luminous intensity",
+            "Power, amount of substance, and pressure"
+          ],
+          "answer": 1,
+          "explanation": "Length, mass, time, temperature, electric current, amount of substance, and luminous intensity are the seven fundamental SI base quantities[cite: 12].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q02",
+          "question": "What is the SI base unit and dimension symbol for amount of substance?",
+          "options": [
+            "kilogram (kg), dimension M",
+            "kelvin (K), dimension \u03b8",
+            "mole (N), dimension 1",
+            "candela (cd), dimension J"
+          ],
+          "answer": 2,
+          "explanation": "Table 1.1 states that amount of substance has the unit mole (symbol N) and dimension 1[cite: 12].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q03",
+          "question": "What is the dimensional formula for pressure in SI units?",
+          "options": [
+            "kg \u00b7 m \u00b7 s\u207b\u00b2",
+            "kg \u00b7 m\u207b\u00b9 \u00b7 s\u207b\u00b2",
+            "kg \u00b7 m\u00b2 \u00b7 s\u207b\u00b2",
+            "kg \u00b7 m\u00b2 \u00b7 s\u207b\u00b3"
+          ],
+          "answer": 1,
+          "explanation": "Pressure is defined as force per unit area, yielding the dimension kg \u00b7 m\u207b\u00b9 \u00b7 s\u207b\u00b2 (Pa)[cite: 12].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q04",
+          "question": "A vehicle weighs 2,500 lb. What is its equivalent mass in kilograms?",
+          "options": [
+            "567.0 kg",
+            "1134.0 kg",
+            "1820.5 kg",
+            "5511.5 kg"
+          ],
+          "answer": 1,
+          "explanation": "Using the conversion factor 1 lb = 0.4536 kg: 2500 \u00d7 0.4536 kg = 1134.0 kg[cite: 13].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q05",
+          "question": "Errors that result from measuring devices being out of calibration and cause readings to be consistently too small or too large are called:",
+          "options": [
+            "Random errors",
+            "Systematic errors",
+            "Human parallax errors",
+            "Statistical deviations"
+          ],
+          "answer": 1,
+          "explanation": "Systematic errors result from measuring devices being out of calibration and can be eliminated by pre-calibrating against a trusted standard[cite: 14].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q06",
+          "question": "What is the uncertainty in a single reading obtained from an analog scale measuring device such as a meter stick?",
+          "options": [
+            "Equal to the smallest increment",
+            "Equal to the smallest increment divided by 2",
+            "Equal to twice the smallest increment",
+            "Equal to zero"
+          ],
+          "answer": 1,
+          "explanation": "By the general rule of thumb, the uncertainty in a scale measuring device equals the smallest increment divided by 2[cite: 14].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q07",
+          "question": "What is the uncertainty associated with a digital balance reading of 5.7513 kg?",
+          "options": [
+            "\u00b10.00005 kg",
+            "\u00b10.0001 kg",
+            "\u00b10.001 kg",
+            "\u00b10.05 kg"
+          ],
+          "answer": 1,
+          "explanation": "Uncertainty in a digital measuring device equals the smallest increment, which is 0.0001 kg[cite: 15].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q08",
+          "question": "How many significant figures are in the numbers 0.0062 cm and 4.0500 cm respectively?",
+          "options": [
+            "4 and 3",
+            "2 and 5",
+            "2 and 3",
+            "4 and 5"
+          ],
+          "answer": 1,
+          "explanation": "Zeros that do nothing but set the decimal point are not significant (0.0062 has 2), while trailing zeros after a decimal point are significant (4.0500 has 5)[cite: 16, 17].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q09",
+          "question": "Following the rules for significant figures, what is the result of 9.65 cm + 8.4 cm - 2.89 cm?",
+          "options": [
+            "15.16 cm",
+            "15.2 cm",
+            "15 cm",
+            "15.160 cm"
+          ],
+          "answer": 1,
+          "explanation": "The least precise measurement is 8.4 cm (one decimal place), so the result must be rounded to the nearest tenth: 15.2 cm[cite: 17].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q10",
+          "question": "What happens to a vector when it is multiplied by a negative pure scalar number?",
+          "options": [
+            "It turns into a dimensionless scalar",
+            "Its magnitude changes and its direction is reversed",
+            "Its direction stays unchanged but its units change",
+            "It automatically becomes a unit vector"
+          ],
+          "answer": 1,
+          "explanation": "Multiplication by a pure number changes magnitude; if the number is negative, the direction is reversed[cite: 17].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q11",
+          "question": "Which mathematical law gives the magnitude of the resultant vector R formed by two concurrent vectors A and B with an included angle \u03b8?",
+          "options": [
+            "R = A\u00b2 + B\u00b2",
+            "R = \u221a(A\u00b2 + B\u00b2 - 2AB cos \u03b8)",
+            "R = (A + B) sin \u03b8",
+            "R = \u221a(A\u00b2 - B\u00b2 + 2AB cos \u03b8)"
+          ],
+          "answer": 1,
+          "explanation": "Applying the cosine law to the vector triangle gives R = \u221a(A\u00b2 + B\u00b2 - 2AB cos \u03b8)[cite: 18].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q12",
+          "question": "If a 3D vector A has components Ax, Ay, and Az, what is its magnitude?",
+          "options": [
+            "Ax + Ay + Az",
+            "\u221a(Ax\u00b2 + Ay\u00b2 + Az\u00b2)",
+            "(Ax \u00b7 Ay \u00b7 Az) / 3",
+            "\u221a(Ax\u00b2 - Ay\u00b2 - Az\u00b2)"
+          ],
+          "answer": 1,
+          "explanation": "The magnitude of a three-dimensional vector is given by \u221a(Ax\u00b2 + Ay\u00b2 + Az\u00b2)[cite: 19].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q13",
+          "question": "What is the direction cosine cos \u03b8x for a vector A with respect to the positive x-axis?",
+          "options": [
+            "A / Ax",
+            "Ax / A",
+            "Ay / Ax",
+            "Ax \u00b7 A"
+          ],
+          "answer": 1,
+          "explanation": "The direction cosine is defined as cos \u03b8x = Ax / A[cite: 20].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q14",
+          "question": "Which of the following statements correctly describes a unit vector?",
+          "options": [
+            "It has a magnitude of 1 unit with dimensions of meters",
+            "It has a magnitude of one, is dimensionless, and solely specifies direction",
+            "It always points perpendicular to the Cartesian coordinate system",
+            "It represents the sum of all scalar quantities in an equation"
+          ],
+          "answer": 1,
+          "explanation": "A unit vector has a magnitude of one, is dimensionless, and its sole purpose is to specify direction[cite: 20, 22].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q15",
+          "question": "How is the unit vector u\u0302 in the direction of vector r\u20d7 = x\u00ee + y\u0135 + zk\u0302 calculated?",
+          "options": [
+            "u\u0302 = r\u20d7 \u00d7 r",
+            "u\u0302 = r\u20d7 / r, where r = \u221a(x\u00b2 + y\u00b2 + z\u00b2)",
+            "u\u0302 = r / r\u20d7",
+            "u\u0302 = (x + y + z) \u00ee"
+          ],
+          "answer": 1,
+          "explanation": "The unit vector is obtained by dividing the vector by its magnitude: u\u0302 = r\u20d7 / r[cite: 21].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q16",
+          "question": "Given A\u20d7 = 3\u00ee - 4\u0135 + 4k\u0302 and B\u20d7 = 2\u00ee + 3\u0135 - 7k\u0302, what is the magnitude of A\u20d7 + B\u20d7?",
+          "options": [
+            "\u221a35",
+            "\u221a27",
+            "5",
+            "\u221a43"
+          ],
+          "answer": 0,
+          "explanation": "A\u20d7 + B\u20d7 = (3+2)\u00ee + (-4+3)\u0135 + (4-7)k\u0302 = 5\u00ee - 1\u0135 - 3k\u0302. Its magnitude is \u221a(5\u00b2 + (-1)\u00b2 + (-3)\u00b2) = \u221a(25 + 1 + 9) = \u221a35.",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q17",
+          "question": "What is the SI unit and dimension of power?",
+          "options": [
+            "joule (J), kg \u00b7 m\u00b2 \u00b7 s\u207b\u00b2",
+            "watt (W), kg \u00b7 m\u00b2 \u00b7 s\u207b\u00b3",
+            "pascal (Pa), kg \u00b7 m\u207b\u00b9 \u00b7 s\u207b\u00b2",
+            "newton (N), kg \u00b7 m \u00b7 s\u207b\u00b2"
+          ],
+          "answer": 1,
+          "explanation": "Table 1.2 specifies power as energy per unit time with SI unit watt (W) and dimension kg \u00b7 m\u00b2 \u00b7 s\u207b\u00b3[cite: 12].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q18",
+          "question": "If a cat has a body temperature of 101.5\u00b0F, what is its temperature in Celsius?",
+          "options": [
+            "36.2\u00b0C",
+            "38.6\u00b0C",
+            "40.1\u00b0C",
+            "42.0\u00b0C"
+          ],
+          "answer": 1,
+          "explanation": "Using Tc = (5/9)(Tf - 32): Tc = (5/9)(101.5 - 32) = (5/9)(69.5) \u2248 38.6\u00b0C[cite: 13, 92].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C01-Q19",
+          "question": "What is the sum of vectors A\u20d7 = Ax\u00ee + Ay\u0135 + Azk\u0302 and B\u20d7 = Bx\u00ee + By\u0135 + Bzk\u0302 in unit vector notation?",
+          "options": [
+            "(AxBx)\u00ee + (AyBy)\u0135 + (AzBz)k\u0302",
+            "(Ax + Bx)\u00ee + (Ay + By)\u0135 + (Az + Bz)k\u0302",
+            "(Ax - Bx)\u00ee + (Ay - By)\u0135 + (Az - Bz)k\u0302",
+            "\u221a(Ax\u00b2 + Bx\u00b2)\u00ee + \u221a(Ay\u00b2 + By\u00b2)\u0135 + \u221a(Az\u00b2 + Bz\u00b2)k\u0302"
+          ],
+          "answer": 1,
+          "explanation": "In unit vector notation, corresponding Cartesian components are added algebraically: (Ax + Bx)\u00ee + (Ay + By)\u0135 + (Az + Bz)k\u0302[cite: 21].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C01-Q20",
+          "question": "In the graphical method of vector addition, how is the resultant vector drawn?",
+          "options": [
+            "From the head of the first vector to the tail of the last vector",
+            "From the tail of the first vector to the head of the last vector",
+            "Perpendicular to the longest vector",
+            "From the midpoint of the first vector to the midpoint of the second"
+          ],
+          "answer": 1,
+          "explanation": "Graphically, the resultant vector is drawn from the tail of the first vector to the head (tip) of the last vector[cite: 18].",
+          "difficulty": "classic"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "Kinematics and Dynamics of Particles",
+      "questions": [
+        {
+          "id": "C02-Q01",
+          "question": "How are average velocity and average speed fundamentally distinguished?",
+          "options": [
+            "Average velocity is total distance over time; average speed is total displacement over time",
+            "Average velocity is total displacement divided by total time; average speed is total path distance divided by elapsed time",
+            "There is no distinction; both are identical vector quantities",
+            "Average speed is always zero in circular motion while average velocity is non-zero"
+          ],
+          "answer": 1,
+          "explanation": "Average velocity is \u0394r\u20d7 / \u0394t (displacement over time), whereas average speed is total distance S over time[cite: 26].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q02",
+          "question": "A person walks along a straight line from A to B at 5 m/s and returns from B to A along the same line at 3 m/s. What are their average speed and average velocity over the entire trip?",
+          "options": [
+            "Average speed = 4.0 m/s; average velocity = 4.0 m/s",
+            "Average speed = 3.75 m/s; average velocity = 0 m/s",
+            "Average speed = 0 m/s; average velocity = 3.75 m/s",
+            "Average speed = 8.0 m/s; average velocity = 2.0 m/s"
+          ],
+          "answer": 1,
+          "explanation": "Average speed = 2x / (x/5 + x/3) = 15/4 = 3.75 m/s[cite: 27]. Since initial and final positions coincide, net displacement is 0, making average velocity 0 m/s[cite: 27].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q03",
+          "question": "Which kinematic equation describes the final velocity vf in terms of initial velocity vi, constant acceleration a, and displacement \u0394r?",
+          "options": [
+            "vf = vi + a\u0394r",
+            "vf\u00b2 = vi\u00b2 + 2a\u0394r",
+            "vf\u00b2 = vi\u00b2 + a\u0394r\u00b2",
+            "vf = (vi + a) / 2"
+          ],
+          "answer": 1,
+          "explanation": "For constant acceleration, vf\u00b2 = vi\u00b2 + 2a\u0394r[cite: 28].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q04",
+          "question": "A jet lands at 100 m/s and decelerates smoothly at 5 m/s\u00b2 until it stops. What runway length is required for it to come to rest?",
+          "options": [
+            "500 m",
+            "800 m",
+            "1000 m (1.0 km)",
+            "1200 m"
+          ],
+          "answer": 2,
+          "explanation": "Time to stop: t = 100 / 5 = 20 s[cite: 29]. Stopping distance: S = ((100 + 0) / 2) \u00d7 20 = 1000 m (1.0 km)[cite: 29].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q05",
+          "question": "In standard ideal projectile motion, what are the horizontal acceleration ax and vertical acceleration ay?",
+          "options": [
+            "ax = g, ay = 0",
+            "ax = 0, ay = -g",
+            "ax = -g, ay = -g",
+            "ax = u cos \u03b8, ay = u sin \u03b8"
+          ],
+          "answer": 1,
+          "explanation": "Assuming negligible air resistance, no horizontal force acts (ax = 0), and gravity acts downward (ay = -g)[cite: 32].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q06",
+          "question": "What is the formula for the maximum height h reached by a projectile launched with speed u at angle \u03b8?",
+          "options": [
+            "h = (u\u00b2 sin 2\u03b8) / g",
+            "h = (u\u00b2 sin\u00b2 \u03b8) / (2g)",
+            "h = (u sin \u03b8) / g",
+            "h = u\u00b2 / (2g)"
+          ],
+          "answer": 1,
+          "explanation": "At maximum height, vy = 0, giving h = (u\u00b2 sin\u00b2 \u03b8) / (2g)[cite: 33].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q07",
+          "question": "At what launch angle \u03b8 is the horizontal range of a projectile maximum?",
+          "options": [
+            "30\u00b0",
+            "45\u00b0",
+            "60\u00b0",
+            "90\u00b0"
+          ],
+          "answer": 1,
+          "explanation": "The range formula R = (u\u00b2 sin 2\u03b8) / g is maximized when sin 2\u03b8 = 1, which occurs at \u03b8 = 45\u00b0[cite: 33].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q08",
+          "question": "Which of the following is true regarding Newton's third law action-reaction pairs?",
+          "options": [
+            "They act on the same object and cancel each other out to produce zero net force",
+            "They exist in pairs, act on different interacting bodies, and cannot cancel each other",
+            "The action force occurs before the reaction force",
+            "They only exist when objects move with constant acceleration"
+          ],
+          "answer": 1,
+          "explanation": "Action and reaction forces always exist in pairs and act on different objects; hence they never cancel each other out[cite: 40, 41].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q09",
+          "question": "How does the coefficient of kinetic friction \u03bck compare to the coefficient of static friction \u03bcs between the same surfaces?",
+          "options": [
+            "\u03bck is always greater than \u03bcs",
+            "\u03bck is generally less than \u03bcs",
+            "\u03bck equals \u03bcs under all loads",
+            "\u03bck is always zero"
+          ],
+          "answer": 1,
+          "explanation": "Generally, \u03bck is less than \u03bcs, meaning less force is required to keep an object sliding than to start sliding[cite: 42].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q10",
+          "question": "What is the acceleration of a block of mass m sliding down a frictionless incline tilted at angle \u03b8?",
+          "options": [
+            "a = g cos \u03b8",
+            "a = g sin \u03b8",
+            "a = g tan \u03b8",
+            "a = g (sin \u03b8 - cos \u03b8)"
+          ],
+          "answer": 1,
+          "explanation": "Along the plane, the net force is mg sin \u03b8 = ma, which simplifies to a = g sin \u03b8[cite: 45].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q11",
+          "question": "In uniform circular motion with constant speed v and radius r, what is the magnitude and direction of acceleration?",
+          "options": [
+            "ac = v / r, tangent to the circular path",
+            "ac = v\u00b2 / r, directed toward the center of the circle",
+            "ac = v\u00b2 / r, directed outward away from the center",
+            "ac = 0, because speed is constant"
+          ],
+          "answer": 1,
+          "explanation": "Centripetal acceleration has magnitude ac = v\u00b2 / r and is directed radially inward toward the center[cite: 46, 47].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q12",
+          "question": "What is the value of the universal gravitational constant G in SI units?",
+          "options": [
+            "9.8 m/s\u00b2",
+            "6.674 \u00d7 10\u207b\u00b9\u00b9 N \u00b7 m\u00b2 / kg\u00b2",
+            "8.85 \u00d7 10\u207b\u00b9\u00b2 C\u00b2 / (N \u00b7 m\u00b2)",
+            "5.98 \u00d7 10\u00b2\u2074 kg"
+          ],
+          "answer": 1,
+          "explanation": "The universal gravitational constant G measured experimentally is 6.674 \u00d7 10\u207b\u00b9\u00b9 N \u00b7 m\u00b2 / kg\u00b2[cite: 48].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q13",
+          "question": "Which of Kepler's laws states that a line connecting the Sun and a planet sweeps out equal areas in equal intervals of time?",
+          "options": [
+            "Kepler's First Law (Law of Orbits)",
+            "Kepler's Second Law (Law of Areas)",
+            "Kepler's Third Law (Law of Harmony)",
+            "Newton's Law of Universal Gravitation"
+          ],
+          "answer": 1,
+          "explanation": "Kepler's second law is the Law of Areas, which describes the varying orbital speed of a planet[cite: 49, 50].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q14",
+          "question": "What physical condition creates the true sensation of weightlessness experienced by orbiting astronauts?",
+          "options": [
+            "The complete absence of gravitational force in space",
+            "The state of free fall where all contact forces are removed",
+            "The presence of an atmospheric vacuum that cancels mass",
+            "Zero velocity relative to the Earth's center"
+          ],
+          "answer": 1,
+          "explanation": "Weightlessness occurs during free fall because no external contact surface supports the body with an opposing normal force[cite: 52].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C02-Q15",
+          "question": "According to Hooke's law, the restoring force Fs exerted by a spring displaced by distance x from equilibrium is:",
+          "options": [
+            "Fs = kx\u00b2",
+            "Fs = -kx",
+            "Fs = -\u00bd kx\u00b2",
+            "Fs = k / x"
+          ],
+          "answer": 1,
+          "explanation": "Hooke's law states Fs = -kx, where the negative sign indicates the force opposes displacement[cite: 54].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q16",
+          "question": "What does the work-kinetic energy theorem state?",
+          "options": [
+            "Work done is always equal to total potential energy",
+            "The net work done on an object equals the change in its kinetic energy (Wnet = \u0394KE)",
+            "Work done is independent of force and displacement",
+            "The rate of work done equals linear momentum"
+          ],
+          "answer": 1,
+          "explanation": "The work-kinetic energy theorem states that Wnet = \u0394KE = \u00bdmvf\u00b2 - \u00bdmvi\u00b2[cite: 56, 57].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q17",
+          "question": "How much energy in joules is represented by one kilowatt-hour (1 kWh)?",
+          "options": [
+            "1,000 J",
+            "60,000 J",
+            "3.6 \u00d7 10\u2076 J",
+            "746 J"
+          ],
+          "answer": 2,
+          "explanation": "1 kWh = (10\u00b3 W) \u00d7 (3600 s) = 3.6 \u00d7 10\u2076 J[cite: 59].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q18",
+          "question": "How is the impulse I\u20d7 of a net force F\u20d7 acting over time interval \u0394t related to linear momentum P\u20d7?",
+          "options": [
+            "I\u20d7 = \u0394P\u20d7 / \u0394t",
+            "I\u20d7 = \u0394P\u20d7 = P\u20d7f - P\u20d7i = F\u20d7 \u0394t",
+            "I\u20d7 = \u00bd m v\u00b2",
+            "I\u20d7 = F\u20d7 \u00b7 \u0394r\u20d7"
+          ],
+          "answer": 1,
+          "explanation": "Impulse equals the change in linear momentum: I\u20d7 = \u0394P\u20d7 = F\u20d7 \u0394t[cite: 60].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q19",
+          "question": "A collision in which both total momentum and total kinetic energy are conserved is classified as:",
+          "options": [
+            "Inelastic collision",
+            "Elastic collision",
+            "Perfectlys inelastic collision",
+            "Plastic collision"
+          ],
+          "answer": 1,
+          "explanation": "An elastic collision is defined as one where both total momentum and total kinetic energy are conserved[cite: 62].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C02-Q20",
+          "question": "Two particles of masses m1 = 1 kg and m2 = 2 kg are positioned on the x-axis at x1 = 1 m and x2 = 4 m. Where is the center of mass xCM located?",
+          "options": [
+            "2.0 m",
+            "2.5 m",
+            "3.0 m",
+            "3.5 m"
+          ],
+          "answer": 2,
+          "explanation": "xCM = (m1x1 + m2x2) / (m1 + m2) = (1\u00d71 + 2\u00d74) / (1 + 2) = (1 + 8) / 3 = 9 / 3 = 3.0 m[cite: 66].",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "Fluid Mechanics",
+      "questions": [
+        {
+          "id": "C03-Q01",
+          "question": "What is the defining characteristic of elastic materials compared to plastic materials?",
+          "options": [
+            "Elastic materials undergo irreversible deformation under any small load",
+            "Elastic materials regain their original shape and size when the deforming force is removed",
+            "Plastic materials store more strain energy per unit volume than elastic materials",
+            "Elastic materials cannot be subjected to tensile stress"
+          ],
+          "answer": 1,
+          "explanation": "Elastic materials return to their original shape when deforming forces are removed within their elastic limit, whereas plastic materials deform permanently[cite: 72].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q02",
+          "question": "How are stress and strain defined respectively?",
+          "options": [
+            "Stress is fractional change in length; strain is deforming force per unit area",
+            "Stress is force per unit area (N/m\u00b2); strain is change in configuration divided by initial configuration (dimensionless)",
+            "Both are dimensionless ratios of force to area",
+            "Stress is measured in joules; strain is measured in pascals"
+          ],
+          "answer": 1,
+          "explanation": "Stress is force per unit area (Pa); strain is the fractional deformation and is dimensionless[cite: 72].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q03",
+          "question": "Which elastic modulus measures the resistance of a solid to a change in its length under tension or compression?",
+          "options": [
+            "Shear modulus (S)",
+            "Bulk modulus (B)",
+            "Young's modulus (Y)",
+            "Compressibility"
+          ],
+          "answer": 2,
+          "explanation": "Young's modulus Y is defined as tensile stress divided by tensile strain and characterizes resistance to length change[cite: 75].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q04",
+          "question": "Why do liquids have a bulk modulus but no defined Young's modulus or shear modulus?",
+          "options": [
+            "Liquids cannot exert hydrostatic pressure",
+            "Liquids cannot sustain a shearing or tensile stress and simply flow in response",
+            "The bulk modulus of all liquids is strictly zero",
+            "Liquids are completely incompressible under all pressures"
+          ],
+          "answer": 1,
+          "explanation": "Liquids do not have fixed shape or sustain shear/tensile stress; applying a shear force causes them to flow[cite: 76].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C03-Q05",
+          "question": "The reciprocal of the bulk modulus (1/B) is known as:",
+          "options": [
+            "Tensile strain",
+            "Shear stiffness",
+            "Compressibility",
+            "Viscosity"
+          ],
+          "answer": 2,
+          "explanation": "Compressibility is defined as the reciprocal of the bulk modulus[cite: 76].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q06",
+          "question": "What is the specific gravity (SG) of a substance?",
+          "options": [
+            "Its mass per unit volume in g/cm\u00b3",
+            "The ratio of its density to the density of pure water at 4\u00b0C (1.0 \u00d7 10\u00b3 kg/m\u00b3)",
+            "Its weight density multiplied by gravitational acceleration",
+            "The buoyant force exerted on it when submerged in alcohol"
+          ],
+          "answer": 1,
+          "explanation": "Specific gravity is a dimensionless ratio comparing the density of a substance to that of water at 4\u00b0C[cite: 77].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q07",
+          "question": "What is the hydrostatic gauge pressure produced at depth h in a static fluid of uniform density \u03c1?",
+          "options": [
+            "P = \u03c1 / (gh)",
+            "P = \u03c1gh",
+            "P = Patm + \u03c1gh",
+            "P = \u00bd \u03c1v\u00b2 + \u03c1gh"
+          ],
+          "answer": 1,
+          "explanation": "The hydrostatic pressure of a fluid column of height h is Pgauge = \u03c1gh[cite: 78].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q08",
+          "question": "How are absolute pressure, gauge pressure, and atmospheric pressure related?",
+          "options": [
+            "Pabs = Pgauge - Patm",
+            "Pabs = Pgauge + Patm",
+            "Pgauge = Pabs + Patm",
+            "Patm = Pabs \u00b7 Pgauge"
+          ],
+          "answer": 1,
+          "explanation": "Absolute pressure is the sum of gauge pressure and local atmospheric pressure: Pabs = Pgauge + Patm[cite: 79].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q09",
+          "question": "Pascal's principle states that:",
+          "options": [
+            "The buoyant force equals the weight of displaced fluid",
+            "Pressure applied to a confined fluid is transmitted undiminished to every portion of the fluid and container walls",
+            "Swiftly moving fluids exert higher lateral pressure than static fluids",
+            "The total mass flux through a tube varies with elevation"
+          ],
+          "answer": 1,
+          "explanation": "Pascal's principle dictates that an applied pressure change is transmitted undiminished throughout an enclosed fluid[cite: 79, 86].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q10",
+          "question": "In a hydraulic press, a force F1 is applied to a piston of area A1. What force F2 is produced on a larger piston of area A2?",
+          "options": [
+            "F2 = F1 \u00b7 (A1 / A2)",
+            "F2 = F1 \u00b7 (A2 / A1)",
+            "F2 = F1 \u00b7 \u221a(A2 / A1)",
+            "F2 = F1"
+          ],
+          "answer": 1,
+          "explanation": "Equating pressures P1 = P2 gives F1 / A1 = F2 / A2, so F2 = F1(A2 / A1)[cite: 80].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q11",
+          "question": "According to Archimedes' principle, what is the magnitude of the buoyant force acting on a submerged body?",
+          "options": [
+            "Equal to the total weight of the submerged body",
+            "Equal to the weight of the fluid displaced by the body",
+            "Equal to atmospheric pressure multiplied by the body surface area",
+            "Equal to the difference between Young's modulus and bulk modulus"
+          ],
+          "answer": 1,
+          "explanation": "Archimedes' principle states that the buoyant force equals the weight of the displaced fluid: Fb = \u03c1fluid \u00b7 Vdisplaced \u00b7 g[cite: 81].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q12",
+          "question": "Why does a buoyant force act upward on an object submerged in a fluid?",
+          "options": [
+            "Fluid density decreases at greater depth",
+            "Fluid pressure increases with depth, causing the upward force on the bottom to exceed the downward force on the top",
+            "Atmospheric pressure pushes the bottom of the container upward",
+            "Surface tension pulls the submerged body toward the meniscus"
+          ],
+          "answer": 1,
+          "explanation": "Because pressure increases with depth, the pressure on the bottom of an object is greater than at its top, resulting in a net upward force[cite: 81].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C03-Q13",
+          "question": "A sample weighs 300 N in air and 200 N when submerged in an alcohol solution of density 700 kg/m\u00b3. What is the density of the sample?",
+          "options": [
+            "1050 kg/m\u00b3",
+            "1400 kg/m\u00b3",
+            "2100 kg/m\u00b3",
+            "2800 kg/m\u00b3"
+          ],
+          "answer": 2,
+          "explanation": "Fb = 300 - 200 = 100 N[cite: 81]. Density \u03c10 = \u03c1alcohol \u00d7 (Wair / Fb) = 700 \u00d7 (300 / 100) = 2,100 kg/m\u00b3[cite: 81].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C03-Q14",
+          "question": "Which of the following is NOT an assumption made for an ideal fluid undergoing steady flow?",
+          "options": [
+            "The fluid is non-viscous (no internal friction)",
+            "The fluid is compressible (density varies greatly with pressure)",
+            "The flow is steady (velocity at each point remains constant in time)",
+            "The flow is irrotational (no angular momentum about any point)"
+          ],
+          "answer": 1,
+          "explanation": "Ideal fluids are assumed to be incompressible (density remains constant)[cite: 82].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q15",
+          "question": "The equation of continuity for an incompressible fluid flowing through a pipe states that:",
+          "options": [
+            "P1 + \u00bd\u03c1v1\u00b2 = P2 + \u00bd\u03c1v2\u00b2",
+            "A1v1 = A2v2 = constant",
+            "v1 / A1 = v2 / A2",
+            "A1 / v1 = A2 / v2"
+          ],
+          "answer": 1,
+          "explanation": "The equation of continuity expresses conservation of mass: volume flow rate Av = A1v1 = A2v2 = constant[cite: 83].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q16",
+          "question": "What happens to the speed of an ideal fluid when the cross-sectional area of the pipe decreases?",
+          "options": [
+            "It decreases proportionally",
+            "It remains unchanged",
+            "It increases proportionally",
+            "It immediately drops to zero"
+          ],
+          "answer": 2,
+          "explanation": "Because Av = constant, decreasing the area A requires an increase in flow speed v[cite: 83].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q17",
+          "question": "Bernoulli's equation is a mathematical statement of which fundamental physical principle applied to fluids?",
+          "options": [
+            "Conservation of linear momentum",
+            "Conservation of mass",
+            "Conservation of energy",
+            "Conservation of electric charge"
+          ],
+          "answer": 2,
+          "explanation": "Bernoulli's equation is derived directly from the work-energy theorem and represents conservation of energy for flowing fluids[cite: 83].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q18",
+          "question": "According to Bernoulli's principle, what happens to fluid pressure in a horizontal streamline where the fluid velocity increases?",
+          "options": [
+            "Pressure increases proportionally",
+            "Pressure decreases",
+            "Pressure fluctuates randomly",
+            "Pressure remains identical"
+          ],
+          "answer": 1,
+          "explanation": "Bernoulli's principle states that swiftly moving fluids exert lower pressure than slowly moving fluids[cite: 83].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q19",
+          "question": "What is the full mathematical statement of Bernoulli's equation for points 1 and 2 along a streamline?",
+          "options": [
+            "P1 + \u03c1v1 + \u03c1gh1 = P2 + \u03c1v2 + \u03c1gh2",
+            "P1 + \u00bd\u03c1v1\u00b2 + \u03c1gh1 = P2 + \u00bd\u03c1v2\u00b2 + \u03c1gh2",
+            "P1 / (\u03c1v1) = P2 / (\u03c1v2)",
+            "(P1 - P2) = \u00bd\u03c1(v1\u00b2 - v2\u00b2)"
+          ],
+          "answer": 1,
+          "explanation": "Bernoulli's equation is P + \u00bd\u03c1v\u00b2 + \u03c1gy = constant[cite: 84].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C03-Q20",
+          "question": "A steel bolt has a diameter of 1.00 cm. If its ultimate shear stress is 4.0 \u00d7 10\u2078 N/m\u00b2, what shearing force is required to shear the bolt?",
+          "options": [
+            "1.26 \u00d7 10\u2074 N",
+            "3.14 \u00d7 10\u2074 N",
+            "6.28 \u00d7 10\u2074 N",
+            "4.00 \u00d7 10\u2075 N"
+          ],
+          "answer": 1,
+          "explanation": "Area = \u03c0r\u00b2 = \u03c0(0.005 m)\u00b2 \u2248 7.854 \u00d7 10\u207b\u2075 m\u00b2. Force = Stress \u00d7 Area = (4.0 \u00d7 10\u2078 N/m\u00b2) \u00d7 (7.854 \u00d7 10\u207b\u2075 m\u00b2) \u2248 3.14 \u00d7 10\u2074 N.",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "Heat and Thermodynamics",
+      "questions": [
+        {
+          "id": "C04-Q01",
+          "question": "The Zeroth Law of Thermodynamics establishes the physical basis for:",
+          "options": [
+            "Conservation of mechanical energy",
+            "The concept and measurement of temperature",
+            "The impossibility of reaching absolute zero",
+            "The direction of spontaneous heat flow"
+          ],
+          "answer": 1,
+          "explanation": "The Zeroth law states that if objects A and B are each in thermal equilibrium with C, they are in equilibrium with each other, defining temperature[cite: 90, 91].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q02",
+          "question": "What are the freezing and boiling points of pure water on the Fahrenheit scale at standard atmospheric pressure?",
+          "options": [
+            "0\u00b0F and 100\u00b0F",
+            "32\u00b0F and 212\u00b0F",
+            "273\u00b0F and 373\u00b0F",
+            "-40\u00b0F and 140\u00b0F"
+          ],
+          "answer": 1,
+          "explanation": "On the Fahrenheit scale, the freezing point of water is 32\u00b0F and the boiling point is 212\u00b0F[cite: 91].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q03",
+          "question": "How are the coefficients of linear expansion (\u03b1), areal expansion (\u03b2), and volume expansion (\u03b3) related for an isotropic solid?",
+          "options": [
+            "\u03b2 = \u03b1, \u03b3 = \u03b1",
+            "\u03b2 = 2\u03b1, \u03b3 = 3\u03b1",
+            "\u03b2 = 3\u03b1, \u03b3 = 2\u03b1",
+            "\u03b2 = \u03b1\u00b2, \u03b3 = \u03b1\u00b3"
+          ],
+          "answer": 1,
+          "explanation": "For isotropic materials, areal expansion \u03b2 = 2\u03b1 and volumetric expansion \u03b3 = 3\u03b1[cite: 93, 104].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q04",
+          "question": "Why does a bimetallic strip made of brass and steel bend when heated?",
+          "options": [
+            "Steel expands more than brass",
+            "Brass has a higher coefficient of linear expansion than steel and expands more",
+            "The heat melts the bonding solder between the two metals",
+            "One metal becomes magnetic upon heating"
+          ],
+          "answer": 1,
+          "explanation": "Brass expands more than steel due to its higher expansion coefficient (19 \u00d7 10\u207b\u2076 K\u207b\u00b9 vs. 12 \u00d7 10\u207b\u2076 K\u207b\u00b9), forcing the strip to bend[cite: 92, 93].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C04-Q05",
+          "question": "How does internal energy U differ from heat Q in thermodynamics?",
+          "options": [
+            "Internal energy is energy in transit; heat is stored microscopic energy",
+            "Internal energy is the total random kinetic and potential energy of microscopic constituents; heat is transient energy transferred due to temperature difference",
+            "Heat is a state function; internal energy is a path-dependent process",
+            "They are completely identical physical quantities"
+          ],
+          "answer": 1,
+          "explanation": "Internal energy is the stored energy of microscopic molecular motion; heat is only energy in transit across a boundary due to \u0394T[cite: 94, 104].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q06",
+          "question": "The quantity of heat required to raise the temperature of 1 kg of a substance by 1\u00b0C is called its:",
+          "options": [
+            "Latent heat of fusion",
+            "Specific heat capacity",
+            "Molar heat capacity",
+            "Thermal conductivity"
+          ],
+          "answer": 1,
+          "explanation": "Specific heat capacity c is the amount of heat energy needed to raise the temperature of a unit mass of substance by one degree[cite: 95].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q07",
+          "question": "What is latent heat of fusion (Lf)?",
+          "options": [
+            "Heat needed to raise the temperature of steam by 10\u00b0C",
+            "Heat absorbed or released per unit mass during a solid-liquid phase transition at constant temperature",
+            "Heat required to vaporize a liquid into gas",
+            "Energy released during nuclear fission"
+          ],
+          "answer": 1,
+          "explanation": "Latent heat of fusion is the energy per unit mass required to change matter from solid to liquid at its melting point[cite: 96].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q08",
+          "question": "What is the mathematical equation for the first law of thermodynamics?",
+          "options": [
+            "\u0394U = Q - W",
+            "\u0394U = Q + W",
+            "Q = \u0394U \u00b7 W",
+            "W = Q \u00b7 \u0394U"
+          ],
+          "answer": 1,
+          "explanation": "The module defines the first law as \u0394U = Q + W, where W is the work done on the system[cite: 101, 105].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q09",
+          "question": "In an adiabatic thermodynamic process, which quantity is strictly zero?",
+          "options": [
+            "Work done (W = 0)",
+            "Change in internal energy (\u0394U = 0)",
+            "Heat transfer (Q = 0)",
+            "Change in pressure (\u0394P = 0)"
+          ],
+          "answer": 2,
+          "explanation": "An adiabatic process is one in which no heat energy enters or leaves the system (Q = 0)[cite: 102, 105].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q10",
+          "question": "In an isochoric (isovolumetric) process, what is the work done W by or on the gas?",
+          "options": [
+            "W = P\u0394V",
+            "W = nRT ln(Vf / Vi)",
+            "W = 0",
+            "W = -Q"
+          ],
+          "answer": 2,
+          "explanation": "Because volume remains constant (\u0394V = 0), no mechanical boundary work is performed: W = 0[cite: 102, 105].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q11",
+          "question": "What is the change in internal energy (\u0394U) of a system undergoing a complete cyclic process?",
+          "options": [
+            "\u0394U = Q",
+            "\u0394U = W",
+            "\u0394U = 0",
+            "\u0394U = 2Q + 2W"
+          ],
+          "answer": 2,
+          "explanation": "Since the system returns to its initial state, its state function U undergoes zero net change: \u0394U = 0[cite: 102, 105].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q12",
+          "question": "How is work done on an ideal gas calculated during an isothermal expansion from volume Vi to Vf at constant temperature T?",
+          "options": [
+            "W = P(Vf - Vi)",
+            "W = -nRT ln(Vf / Vi)",
+            "W = 0",
+            "W = mc\u0394T"
+          ],
+          "answer": 1,
+          "explanation": "The work done during an isothermal process of an ideal gas is given by W = -nRT ln(Vf / Vi)[cite: 102, 105].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C04-Q13",
+          "question": "Which mechanism of heat transfer occurs through the physical macroscopic movement of fluid particles themselves?",
+          "options": [
+            "Conduction",
+            "Convection",
+            "Radiation",
+            "Direct burning"
+          ],
+          "answer": 1,
+          "explanation": "Convection involves the bulk displacement and circulation of heated fluid molecules[cite: 98, 99].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q14",
+          "question": "Why does thermal radiation not require any material medium for heat transfer?",
+          "options": [
+            "It travels as electromagnetic waves that can propagate through vacuum",
+            "It is driven by acoustic longitudinal phonons",
+            "It consists of free electron conduction in metal lattices",
+            "It operates through gravitational potential displacement"
+          ],
+          "answer": 0,
+          "explanation": "Radiation is transmitted in the form of electromagnetic energy waves, allowing it to travel through empty space[cite: 100].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q15",
+          "question": "How does the intensity of radiant heat energy received from a point source vary with distance r?",
+          "options": [
+            "Inversely proportional to r",
+            "Inversely proportional to the square of the distance (1/r\u00b2)",
+            "Directly proportional to r\u00b2",
+            "Remains constant regardless of distance"
+          ],
+          "answer": 1,
+          "explanation": "Radiant heat energy decreases inversely with the square of the distance from the radiant source[cite: 100].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q16",
+          "question": "If 2000 J of heat leaves a thermodynamic system and 2500 J of work is done on the system, what is the change in internal energy \u0394U?",
+          "options": [
+            "-4500 J",
+            "+500 J",
+            "+1000 J",
+            "+4500 J"
+          ],
+          "answer": 1,
+          "explanation": "Using \u0394U = Q + W: Q = -2000 J (leaves system) and W = +2500 J (done on system), so \u0394U = -2000 + 2500 = +500 J[cite: 101, 103].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C04-Q17",
+          "question": "The temperature of a 525 g silver bar rises by 10.0\u00b0C when it absorbs 1.23 kJ of heat. What is the specific heat of silver?",
+          "options": [
+            "129 J/(kg \u00b7 \u00b0C)",
+            "234 J/(kg \u00b7 \u00b0C)",
+            "387 J/(kg \u00b7 \u00b0C)",
+            "448 J/(kg \u00b7 \u00b0C)"
+          ],
+          "answer": 1,
+          "explanation": "c = Q / (m\u0394T) = 1230 J / (0.525 kg \u00d7 10.0\u00b0C) \u2248 234 J/(kg \u00b7 \u00b0C)[cite: 96, 106].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C04-Q18",
+          "question": "Why is water extraordinarily effective as an extinguishing agent for structure fires?",
+          "options": [
+            "It has an extremely low latent heat of vaporization",
+            "It has a very high specific heat capacity and high heat of vaporization, absorbing massive amounts of heat as it warms and vaporizes",
+            "It increases oxygen concentration in burning wood",
+            "It reacts chemically to produce non-flammable solid minerals"
+          ],
+          "answer": 1,
+          "explanation": "Water has an exceptionally high specific heat and latent heat of vaporization, enabling it to absorb vast quantities of heat and cool fuels[cite: 96, 101].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q19",
+          "question": "Why does a vacuum flask (Thermos bottle) effectively preserve hot liquids?",
+          "options": [
+            "Its double walls reflect magnetic field lines",
+            "The vacuum evacuated between the silvered double walls prevents heat loss by both conduction and convection",
+            "The flask continuously generates electric current to reheat the fluid",
+            "The lid absorbs radiant heat from room air"
+          ],
+          "answer": 1,
+          "explanation": "A vacuum lacks particles, preventing conduction and convection, while mirrored walls minimize radiative transfer[cite: 99, 100].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C04-Q20",
+          "question": "What is the SI unit of absolute thermodynamic temperature, defined as 1/273.16 of the triple point of water?",
+          "options": [
+            "degree Celsius (\u00b0C)",
+            "degree Fahrenheit (\u00b0F)",
+            "kelvin (K)",
+            "rankine (\u00b0R)"
+          ],
+          "answer": 2,
+          "explanation": "The SI base unit of thermodynamic temperature is the kelvin (K)[cite: 12, 104].",
+          "difficulty": "classic"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "Oscillations, Waves and Optics",
+      "questions": [
+        {
+          "id": "C05-Q01",
+          "question": "What is the defining condition for a system to execute Simple Harmonic Motion (SHM)?",
+          "options": [
+            "The acceleration is constant in both magnitude and direction",
+            "The restoring force and acceleration are directly proportional to displacement and opposite in direction (a = -\u03c9\u00b2x)",
+            "The amplitude increases exponentially over time",
+            "The motion is non-periodic and purely rotational"
+          ],
+          "answer": 1,
+          "explanation": "SHM occurs when the restoring force obeys Hooke's law, causing acceleration to be proportional to displacement and directed opposite to it: a = -\u03c9\u00b2x[cite: 101, 111].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q02",
+          "question": "Where do the maximum velocity and maximum acceleration occur in the oscillation cycle of an SHM system?",
+          "options": [
+            "vmax at maximum displacement x = \u00b1A; amax at equilibrium x = 0",
+            "vmax at equilibrium position x = 0; amax at maximum displacement x = \u00b1A",
+            "Both vmax and amax occur simultaneously at x = 0",
+            "Both vmax and amax occur simultaneously at x = A"
+          ],
+          "answer": 1,
+          "explanation": "Speed is maximum at equilibrium (x = 0, vmax = \u03c9A) and zero at turnarounds; acceleration is maximum at extreme displacements (x = \u00b1A, amax = \u03c9\u00b2A)[cite: 112].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q03",
+          "question": "How does the period T of a simple pendulum of length L depend on the mass m of the bob for small amplitudes?",
+          "options": [
+            "T is directly proportional to m",
+            "T is inversely proportional to \u221am",
+            "T is independent of the mass m (T = 2\u03c0\u221a(L/g))",
+            "T is proportional to m\u00b2"
+          ],
+          "answer": 2,
+          "explanation": "The period formula T = 2\u03c0\u221a(L/g) contains no mass term; it depends only on pendulum length and local gravitational acceleration[cite: 114].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q04",
+          "question": "What is the total mechanical energy of a simple harmonic oscillator of spring constant k and amplitude A?",
+          "options": [
+            "E = \u00bd kA",
+            "E = \u00bd kA\u00b2",
+            "E = k / A\u00b2",
+            "E = 2\u03c0\u221a(k/m)"
+          ],
+          "answer": 1,
+          "explanation": "Total energy in SHM is constant and proportional to the square of the amplitude: E = \u00bd kA\u00b2[cite: 115].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q05",
+          "question": "What is the fundamental difference between mechanical waves and electromagnetic waves?",
+          "options": [
+            "Mechanical waves can travel through a vacuum, whereas electromagnetic waves require a material medium",
+            "Mechanical waves require a physical material medium to propagate, whereas electromagnetic waves can propagate through both a medium and a vacuum",
+            "Electromagnetic waves are strictly longitudinal; mechanical waves are always transverse",
+            "Mechanical waves travel at the speed of light"
+          ],
+          "answer": 1,
+          "explanation": "Mechanical waves require a deformable material medium, whereas EM waves consist of oscillating fields that propagate through vacuum at c = 3.0 \u00d7 10\u2078 m/s[cite: 116].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q06",
+          "question": "In a transverse wave, how do the particles of the medium vibrate relative to the direction of wave propagation?",
+          "options": [
+            "Parallel to the direction of wave motion",
+            "Perpendicular to the direction of wave motion",
+            "In circular orbits opposite to wave velocity",
+            "They do not vibrate at all"
+          ],
+          "answer": 1,
+          "explanation": "In transverse waves, particle displacement is perpendicular (transverse) to the direction of wave propagation[cite: 117].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q07",
+          "question": "What is the relationship connecting wave speed v, wavelength \u03bb, and frequency f?",
+          "options": [
+            "v = f / \u03bb",
+            "v = \u03bbf",
+            "v = \u03bb / f\u00b2",
+            "v = 2\u03c0f\u03bb\u00b2"
+          ],
+          "answer": 1,
+          "explanation": "The wave speed equation is v = \u03bbf[cite: 116].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q08",
+          "question": "The phenomenon in which an external driving force matches the natural frequency of an oscillating system, causing a dramatic increase in amplitude, is called:",
+          "options": [
+            "Diffraction",
+            "Resonance",
+            "Refraction",
+            "Polarization"
+          ],
+          "answer": 1,
+          "explanation": "Resonance occurs when a periodic force drives an oscillating system at or near its natural frequency, maximizing amplitude[cite: 117].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q09",
+          "question": "What frequency shift is perceived by a stationary observer when a sound source moves toward them at speed vs?",
+          "options": [
+            "A downward shift to lower frequency",
+            "An upward shift to higher frequency: fo = fs [v / (v - vs)]",
+            "No shift in frequency, only an increase in amplitude",
+            "Frequency drops to zero"
+          ],
+          "answer": 1,
+          "explanation": "Due to the Doppler effect, wave crests are compressed toward an approaching observer, increasing the observed pitch/frequency[cite: 117, 118].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q10",
+          "question": "The bending or change in direction of a wave as it passes obliquely from one medium to another due to a change in speed is called:",
+          "options": [
+            "Reflection",
+            "Refraction",
+            "Diffraction",
+            "Interference"
+          ],
+          "answer": 1,
+          "explanation": "Refraction is the change in propagation direction resulting from a difference in wave speed between two media[cite: 119].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q11",
+          "question": "The spreading of waves around the edges of obstacles or through small apertures is termed:",
+          "options": [
+            "Total internal reflection",
+            "Diffraction",
+            "Dispersion",
+            "Rectification"
+          ],
+          "answer": 1,
+          "explanation": "Diffraction is the bending and spreading of waves around obstacles, most pronounced when obstacle size is comparable to wavelength[cite: 119].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q12",
+          "question": "What type of image is always formed by a single flat plane mirror?",
+          "options": [
+            "Real, inverted, and enlarged",
+            "Virtual, erect, same size as the object, and located the same distance behind the mirror",
+            "Real, erect, and magnified",
+            "Virtual, inverted, and diminished"
+          ],
+          "answer": 1,
+          "explanation": "Plane mirrors always form virtual, erect images that are the same size as the object and situated at an image distance equal to the object distance[cite: 120, 121, 126].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q13",
+          "question": "Which type of lens is thicker at its center and converges incident parallel light rays to a real focal point?",
+          "options": [
+            "Concave lens (diverging)",
+            "Convex lens (converging)",
+            "Plano-concave lens",
+            "Concave meniscus"
+          ],
+          "answer": 1,
+          "explanation": "Convex lenses are converging lenses that are thickest at the center and converge parallel rays to a real focus[cite: 121, 126].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q14",
+          "question": "What are the characteristics of images formed by a concave (diverging) lens for any real object position?",
+          "options": [
+            "Real, inverted, and enlarged",
+            "Virtual, erect, and diminished",
+            "Real, erect, and same size",
+            "Virtual, inverted, and magnified"
+          ],
+          "answer": 1,
+          "explanation": "Table 5.2 notes that images formed by a concave lens are always virtual, erect, and diminished[cite: 123, 124].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q15",
+          "question": "What is the thin lens equation relating object distance so, image distance si, and focal length f?",
+          "options": [
+            "1/so - 1/si = 1/f",
+            "1/so + 1/si = 1/f",
+            "so + si = f",
+            "so \u00b7 si = f\u00b2"
+          ],
+          "answer": 1,
+          "explanation": "The lens equation is 1/so + 1/si = 1/f[cite: 122].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q16",
+          "question": "When an object is placed at the focal point (F1) of a convex lens, where is the image formed?",
+          "options": [
+            "At 2F2",
+            "Between F2 and 2F2",
+            "At infinity",
+            "At the optical center"
+          ],
+          "answer": 2,
+          "explanation": "Table 5.1 specifies that an object located at F1 produces refracted parallel rays that form an image at infinity[cite: 122, 123].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C05-Q17",
+          "question": "An object in simple harmonic motion follows x(t) = 4 cos(\u03c0t + \u03c0/4). What is the angular frequency \u03c9 of the motion?",
+          "options": [
+            "4 rad/s",
+            "\u03c0 rad/s",
+            "\u03c0/4 rad/s",
+            "2\u03c0 rad/s"
+          ],
+          "answer": 1,
+          "explanation": "Comparing with x(t) = A cos(\u03c9t + \u03c6), the angular frequency \u03c9 multiplying t is \u03c0 rad/s[cite: 112].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C05-Q18",
+          "question": "What effect does increasing the temperature have on the time kept by a pendulum clock with a metal rod?",
+          "options": [
+            "The rod expands, increasing length L, which increases period T, causing the clock to run slow",
+            "The rod contracts, decreasing length L, causing the clock to run fast",
+            "Temperature has zero effect on the period",
+            "The period decreases because density decreases"
+          ],
+          "answer": 0,
+          "explanation": "Thermal expansion lengthens the rod (\u0394L > 0); since T = 2\u03c0\u221a(L/g), the period increases and the clock loses time (runs slow)[cite: 92, 114, 127].",
+          "difficulty": "hard"
+        },
+        {
+          "id": "C05-Q19",
+          "question": "The pulsating variation in sound intensity (beats) heard when two sound waves of slightly different frequencies interfere results from:",
+          "options": [
+            "Periodic variations in wave speed",
+            "Alternating constructive and destructive interference over time",
+            "Doppler shifts in the air molecules",
+            "Total reflection from room walls"
+          ],
+          "answer": 1,
+          "explanation": "Beats arise from the superposition of two wave trains with slightly different frequencies, periodically reinforcing and canceling each other[cite: 119, 120].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C05-Q20",
+          "question": "What is the speed of all electromagnetic waves in a vacuum?",
+          "options": [
+            "343 m/s",
+            "3.0 \u00d7 10\u2078 m/s",
+            "1.5 \u00d7 10\u2076 m/s",
+            "Infinite"
+          ],
+          "answer": 1,
+          "explanation": "All electromagnetic waves propagate through vacuum at the universal speed of light, c = 3.0 \u00d7 10\u2078 m/s[cite: 116].",
+          "difficulty": "classic"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "Electromagnetism and Electronics",
+      "questions": [
+        {
+          "id": "C06-Q01",
+          "question": "What is the elementary charge carried by a single proton or electron?",
+          "options": [
+            "1.0 \u00d7 10\u207b\u00b9\u2079 C",
+            "1.6 \u00d7 10\u207b\u00b9\u2079 C",
+            "8.85 \u00d7 10\u207b\u00b9\u00b2 C",
+            "9.0 \u00d7 10\u2079 C"
+          ],
+          "answer": 1,
+          "explanation": "The elementary charge magnitude is e = 1.6 \u00d7 10\u207b\u00b9\u2079 C[cite: 129].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q02",
+          "question": "According to Coulomb's Law, what is the electrostatic force between two charges q1 and q2 separated by distance r in vacuum?",
+          "options": [
+            "F = k(q1 + q2) / r\u00b2",
+            "F = k |q1 q2| / r\u00b2",
+            "F = k q1 q2 / r",
+            "F = k q1\u00b2 / (q2 r\u00b2)"
+          ],
+          "answer": 1,
+          "explanation": "Coulomb's law states that the electrostatic force is directly proportional to the product of the charges and inversely proportional to r\u00b2[cite: 130].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q03",
+          "question": "How is the electric field E\u20d7 at a point defined in terms of the force F\u20d7 experienced by a small positive test charge q0?",
+          "options": [
+            "E\u20d7 = F\u20d7 \u00b7 q0",
+            "E\u20d7 = F\u20d7 / q0",
+            "E\u20d7 = q0 / F\u20d7",
+            "E\u20d7 = F\u20d7 / q0\u00b2"
+          ],
+          "answer": 1,
+          "explanation": "Electric field is defined as the electrostatic force per unit test charge: E\u20d7 = F\u20d7 / q0[cite: 132].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q04",
+          "question": "Electric field lines around an isolated positive point charge always point:",
+          "options": [
+            "Radially inward toward the charge",
+            "Radially outward away from the charge",
+            "In concentric circular loops around the charge",
+            "Toward the magnetic north pole"
+          ],
+          "answer": 1,
+          "explanation": "By convention, electric field lines emanate radially outward from positive charges and terminate on negative charges[cite: 133, 134].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q05",
+          "question": "What is the electric potential difference (voltage) V between two points?",
+          "options": [
+            "Electric potential energy divided by charge: V = \u0394U / q",
+            "Force times charge: V = F \u00b7 q",
+            "Current per unit resistance: V = I / R",
+            "Work divided by acceleration: V = W / a"
+          ],
+          "answer": 0,
+          "explanation": "Electric potential difference is defined as change in electric potential energy per unit charge: V = \u0394U / q, measured in volts (J/C)[cite: 138].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q06",
+          "question": "How is electric current I defined in terms of charge flow \u0394Q over time interval \u0394t?",
+          "options": [
+            "I = \u0394Q \u00b7 \u0394t",
+            "I = \u0394Q / \u0394t",
+            "I = \u0394t / \u0394Q",
+            "I = \u00bd (\u0394Q)\u00b2 \u0394t"
+          ],
+          "answer": 1,
+          "explanation": "Electric current is the rate of flow of charge: I = \u0394Q / \u0394t[cite: 140].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q07",
+          "question": "What is the microscopic form of Ohm's law relating current density J\u20d7, conductivity \u03c3, and electric field E\u20d7?",
+          "options": [
+            "J\u20d7 = \u03c3 / E\u20d7",
+            "J\u20d7 = \u03c3E\u20d7",
+            "J\u20d7 = \u03c1E\u20d7",
+            "E\u20d7 = \u03c3J\u20d7\u00b2"
+          ],
+          "answer": 1,
+          "explanation": "In microscopic form, Ohm's law is J\u20d7 = \u03c3E\u20d7, where \u03c3 is electrical conductivity[cite: 142].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C06-Q08",
+          "question": "Which formula expresses electric power dissipated in a resistor of resistance R carrying current I under voltage V?",
+          "options": [
+            "P = I / V",
+            "P = IV = I\u00b2R = V\u00b2 / R",
+            "P = I\u00b2 / R",
+            "P = V / I\u00b2"
+          ],
+          "answer": 1,
+          "explanation": "Electrical power is given by P = IV = I\u00b2R = V\u00b2 / R[cite: 143].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q09",
+          "question": "Kirchhoff's Junction Rule (\u03a3Iin = \u03a3Iout) is a direct consequence of which conservation law?",
+          "options": [
+            "Conservation of energy",
+            "Conservation of electric charge",
+            "Conservation of momentum",
+            "Conservation of magnetic flux"
+          ],
+          "answer": 1,
+          "explanation": "The junction rule states that total current entering a node equals current leaving it, representing conservation of electric charge[cite: 144, 145].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q10",
+          "question": "Kirchhoff's Loop Rule (\u03a3V = 0 around any closed circuit loop) is a direct consequence of:",
+          "options": [
+            "Conservation of charge",
+            "Conservation of energy",
+            "Newton's third law",
+            "Faraday's law"
+          ],
+          "answer": 1,
+          "explanation": "The loop rule states that the algebraic sum of potential differences around any closed loop must be zero, embodying conservation of energy[cite: 147].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q11",
+          "question": "Three resistors of 10 \u03a9, 20 \u03a9, and 30 \u03a9 are connected in series across a 12 V battery. What is the circuit current?",
+          "options": [
+            "0.1 A",
+            "0.2 A",
+            "0.5 A",
+            "2.0 A"
+          ],
+          "answer": 1,
+          "explanation": "Req = 10 + 20 + 30 = 60 \u03a9[cite: 148]. Current I = V / Req = 12 V / 60 \u03a9 = 0.2 A[cite: 148].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q12",
+          "question": "What is the magnetic force F\u20d7 on a charge q moving with velocity v\u20d7 in a magnetic field B\u20d7?",
+          "options": [
+            "F\u20d7 = q (v\u20d7 \u00b7 B\u20d7)",
+            "F\u20d7 = q (v\u20d7 \u00d7 B\u20d7)",
+            "F\u20d7 = (v\u20d7 \u00d7 B\u20d7) / q",
+            "F\u20d7 = q (B\u20d7 \u00d7 v\u20d7)"
+          ],
+          "answer": 1,
+          "explanation": "The magnetic Lorentz force on a moving charge is F\u20d7 = q(v\u20d7 \u00d7 B\u20d7) with magnitude F = qvB sin \u03b8[cite: 150].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q13",
+          "question": "What is the SI unit of magnetic field strength B?",
+          "options": [
+            "weber (Wb)",
+            "tesla (T)",
+            "henry (H)",
+            "farad (F)"
+          ],
+          "answer": 1,
+          "explanation": "The SI unit for magnetic field strength B is the tesla (T); 1 T = 10\u2074 gauss[cite: 151].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q14",
+          "question": "How is magnetic flux \u03a6 defined through a planar surface of area A oriented perpendicular to uniform magnetic field B?",
+          "options": [
+            "\u03a6 = B / A",
+            "\u03a6 = BA",
+            "\u03a6 = B \u00b7 q \u00b7 v",
+            "\u03a6 = \u00bd B\u00b2A"
+          ],
+          "answer": 1,
+          "explanation": "Magnetic flux is defined as \u03a6 = B \u00b7 A cos \u03b8; when perpendicular, \u03a6 = BA, measured in webers (Wb)[cite: 152, 153].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q15",
+          "question": "Faraday's Law of Induction states that the magnitude of the induced emf in a coil of N turns is proportional to:",
+          "options": [
+            "The static magnetic field B",
+            "The time rate of change of magnetic flux (\u03b5 = -N \u0394\u03a6 / \u0394t)",
+            "The resistance of the wire turns",
+            "The electrostatic potential of the battery"
+          ],
+          "answer": 1,
+          "explanation": "Faraday's law states that induced emf equals the negative rate of change of magnetic flux through the circuit: \u03b5 = -N(\u0394\u03a6/\u0394t)[cite: 154].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q16",
+          "question": "What is the forbidden energy band gap (Eg) in typical insulators compared to semiconductors?",
+          "options": [
+            "Insulators have Eg < 1 eV; semiconductors have Eg > 10 eV",
+            "Insulators have a large forbidden gap (> 3 eV); semiconductors have a narrow gap (< 3 eV)",
+            "Conduction and valence bands overlap in insulators",
+            "Semiconductors have no forbidden gap"
+          ],
+          "answer": 1,
+          "explanation": "Insulators have large band gaps (> 3 eV, e.g., diamond is 6 eV), whereas semiconductors have gaps < 3 eV (silicon is 1.1 eV)[cite: 148, 149].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q17",
+          "question": "What type of extrinsic semiconductor is produced when pure silicon is doped with a pentavalent impurity like arsenic (As)?",
+          "options": [
+            "P-type semiconductor with majority holes",
+            "N-type semiconductor with majority electrons",
+            "Intrinsic semiconductor with equal carrier densities",
+            "Superconducting ceramic"
+          ],
+          "answer": 1,
+          "explanation": "Pentavalent impurities donate extra conduction electrons, creating an N-type semiconductor with electrons as majority carriers[cite: 151, 152].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q18",
+          "question": "How must an external voltage source be connected to forward-bias a P-N junction diode?",
+          "options": [
+            "Positive terminal to N-region; negative terminal to P-region",
+            "Positive terminal to P-region; negative terminal to N-region",
+            "Both terminals connected directly to the P-region",
+            "Alternating AC connected without ground"
+          ],
+          "answer": 1,
+          "explanation": "In forward bias, the positive battery terminal connects to the P-side and the negative terminal to the N-side, narrowing the depletion layer[cite: 154, 155].",
+          "difficulty": "classic"
+        },
+        {
+          "id": "C06-Q19",
+          "question": "What is the phase difference between input and output voltage signals in a common-emitter (CE) transistor amplifier?",
+          "options": [
+            "0\u00b0 (in phase)",
+            "90\u00b0",
+            "180\u00b0 (out of phase)",
+            "360\u00b0"
+          ],
+          "answer": 2,
+          "explanation": "In common-emitter configuration, the output signal is 180\u00b0 out of phase with the input signal (phase reversal)[cite: 160, 161].",
+          "difficulty": "medium"
+        },
+        {
+          "id": "C06-Q20",
+          "question": "Which logic gate produces an output that is LOW (0) ONLY when both of its inputs are HIGH (1)?",
+          "options": [
+            "AND gate",
+            "NAND gate",
+            "OR gate",
+            "NOR gate"
+          ],
+          "answer": 1,
+          "explanation": "A NAND gate produces an output that is the inverse of an AND gate, giving 0 only when both inputs are 1[cite: 161].",
+          "difficulty": "classic"
+        }
+      ]
+    }
+  ]
+}
