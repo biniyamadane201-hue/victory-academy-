@@ -7,7 +7,7 @@ async function sendChannelPost() {
   
   const messageText = 
     "📚 **Victory Academy Freshman Exams**\n\n" +
-    "Tap the button below to start practicing your questions!";
+    "Tap the button below to open your questions and study materials:";
 
   await bot.telegram.sendMessage(channelId, messageText, {
     parse_mode: 'Markdown',
@@ -23,7 +23,7 @@ async function sendChannelPost() {
     }
   });
 
-  console.log('Post sent successfully!');
+  console.log('Mini app post sent successfully!');
 }
 
 sendChannelPost();
