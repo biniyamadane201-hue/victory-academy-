@@ -1,0 +1,22 @@
+name: Send Telegram Channel Post
+
+on:
+  workflow_dispatch: # Allows you to manually click "Run workflow" on GitHub
+
+jobs:
+  send-post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install telegraf
+
+      - name: Run post script
+        run: node post.js
