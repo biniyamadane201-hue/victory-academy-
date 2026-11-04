@@ -6,8 +6,8 @@ async function sendChannelPost() {
   const channelId = '-1003813502604'; 
   
   const messageText = 
-    "🛒 **Victory Academy Store**\n\n" +
-    "📚 New freshman exam resources and materials have just been added from Bot!";
+    "📚 **Victory Academy Freshman Exams**\n\n" +
+    "Tap the button below to start practicing your questions!";
 
   await bot.telegram.sendMessage(channelId, messageText, {
     parse_mode: 'Markdown',
@@ -15,7 +15,7 @@ async function sendChannelPost() {
       inline_keyboard: [
         [
           {
-            text: '✨ Open Victory Academy App',
+            text: 'open question 🚀',
             web_app: { url: 'https://biniyamadane201-hue.github.io/victory-academy-/' }
           }
         ]
@@ -23,7 +23,7 @@ async function sendChannelPost() {
     }
   });
 
-  console.log('Mini app post sent successfully!');
+  console.log('Post sent successfully!');
 }
 
 sendChannelPost();
