@@ -3,11 +3,11 @@ const { Telegraf } = require('telegraf');
 const bot = new Telegraf('8271303160:AAETYLfGAqBjqmnf-fRbuM6B3tcbjKs7Z00');
 
 async function sendChannelPost() {
-  const channelId = '-3813502604'; 
+  const channelId = '-1003813502604'; 
   
   const messageText = 
-    "📚 **Victory Academy Update**\n\n" +
-    "New study materials and exam prep resources have just been added!";
+    "🛒 **Victory Academy Store**\n\n" +
+    "📚 New freshman exam resources and materials have just been added from Bot!";
 
   await bot.telegram.sendMessage(channelId, messageText, {
     parse_mode: 'Markdown',
@@ -23,7 +23,7 @@ async function sendChannelPost() {
     }
   });
 
-  console.log('Victory Academy Mini App post sent successfully!');
+  console.log('Mini app post sent successfully!');
 }
 
 sendChannelPost();
