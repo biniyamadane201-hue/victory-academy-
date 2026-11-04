@@ -2,7 +2,7 @@ const { Telegraf } = require('telegraf');
 
 const bot = new Telegraf('8271303160:AAETYLfGAqBjqmnf-fRbuM6B3tcbjKs7Z00');
 
-async function sendChannelPost() {
+async function sendOpenQuestionPost() {
   const channelId = '-1003813502604'; 
   
   const messageText = 
@@ -23,7 +23,7 @@ async function sendChannelPost() {
     }
   });
 
-  console.log('Mini app post sent successfully!');
+  console.log('Open question button post sent successfully!');
 }
 
-sendChannelPost();
+sendOpenQuestionPost();
