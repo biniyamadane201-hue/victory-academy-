@@ -1,0 +1,395 @@
+{
+  "examId": "gees1011_mid_set3",
+  "examTitle": "Geography of Ethiopia and the Horn (GeES 1011) - Mid-Exam (Set 3)",
+  "department": "Department of Geography and Environmental Studies",
+  "target": "1st Year Freshman Students",
+  "durationMinutes": 45,
+  "totalMarks": 30,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "question": "Geography is both a holistic and interdisciplinary science that contributes to understanding changing spatial structures.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "Geography synthesizes insights from physical and social sciences to examine how spatial distributions and systems evolve over time."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "The Ethiopian highlands constitute over 50% of the country's landmass and are characterized by moderate rainfall and cooler temperatures.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "Highlands (areas above 1,000 meters) cover roughly 56% of Ethiopia's total area and feature moderate rainfall and cooler, temperate climates."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "The Great Rift Valley in Ethiopia separates the Western and Southeastern highlands.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "The Main Ethiopian Rift acts as a structural depression dissecting the country into the Western and Southeastern physiographic units."
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "question": "Ethiopia's astronomical location has no impact on its climate.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "Ethiopia's astronomical location (3\u00b0N to 15\u00b0N) places it within the tropical zone, directly influencing insolation, temperature regimes, and daylight hours."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "Relative location refers to Ethiopia's exact latitude and longitude.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "Latitude and longitude define astronomical (absolute) location. Relative location describes position in relation to surrounding water bodies and neighboring nations."
+    },
+    {
+      "id": 6,
+      "type": "matching_mcq",
+      "question": "Which description correctly matches 'Plate tectonics'?",
+      "options": [
+        "Movement causing continental drift, mountain building, and Rift Valley formation",
+        "Defined by absolute latitude and longitude",
+        "Era characterized by marine transgressions and the formation of limestone and sandstone",
+        "Human adjustments to environmental challenges",
+        "Maps representing natural and cultural features of a given region"
+      ],
+      "answer": 0,
+      "explanation": "Plate tectonics involves lithospheric plate dynamics responsible for continental rifting, volcanism, and mountain building."
+    },
+    {
+      "id": 7,
+      "type": "matching_mcq",
+      "question": "Which description correctly matches 'Astronomical location'?",
+      "options": [
+        "Movement causing continental drift, mountain building, and Rift Valley formation",
+        "Defined by absolute latitude and longitude",
+        "Era characterized by marine transgressions and the formation of limestone and sandstone",
+        "Human adjustments to environmental challenges",
+        "Maps representing natural and cultural features of a given region"
+      ],
+      "answer": 1,
+      "explanation": "Astronomical location indicates the precise mathematical grid coordinates (latitude and longitude) of an area."
+    },
+    {
+      "id": 8,
+      "type": "matching_mcq",
+      "question": "Which description correctly matches the 'Mesozoic Era'?",
+      "options": [
+        "Movement causing continental drift, mountain building, and Rift Valley formation",
+        "Defined by absolute latitude and longitude",
+        "Era characterized by marine transgressions and the formation of limestone and sandstone",
+        "Human adjustments to environmental challenges",
+        "Maps representing natural and cultural features of a given region"
+      ],
+      "answer": 2,
+      "explanation": "The Mesozoic Era is known for the advance/retreat of the sea and sedimentary deposition of sandstones and limestones."
+    },
+    {
+      "id": 9,
+      "type": "matching_mcq",
+      "question": "Which description correctly matches 'Adaptation' in human-environment relationships?",
+      "options": [
+        "Movement causing continental drift, mountain building, and Rift Valley formation",
+        "Defined by absolute latitude and longitude",
+        "Era characterized by marine transgressions and the formation of limestone and sandstone",
+        "Human adjustments to environmental challenges",
+        "Maps representing natural and cultural features of a given region"
+      ],
+      "answer": 3,
+      "explanation": "Adaptation describes how human societies adjust their living styles, clothing, and shelter to cope with local climatic constraints."
+    },
+    {
+      "id": 10,
+      "type": "matching_mcq",
+      "question": "Which description correctly matches 'Topographical maps'?",
+      "options": [
+        "Movement causing continental drift, mountain building, and Rift Valley formation",
+        "Defined by absolute latitude and longitude",
+        "Era characterized by marine transgressions and the formation of limestone and sandstone",
+        "Human adjustments to environmental challenges",
+        "Maps representing natural and cultural features of a given region"
+      ],
+      "answer": 4,
+      "explanation": "Topographical maps illustrate physical terrain relief (contours, drainage) alongside cultural features (roads, settlements)."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "What is the primary focus of systematic geography?",
+      "options": [
+        "Associations within specific regions",
+        "Distribution of physical & human phenomena globally",
+        "Interactions between humans & their environment",
+        "Topographical analysis"
+      ],
+      "answer": 1,
+      "explanation": "Systematic (thematic) geography investigates specific individual phenomena (such as climate, soils, or population) across the globe."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Which theme of geography focuses on the characteristics of a specific location?",
+      "options": [
+        "Place",
+        "Region",
+        "Movement",
+        "Human-environment interaction"
+      ],
+      "answer": 0,
+      "explanation": "'Place' describes the unique physical and human characteristics that distinguish one location from another."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "What is the significance of Ethiopia's astronomical location?",
+      "options": [
+        "Explains its tropical climate and time zone differences",
+        "Demonstrates its economic potential",
+        "Establishes its cultural diversity",
+        "Determines its political boundaries"
+      ],
+      "answer": 0,
+      "explanation": "Positioned between 3\u00b0N\u201315\u00b0N and 33\u00b0E\u201348\u00b0E, Ethiopia experiences tropical solar insolation and a 1-hour longitudinal local time span."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "The Horn of Africa's countries are closely linked by:",
+      "options": [
+        "Shared colonial histories",
+        "Common language and religious origins",
+        "Similar climate and topographical features",
+        "Historical cultural interconnections"
+      ],
+      "answer": 2,
+      "explanation": "Countries of the Horn share cohesive physical landforms, drainage basins, and climate belts across the Somali-Afar depressions and central plateaus."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Which geographic feature characterizes the Afar Triangle?",
+      "options": [
+        "High rainfall and volcanic soils",
+        "Faulted depressions, lava fields, and high temperatures",
+        "Extensive forests and fertile plains",
+        "Large lakes and marshes"
+      ],
+      "answer": 1,
+      "explanation": "The Afar Triangle is a tectonic triple junction characterized by active rift faults, recent volcanic basalt shields, and hyper-arid conditions."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "The Ethiopian Rift Valley is characterized by:",
+      "options": [
+        "A narrow, faulted depression separating plateaus",
+        "Flat, low-lying areas unsuitable for agriculture",
+        "Low volcanic activity and minimal faulting",
+        "An absence of geothermal resources"
+      ],
+      "answer": 0,
+      "explanation": "The Rift Valley is a prominent graben depression bounded by fault escarpments separating the Western and Southeastern plateaus."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Which Era is known for significant denudation processes in Ethiopia?",
+      "options": [
+        "Precambrian",
+        "Paleozoic",
+        "Mesozoic",
+        "Cenozoic"
+      ],
+      "answer": 1,
+      "explanation": "The Paleozoic was characterized by prolonged weathering, surface erosion, and peneplanation of the Precambrian basement relief."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "How does Ethiopia's topography affect its agricultural practices?",
+      "options": [
+        "Mountainous terrain limits cultivation to highlands only",
+        "Highland regions support rain-fed agriculture due to favorable conditions",
+        "Lowlands dominate Ethiopia's crop production",
+        "Topography has no impact on agriculture"
+      ],
+      "answer": 1,
+      "explanation": "Higher rainfall and moderate temperatures in the highlands create suitable conditions for rain-fed arable farming."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "The geological time scale primarily helps in:",
+      "options": [
+        "Identifying regions for mining activities",
+        "Understanding Earth's evolutionary history",
+        "Classifying different rock formations",
+        "Mapping current geological features"
+      ],
+      "answer": 1,
+      "explanation": "The geological time scale organizes Earth's 4.6-billion-year chronological history and biological/stratigraphic milestones."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "What is the primary factor influencing the formation of Rift Valley lakes?",
+      "options": [
+        "Volcanic eruptions",
+        "Tectonic faulting and subsidence",
+        "Climatic changes in the Quaternary Period",
+        "Marine sedimentation"
+      ],
+      "answer": 1,
+      "explanation": "Fault graben subsidence and tectonic depressions impounded runoff and groundwater, forming the Rift Valley lakes."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Which of the following best describes the concept of 'dependency' in human-environment interaction?",
+      "options": [
+        "Human reliance on cultural systems for governance",
+        "Dependence on other nations for economic development",
+        "Reliance on natural resources and environmental conditions for survival",
+        "Interdependence between urban and rural societies"
+      ],
+      "answer": 2,
+      "explanation": "Dependency reflects how humans rely directly on environmental components (freshwater, air, fertile soil, forests) to sustain life."
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "During which geological era did the formation of the Rift Valley in Ethiopia begin?",
+      "options": [
+        "Precambrian",
+        "Paleozoic",
+        "Mesozoic",
+        "Cenozoic"
+      ],
+      "answer": 3,
+      "explanation": "Rifting began during the Tertiary period of the Cenozoic Era following extensive continental upwarping and volcanic trap eruptions."
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "What is a distinguishing feature of the Ethiopian highlands compared to the lowlands?",
+      "options": [
+        "High prevalence of tropical diseases",
+        "Sparse population density and nomadic lifestyles",
+        "Cooler temperatures and suitability for rain-fed agriculture",
+        "Lower altitude and less vegetation cover"
+      ],
+      "answer": 2,
+      "explanation": "High elevations reduce temperatures and increase rainfall, supporting dense human settlements and crop cultivation."
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "Which principle is NOT used in relative dating techniques for rocks?",
+      "options": [
+        "Principle of Original Horizontality",
+        "Principle of Isotopic Decay",
+        "Principle of Faunal and Floral Succession",
+        "Principle of Cross-Cutting Relationships"
+      ],
+      "answer": 1,
+      "explanation": "Isotopic decay rates provide absolute numerical dating; the others determine relative chronological sequence."
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "Which of the following is NOT a feature of the Afar Triangle in the Rift Valley?",
+      "options": [
+        "High elevation over 2,000 m above sea level",
+        "Presence of volcanic ridges and lava fields",
+        "Extremely high temperatures during the summer",
+        "Significant geothermal energy potential"
+      ],
+      "answer": 0,
+      "explanation": "The Afar Triangle is low-lying (portions sink below sea level to -125 m), not an elevated highland above 2,000 meters."
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "How does the topography of Ethiopia impact its hydroelectric potential?",
+      "options": [
+        "High mountains and plateaus provide opportunities for dam construction",
+        "Extensive flatlands allow for large-scale irrigation projects",
+        "Lowland regions are unsuitable for energy production",
+        "Geological stability limits dam construction"
+      ],
+      "answer": 0,
+      "explanation": "High plateau elevations combined with steep gorges create substantial hydraulic head and canyon reservoir sites for hydroelectric dams."
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "The term 'peneplained' in geological studies refers to:",
+      "options": [
+        "A landscape characterized by high mountain ranges",
+        "A nearly level surface formed after long periods of erosion",
+        "A plateau created by volcanic activity",
+        "A region with abundant fault lines and fractures"
+      ],
+      "answer": 1,
+      "explanation": "A peneplain is an undulating, nearly flat plain produced by prolonged subaerial erosion reducing mountainous relief."
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "What role did Alfred Wegener's theory play in understanding Ethiopia's geology?",
+      "options": [
+        "It explained the origins of volcanic mountains in Ethiopia",
+        "It introduced the concept of geological time scales",
+        "It proposed the hypothesis of continental drift and the breakup of Pangaea",
+        "It provided insights into the role of rivers in shaping landscapes"
+      ],
+      "answer": 2,
+      "explanation": "Alfred Wegener proposed continental drift, explaining how the African plate drifted and fractured to form modern continental boundaries."
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "What is the most significant impact of the Mesozoic Era's marine transgressions on Ethiopia?",
+      "options": [
+        "Formation of volcanic plateaus",
+        "Creation of Rift Valley depressions",
+        "Deposition of sandstone, shale, and limestone",
+        "Accumulation of aeolian deposits"
+      ],
+      "answer": 2,
+      "explanation": "Transgressing and regressing Mesozoic seas deposited the Adigrat sandstone, fossiliferous Antalo limestone, and Upper sandstone layers."
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "The Ethiopian highlands are often referred to as the 'Roof of East Africa' due to:",
+      "options": [
+        "Their high population density",
+        "Their significant volcanic activity",
+        "The large proportion of elevated landmass in the region",
+        "The extensive forests and biodiversity they contain"
+      ],
+      "answer": 2,
+      "explanation": "Ethiopia possesses the largest continuous highland area above 2,000 meters in eastern Africa, earning it this nickname."
+    }
+  ]
+}

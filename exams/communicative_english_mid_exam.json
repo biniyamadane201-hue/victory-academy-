@@ -1,0 +1,401 @@
+{
+  "examId": "flen1011_mid_exam",
+  "examTitle": "Communicative English Language Skills I (FLEn 1011) - Mid-Exam",
+  "department": "Department of English Language and Literature",
+  "target": "1st Year Freshman Regular Students",
+  "academicYear": "2016 E.C",
+  "durationMinutes": 45,
+  "totalMarks": 30,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "It is raining and I don't want to get my dress wet. I ______ an umbrella.",
+      "options": [
+        "had better not bring",
+        "had better to bring",
+        "had better bring",
+        "None"
+      ],
+      "answer": 2,
+      "explanation": "'Had better' is followed by the bare infinitive (infinitive without 'to') to give strong advice."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "I ______ this novel when I was a high school student.",
+      "options": [
+        "have read",
+        "has read",
+        "read",
+        "was read"
+      ],
+      "answer": 2,
+      "explanation": "A specific completed time in the past ('when I was a high school student') requires the simple past tense ('read', pronounced /r\u025bd/)."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "We are good friends. We ______ each other for a long time.",
+      "options": [
+        "know",
+        "have known",
+        "knew",
+        "has known"
+      ],
+      "answer": 1,
+      "explanation": "The stative verb 'know' with 'for a long time' indicating duration from the past continuing to now requires the present perfect tense ('have known')."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "______ you ever ______ Sof Omar Cave in Bale?",
+      "options": [
+        "Has / been",
+        "Have / been",
+        "Were / been",
+        "Was / been"
+      ],
+      "answer": 1,
+      "explanation": "'Have you ever been...' is the standard present perfect structure used to inquire about life experiences."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "The exam is due tomorrow. If I don't study hard today, I ______ an F.",
+      "options": [
+        "would get",
+        "get",
+        "will get",
+        "would have got"
+      ],
+      "answer": 2,
+      "explanation": "This is a First Conditional sentence (If + Present Simple, will + base verb) expressing a real future possibility."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "If the children hadn't eaten all that chocolate, they ______ sick.",
+      "options": [
+        "wouldn't have felt",
+        "would have felt",
+        "would felt",
+        "had felt"
+      ],
+      "answer": 0,
+      "explanation": "Third Conditional (If + Past Perfect, would/wouldn't have + past participle) expresses an unreal past condition and its hypothetical result."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "If we ______ so tired, we would go out tonight.",
+      "options": [
+        "weren't",
+        "were",
+        "are",
+        "would"
+      ],
+      "answer": 0,
+      "explanation": "Second Conditional (If + Past Subjunctive, would + base verb) expressing an unreal present situation: 'If we weren't so tired...'"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "We ______ football after class yesterday.",
+      "options": [
+        "play",
+        "had playing",
+        "played",
+        "have played"
+      ],
+      "answer": 2,
+      "explanation": "'Yesterday' specifies a finished past time frame, which takes the simple past tense ('played')."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Zinabu: 'I'm feeling bored this afternoon.' Kasim: 'You ______ a cup of coffee.'",
+      "options": [
+        "should drink",
+        "better had drink",
+        "drink",
+        "better not drink"
+      ],
+      "answer": 0,
+      "explanation": "'Should + base verb' is standard for giving friendly recommendations and suggestions."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "What is the antonym (opposite meaning) of the word 'conserve'?",
+      "options": [
+        "Keep",
+        "Save",
+        "Lose / Waste",
+        "Care for"
+      ],
+      "answer": 2,
+      "explanation": "'Conserve' means to protect, preserve, or save from damage or loss; its opposite is 'lose' or 'waste'."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "In agriculture and personal development, the word 'cultivate' is closest in meaning to:",
+      "options": [
+        "Grown and developed",
+        "Destroyed",
+        "Ignored",
+        "Wasted"
+      ],
+      "answer": 0,
+      "explanation": "'Cultivate' means to foster the growth of, develop, or nurture (plants, skills, habits)."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Student: 'I always miss the first lesson in the morning because I arrive late.' Which piece of counseling advice is grammatically correct?",
+      "options": [
+        "You ought to wake up earlier.",
+        "You ought waking up earlier.",
+        "You had better to wake up earlier.",
+        "You should to wake up earlier."
+      ],
+      "answer": 0,
+      "explanation": "'Ought' must be followed by a full infinitive ('to wake up'), while 'should' and 'had better' take bare infinitives without 'to'."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Student: 'I always feel bored in the afternoon class.' As a counselor, what advice should you give?",
+      "options": [
+        "You shouldn't sleep at night.",
+        "You ought to participate actively and take concise notes.",
+        "You had better sleeping on your desk.",
+        "You must to avoid attending classes."
+      ],
+      "answer": 1,
+      "explanation": "'You ought to participate actively...' is both grammatically correct and appropriate advice."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Student: 'I am not good at studying during the night.' Which advice uses the modal verb 'should' correctly?",
+      "options": [
+        "You should to study early in the morning instead.",
+        "You should studying in the morning.",
+        "You should study during the early morning hours instead.",
+        "You should studied yesterday."
+      ],
+      "answer": 2,
+      "explanation": "'Should' is a modal auxiliary verb that takes the base form of the verb without 'to' ('should study')."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "By the time the professor entered the lecture hall, the students ______ their assignments.",
+      "options": [
+        "had submitted",
+        "submit",
+        "have submitted",
+        "were submitted"
+      ],
+      "answer": 0,
+      "explanation": "Past Perfect ('had submitted') is used for an action completed before another past event ('entered')."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Neither the teacher nor the students ______ present at the seminar yesterday.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are"
+      ],
+      "answer": 1,
+      "explanation": "With correlative conjunctions 'neither... nor...', the verb agrees with the closer subject ('the students', plural past -> 'were')."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "The manager made everyone ______ late to finish the project.",
+      "options": [
+        "to stay",
+        "staying",
+        "stay",
+        "stayed"
+      ],
+      "answer": 2,
+      "explanation": "The causative verb 'make' (active voice: make + object) is followed by a bare infinitive ('stay')."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Unless you ______ hard, you will not pass the university exit exam.",
+      "options": [
+        "will work",
+        "work",
+        "worked",
+        "would work"
+      ],
+      "answer": 1,
+      "explanation": "'Unless' means 'if not' and is followed by the present simple tense in first conditional clauses."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "I look forward to ______ you at the freshman orientation ceremony.",
+      "options": [
+        "meet",
+        "met",
+        "meeting",
+        "have met"
+      ],
+      "answer": 2,
+      "explanation": "In the phrasal expression 'look forward to', 'to' is a preposition, so it must be followed by a gerund (-ing form)."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Which of the following sentences is in the correct passive voice?",
+      "options": [
+        "The mid-exam was prepared by the department committee.",
+        "The department committee was prepared the mid-exam.",
+        "The mid-exam prepared by the committee.",
+        "The mid-exam had prepare by the committee."
+      ],
+      "answer": 0,
+      "explanation": "Passive voice formula in simple past: Subject + was/were + past participle ('was prepared')."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "She would have traveled abroad last summer if she ______ a valid passport in time.",
+      "options": [
+        "has obtained",
+        "obtained",
+        "had obtained",
+        "would obtain"
+      ],
+      "answer": 2,
+      "explanation": "Third conditional 'if' clause requires the Past Perfect ('had obtained')."
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "You ______ smoke in the university library; it is strictly prohibited by law.",
+      "options": [
+        "mustn't",
+        "don't have to",
+        "needn't",
+        "could"
+      ],
+      "answer": 0,
+      "explanation": "'Mustn't' indicates strict prohibition, whereas 'don't have to' merely indicates lack of necessity."
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "He has been living in Wolaita Sodo ______ 2021.",
+      "options": [
+        "for",
+        "since",
+        "in",
+        "during"
+      ],
+      "answer": 1,
+      "explanation": "'Since' is used with a specific starting point in time (a year, a date), whereas 'for' denotes a duration."
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "Hardly had the invigilator distributed the exam papers ______ the bell rang.",
+      "options": [
+        "than",
+        "when",
+        "then",
+        "that"
+      ],
+      "answer": 1,
+      "explanation": "The correlative structure 'Hardly... when...' is used to show one event happening immediately after another."
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "The boy ______ won the academic excellence award is my dormitory roommate.",
+      "options": [
+        "which",
+        "whom",
+        "who",
+        "whose"
+      ],
+      "answer": 2,
+      "explanation": "The relative pronoun 'who' refers to people as the grammatical subject of the relative clause."
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "Despite ______ unwell, Aster attended all her morning laboratory sessions.",
+      "options": [
+        "feel",
+        "feeling",
+        "felt",
+        "she feels"
+      ],
+      "answer": 1,
+      "explanation": "'Despite' is a preposition and must be followed by a noun phrase or gerund (-ing form)."
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "Which of the following transitions indicates a contrast between two ideas?",
+      "options": [
+        "Furthermore",
+        "Consequently",
+        "However",
+        "Similarly"
+      ],
+      "answer": 2,
+      "explanation": "'However' is an adversative conjunction used to introduce a contrasting or conflicting point."
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "If I were the university dean, I ______ free high-speed Wi-Fi access in every dormitory block.",
+      "options": [
+        "will provide",
+        "would provide",
+        "would have provided",
+        "provided"
+      ],
+      "answer": 1,
+      "explanation": "Hypothetical condition in the present (Second conditional): 'If I were..., I would provide...'"
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "A lot of research ______ being conducted on generative artificial intelligence this semester.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have"
+      ],
+      "answer": 0,
+      "explanation": "'Research' is an uncountable noun that takes a singular verb ('is')."
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "She told the counselor that she ______ exhausted after completing the continuous assessments.",
+      "options": [
+        "is feeling",
+        "felt",
+        "feels",
+        "feel"
+      ],
+      "answer": 1,
+      "explanation": "In reported speech with a past reporting verb ('told'), the present tense shifts back to simple past ('felt')."
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "examId": "psych101_mid_exam",
+  "examTitle": "General Psychology (Psyc 1011) - Mid-Exam",
+  "department": "Department of Psychology",
+  "target": "1st Year Freshman Students",
+  "durationMinutes": 40,
+  "totalMarks": 30,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "question": "Psychology is the scientific study of the human mind and behaviour.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "Psychology is formally defined as the scientific study of behavior and mental processes."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "Unlike other behavioural sciences, psychology studies individual behaviour.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "While sociology or anthropology focuses on groups and cultural institutions, psychology specifically concentrates on the individual organism."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "Reinforcement strengthens behaviour while punishment weakens behaviour.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "In operant conditioning, reinforcers always increase the likelihood of a response, whereas punishers decrease it."
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "question": "Ivan Pavlov used bell sound as unconditioned stimulus in his experiment.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "The bell sound was initially a neutral stimulus that became the Conditioned Stimulus (CS); meat powder was the Unconditioned Stimulus (UCS)."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "Food is considered as primary reinforcer while money is secondary reinforcer.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "Primary reinforcers satisfy biological needs directly, while secondary (conditioned) reinforcers derive value through learned association."
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "question": "According to behaviourists learning occurs as a result of stimulus-response association.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "Behaviorism posits that learning is an acquired association between external stimuli and observable responses (S-R bonds)."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "Seeing and hearing are for perception while looking and listening are for sensation.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "Seeing and hearing are passive sensory receptions (sensation), whereas looking and listening require active attention and interpretation (perception)."
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "question": "Covert behaviour is observable and measurable.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "Covert behavior consists of internal, unobservable mental activities (thoughts, feelings), whereas overt behavior is directly observable."
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "question": "Like classical conditioning, operant conditioning focuses on involuntary behaviors.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "Classical conditioning elicits involuntary reflexive responses, whereas operant conditioning shapes voluntary emitted behaviors."
+    },
+    {
+      "id": 10,
+      "type": "matching_mcq",
+      "question": "Which description correctly matches 'The Cognitive Perspective'?",
+      "options": [
+        "Focus on feelings which are unconscious",
+        "The interactions among people influence behavior",
+        "Focus on observable and measurable behavior",
+        "The way we receive and process information mentally",
+        "Human beings have free will"
+      ],
+      "answer": 3,
+      "explanation": "The cognitive perspective studies internal mental processes such as memory, thinking, reasoning, and information processing."
+    },
+    {
+      "id": 11,
+      "type": "matching_mcq",
+      "question": "Which description correctly matches 'The Social Perspective'?",
+      "options": [
+        "The interactions among people influence behavior",
+        "Focus on feelings which are unconscious",
+        "Focus on observable and measurable behavior",
+        "Behavior is changed as people grow older due to age",
+        "Human beings have free will"
+      ],
+      "answer": 0,
+      "explanation": "Social psychology examines interpersonal dynamics, social influence, conformity, and how individuals behave in social groups."
+    },
+    {
+      "id": 12,
+      "type": "matching_mcq",
+      "question": "Which description correctly matches the 'Developmental Perspective'?",
+      "options": [
+        "Focus on observable and measurable behavior",
+        "Behavior is changed as people grow older due to age",
+        "Focus on feelings which are unconscious",
+        "It focuses on the social and cultural factors",
+        "Human beings have free will"
+      ],
+      "answer": 1,
+      "explanation": "Developmental psychology studies systematic physical, cognitive, and psychosocial changes across the human lifespan from infancy to old age."
+    },
+    {
+      "id": 13,
+      "type": "matching_mcq",
+      "question": "Which description correctly matches the 'Humanistic Perspective'?",
+      "options": [
+        "Focus on feelings which are unconscious",
+        "Focus on observable and measurable behavior",
+        "Human beings have free will and strive for self-actualization",
+        "The way we receive and process information mentally",
+        "The interactions among people influence behavior"
+      ],
+      "answer": 2,
+      "explanation": "Humanistic psychology emphasizes human potential, free will, subjective experience, and self-actualization."
+    },
+    {
+      "id": 14,
+      "type": "matching_mcq",
+      "question": "Which description correctly matches the 'Psychoanalytic Perspective'?",
+      "options": [
+        "Focus on feelings and conflicts which are unconscious",
+        "Focus on observable and measurable behavior",
+        "It focuses on the social and cultural factors",
+        "Behavior is changed as people grow older due to age",
+        "Human beings have free will"
+      ],
+      "answer": 0,
+      "explanation": "Founded by Sigmund Freud, psychoanalysis focuses on unconscious drives, repressed desires, and early childhood experiences."
+    },
+    {
+      "id": 15,
+      "type": "matching_mcq",
+      "question": "Which description correctly matches the 'Behaviorists Perspective'?",
+      "options": [
+        "Focus on feelings which are unconscious",
+        "Focus on observable and measurable behavior",
+        "The way we receive and process information mentally",
+        "Human beings have free will",
+        "Behavior is changed as people grow older due to age"
+      ],
+      "answer": 1,
+      "explanation": "Behaviorism strictly studies observable, quantifiable actions and behaviors shaped by conditioning."
+    },
+    {
+      "id": 16,
+      "type": "matching_mcq",
+      "question": "Which description correctly matches the 'Socio-cultural Perspective'?",
+      "options": [
+        "Focus on feelings which are unconscious",
+        "It focuses on social and cultural factors that shape behavior",
+        "Focus on observable and measurable behavior",
+        "Human beings have free will",
+        "The way we receive and process information mentally"
+      ],
+      "answer": 1,
+      "explanation": "The socio-cultural perspective evaluates how cultural norms, values, ethnicity, and societal contexts determine individual behavior."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "The teacher gave Ahmad extra work to do for his late coming to school. This is an example of:",
+      "options": [
+        "Negative reinforcement",
+        "Positive reinforcement",
+        "Negative punishment",
+        "Positive punishment"
+      ],
+      "answer": 3,
+      "explanation": "Adding an aversive stimulus (extra homework) to reduce an unwanted behavior (being late) is positive punishment."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Gambling on slot machines is an example of which schedule of reinforcement?",
+      "options": [
+        "Fixed ratio",
+        "Fixed interval",
+        "Variable ratio",
+        "Variable interval"
+      ],
+      "answer": 2,
+      "explanation": "A payout occurs after an unpredictable, variable number of responses, making variable ratio schedules highly resistant to extinction."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Which scientist is universally recognized as the 'Father of Psychology'?",
+      "options": [
+        "Ivan Pavlov",
+        "B.F. Skinner",
+        "Albert Bandura",
+        "Wilhelm Wundt"
+      ],
+      "answer": 3,
+      "explanation": "Wilhelm Wundt established the first formal psychological research laboratory in Leipzig, Germany, in 1879."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "The Gestalt law of perception referring to the tendency to perceive objects that are close to each other as part of the same grouping is:",
+      "options": [
+        "Closure",
+        "Proximity",
+        "Similarity",
+        "Contiguity"
+      ],
+      "answer": 1,
+      "explanation": "The Law of Proximity states that elements placed close together are visually perceived as belonging to a collective group."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Which early school of psychology sought to break conscious experience down into basic elements of the mind?",
+      "options": [
+        "Structuralism",
+        "Behaviourism",
+        "Functionalism",
+        "Gestalt psychology"
+      ],
+      "answer": 0,
+      "explanation": "Structuralism (Wilhelm Wundt and Edward Titchener) utilized introspection to break down consciousness into basic sensations and feelings."
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "In Pavlov's classical conditioning experiment, the salivation of the dog after hearing the bell in the absence of meat powder is referred to as:",
+      "options": [
+        "Unconditioned stimulus",
+        "Conditioned response",
+        "Unconditioned response",
+        "Conditioned stimulus"
+      ],
+      "answer": 1,
+      "explanation": "Salivation triggered by the conditioned stimulus (bell) alone is the Conditioned Response (CR)."
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "The subfield of psychology that focuses on diagnosing and treating psychological disorders and mental illness is:",
+      "options": [
+        "Social Psychology",
+        "Developmental Psychology",
+        "Health Psychology",
+        "Clinical Psychology"
+      ],
+      "answer": 3,
+      "explanation": "Clinical psychology specializes in the assessment, diagnosis, cause, and therapeutic treatment of mental and behavioral disorders."
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "In Pavlov's classical conditioning experiment, the meat (food) was an example of a(n):",
+      "options": [
+        "Unconditioned response",
+        "Unconditioned stimulus",
+        "Conditioned response",
+        "Conditioned stimulus"
+      ],
+      "answer": 1,
+      "explanation": "Food naturally and automatically elicits salivation without any prior learning, defining it as the Unconditioned Stimulus (UCS)."
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "A relatively permanent change in an organism's behavior resulting from practice or experience is defined as:",
+      "options": [
+        "Learning",
+        "Memory",
+        "Forgetting",
+        "Sensation"
+      ],
+      "answer": 0,
+      "explanation": "Psychologists formally define learning as any relatively permanent change in behavior brought about by experience."
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "The gradual disappearance of a conditioned response when the conditioned stimulus is repeatedly presented without the unconditioned stimulus is called:",
+      "options": [
+        "Stimulus discrimination",
+        "Extinction",
+        "Stimulus generalization",
+        "Spontaneous recovery"
+      ],
+      "answer": 1,
+      "explanation": "Extinction occurs when the association weakens because the CS is presented repeatedly without the UCS."
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "Which fundamental goal of psychology answers the question 'why' a behavior occurs?",
+      "options": [
+        "Describing",
+        "Predicting",
+        "Explaining",
+        "Controlling"
+      ],
+      "answer": 2,
+      "explanation": "Description answers 'what', explanation answers 'why', prediction anticipates future occurrences, and control modifies behavior."
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "The teacher gave Sami extra marks for his active classroom participation. This reinforcement procedure is an example of:",
+      "options": [
+        "Negative punishment",
+        "Positive punishment",
+        "Positive reinforcement",
+        "Negative reinforcement"
+      ],
+      "answer": 2,
+      "explanation": "Adding a desirable rewarding stimulus (extra marks) to increase participatory behavior is positive reinforcement."
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "Which subfield of psychology applies psychological principles and research methods to improve productivity and morale in work environments?",
+      "options": [
+        "Industrial-Organizational (I/O) Psychology",
+        "Physiological Psychology",
+        "Cross-Cultural Psychology",
+        "Comparative Psychology"
+      ],
+      "answer": 0,
+      "explanation": "Industrial-Organizational (I/O) psychology studies workplace dynamics, employee selection, motivation, and leadership."
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "Which branch of applied psychology focuses primarily on helping individuals resolve everyday personal, social, educational, and vocational adjustment challenges?",
+      "options": [
+        "Counseling Psychology",
+        "Neuropsychology",
+        "Experimental Psychology",
+        "Cognitive Neuroscience"
+      ],
+      "answer": 0,
+      "explanation": "Counseling psychologists work with individuals experiencing personal, marital, academic, or vocational problems of normal adjustment."
+    }
+  ]
+}

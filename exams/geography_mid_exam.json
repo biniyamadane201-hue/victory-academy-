@@ -1,0 +1,350 @@
+{
+  "examTitle": "Geography of Ethiopia and the Horn (GeES1011) Mid-Examination",
+  "department": "Department of Geography and Environmental Studies",
+  "target": "1st Year Natural and Social Science Students",
+  "timeAllowed": "45 minutes",
+  "totalMarks": 30,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Geography is a holistic and interdisciplinary field of study contributing to the understanding of the changing spatial structures from the past to the future.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "Geography integrates natural and social sciences to study spatial structures across time."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "The Rift Valley region of Ethiopia is the most stable part of the country.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "The Rift Valley is tectonically and seismically the most unstable and active zone in Ethiopia."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "The north central massif has the largest proportion of elevated ground from the western physiographic division.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "The North Central Massifs accommodate the majority of landmass above 3,000 meters in the western highlands."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "The Adigrat sandstone is older and thicker in the southeast and progressively decreases in age and thickness northwestward.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "Transgression of the Mesozoic sea began from the southeast, making southeastern deposits older and thicker."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "The ratio of area of country to its boundary length is higher then, the greater the degree of compactness.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "A higher area-to-perimeter (boundary length) ratio indicates a shape closer to a circle, hence more compact."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Topographical maps are types of maps which used to show the distribution of temperature on the earth's surface.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "Topographical maps depict physical relief and surface features; maps showing temperature are climatic/thematic maps."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "The lower the Area-Circumference ratio, the smaller the degree of compactness.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "A lower Area-Circumference ratio represents greater elongation or irregularity and lower compactness."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "The scope of geography comprises only atmosphere and hydrosphere.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "The scope of geography spans all earth spheres: atmosphere, hydrosphere, lithosphere, and biosphere."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "The south-eastern lowlands of Ethiopia support few population as the area experiences harsh climatic condition.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "Arid to semi-arid conditions and high temperatures limit high population density in the south-eastern lowlands."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "During which geological era did the formation of the East African Great Rift Valley take place?",
+      "options": [
+        "Precambrian Era",
+        "Paleozoic Era",
+        "Mesozoic Era",
+        "Cenozoic Era"
+      ],
+      "answer": 3,
+      "explanation": "Rifting and volcanism associated with the Great Rift Valley occurred predominantly during the Cenozoic (Tertiary and Quaternary)."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "In which geological era was the major crystalline basement complex rock of Ethiopia formed?",
+      "options": [
+        "Precambrian Era",
+        "Paleozoic Era",
+        "Mesozoic Era",
+        "Cenozoic Era"
+      ],
+      "answer": 0,
+      "explanation": "Precambrian rocks form the fundamental crystalline basement upon which younger strata rest."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Fossil evidence on rock shows that marine life began in Ethiopia during which era?",
+      "options": [
+        "Precambrian Era",
+        "Paleozoic Era",
+        "Mesozoic Era",
+        "Cenozoic Era"
+      ],
+      "answer": 2,
+      "explanation": "Mesozoic marine transgression brought abundant marine deposition and fossil-rich strata (e.g., Antalo limestone)."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Denudation and peneplanation of gigantic land forms in the Horn of Africa predominantly occurred during the:",
+      "options": [
+        "Precambrian Era",
+        "Paleozoic Era",
+        "Mesozoic Era",
+        "Cenozoic Era"
+      ],
+      "answer": 1,
+      "explanation": "The Paleozoic was a long era of denudation, weathering, and peneplanation of the Precambrian relief."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Sea transgression and regression across Ethiopia and the Horn occurred during the:",
+      "options": [
+        "Precambrian Era",
+        "Paleozoic Era",
+        "Mesozoic Era",
+        "Cenozoic Era"
+      ],
+      "answer": 2,
+      "explanation": "The Mesozoic Era is characterized by the advance (transgression) and retreat (regression) of the Tethys / Indian Ocean sea."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Prolonged folding and orogenetic processes in the Horn primarily shaped rocks of the:",
+      "options": [
+        "Precambrian Era",
+        "Paleozoic Era",
+        "Mesozoic Era",
+        "Cenozoic Era"
+      ],
+      "answer": 0,
+      "explanation": "Orogenic mountain building and intense folding produced the metamorphic basement complex during the Precambrian."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Major epeirogenesis (vertical continental uplifting) affecting Ethiopia's current relief structure occurred in the:",
+      "options": [
+        "Precambrian Era",
+        "Paleozoic Era",
+        "Mesozoic Era",
+        "Cenozoic Era"
+      ],
+      "answer": 3,
+      "explanation": "Massive regional epeirogenic uplift of the Arabo-Ethiopian swell occurred during the Tertiary period of the Cenozoic."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Due to longitudinal extension, Ethiopia has a time difference of one hour between the most easterly (Ogaden at 48°E) and most westerly (Akobo at 33°E) points. Assuming that a flight takes only one hour and the airplane departs from Ogaden at 8:00 AM local time, what will be the landing time of the airplane at Akobo in local Akobo time?",
+      "options": ["9:00 AM", "8:00 AM", "10:00 AM", "7:00 AM"],
+      "answer": 1,
+      "explanation": "Ogaden (48°E) is 1 hour ahead of Akobo (33°E). At 8:00 AM in Ogaden, it is 7:00 AM in Akobo. After a 1-hour flight, the local time at Akobo is 8:00 AM."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Which of the following minerals is not found in Ethiopia?",
+      "options": [
+        "Gold",
+        "Tantalum",
+        "Base metals",
+        "All are found in Ethiopia",
+        "None"
+      ],
+      "answer": 3,
+      "explanation": "Gold, tantalum, and various base metals (iron, copper, zinc) are all documented mineral resources in Ethiopia."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Which one of the following is not correct about the topography of Ethiopia?",
+      "options": [
+        "Ethiopia has the largest proportion of elevated landmass in African continent",
+        "The altitudinal ranges of Ethiopia is small",
+        "More than 50% of the Ethiopian landmass is highland",
+        "Because of its height and large area, Ethiopia is the Roof of East Africa",
+        "None"
+      ],
+      "answer": 1,
+      "explanation": "Ethiopia has an extremely large altitudinal range, spanning from 125m below sea level (Danakil Depression) up to 4,550m (Ras Dejen)."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Assume that the Boundary-Circumference ratio of Ethiopia, Somalia, Djibouti, and Eritrea is 1.5, 1.59, 1.8, and 1.23 respectively. Which country is the most compact?",
+      "options": ["Ethiopia", "Somalia", "Djibouti", "Eritrea"],
+      "answer": 3,
+      "explanation": "In Boundary-Circumference indices, a ratio closer to 1.0 reflects lower boundary deviation from a circular perimeter, indicating higher compactness."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Which one of the following is a characteristic of the Ethiopian Highlands?",
+      "options": [
+        "It is attractive for human habitation but the population densities is lower",
+        "The possibility of rain-fed agriculture is higher than irrigation agriculture",
+        "It is favorable for irrigation agriculture because of vast plain lands",
+        "There is higher amount of mean annual rainfall and temperature",
+        "All are possible answers"
+      ],
+      "answer": 1,
+      "explanation": "Ample orographic precipitation and temperate climate make rain-fed agriculture the predominant practice across the Ethiopian highlands."
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "The Afar Triangle is characterized by all of the following EXCEPT:",
+      "options": [
+        "Elevation uniformly drops towards north and east from south west",
+        "The Afar and Aisha horst separates the area from the main Ethiopian rift part",
+        "It is the widest and lowest part of the rift valley",
+        "An area where the Red Sea, the Gulf of Aden and the East African System meets",
+        "None"
+      ],
+      "answer": 4,
+      "explanation": "All listed statements are true geographical characteristics of the Afar depression and its tectonic junction."
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "Which one of the following is the largest physiographic subdivision in the western highlands of Ethiopia?",
+      "options": [
+        "North central massifs",
+        "The Shewa Plateau/central highlands",
+        "The Tigray plateau",
+        "The Southwestern Highlands"
+      ],
+      "answer": 0,
+      "explanation": "The North Central Massifs (comprising Simien, Gonder, Wollo, and Gojjam massifs) form the largest unit in the western highlands."
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "Which one of the following was used as evidence by Alfred Wegener to hypothesize continental drift?",
+      "options": [
+        "Fit of the opposing continents",
+        "Continental glaciations in India, Australia and South America",
+        "Match up of mountain belts in West Africa, North America, and Greenland",
+        "All are possible answers"
+      ],
+      "answer": 3,
+      "explanation": "Continental jigsaw fit, paleoclimatic glacial deposits, and matching structural mountain chains all served as evidence for continental drift."
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "Which of the following typical features best characterizes the Bale Mountains of the southeastern highland?",
+      "options": [
+        "The extensive exposed features of Mesozoic rocks",
+        "The Afro-Alpine summit of Senetti plateau",
+        "The prominent feature of the Jemjem plateau",
+        "Erosion features belonging to Pleistocene glaciation",
+        "B and D",
+        "A and C"
+      ],
+      "answer": 4,
+      "explanation": "The Bale Mountains feature both the extensive high-altitude Afro-Alpine Sanetti Plateau and prominent glacial relict topography from the Pleistocene."
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "What is the chronological deposition order of Mesozoic sedimentary rock layers in Ethiopia from oldest (bottom) to youngest (top)?",
+      "options": [
+        "Upper Sandstone -> Antalo Limestone -> Adigrat Sandstone",
+        "Adigrat Sandstone -> Antalo Limestone -> Upper Sandstone",
+        "Antalo Limestone -> Adigrat Sandstone -> Upper Sandstone",
+        "Adigrat Sandstone -> Upper Sandstone -> Antalo Limestone"
+      ],
+      "answer": 1,
+      "explanation": "Adigrat sandstone was deposited first during sea transgression, followed by Antalo limestone, and Upper sandstone formed during sea regression."
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "Which physiographic sub-region contains the lowest point in Ethiopia?",
+      "options": [
+        "Lake Turkana Basin",
+        "Danakil Depression (Kobar Sink)",
+        "Gambella Lowlands",
+        "Ogaden Basin"
+      ],
+      "answer": 1,
+      "explanation": "The Kobar Sink in the Danakil Depression drops to approximately 125 meters below sea level."
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "The Main Ethiopian Rift (MER) connects which two tectonic systems?",
+      "options": [
+        "The Afar Triple Junction and the Chew Bahir / Gregory Rift",
+        "The Mediterranean Sea and the Red Sea",
+        "The Nile Valley and the Indian Ocean",
+        "The Congo Basin and the Mozambique Belt"
+      ],
+      "answer": 0,
+      "explanation": "The Main Ethiopian Rift extends from the southern apex of the Afar depression down to the Lake Turkana / Chew Bahir rift basin."
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "Which of the following highland peaks is the highest summit in Ethiopia?",
+      "options": [
+        "Mount Tullu Dimtu",
+        "Mount Batu",
+        "Ras Dejen (Dashen)",
+        "Mount Guna"
+      ],
+      "answer": 2,
+      "explanation": "Ras Dejen in the Simien Mountains (North Central Massif) is the highest elevation in Ethiopia at 4,550 meters."
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "Which geological period in the Cenozoic era was characterized by widespread volcanic trap series that capped the plateaus of Ethiopia?",
+      "options": [
+        "Quaternary period",
+        "Tertiary period",
+        "Carboniferous period",
+        "Jurassic period"
+      ],
+      "answer": 1,
+      "explanation": "Extensive fissure eruptions during the Tertiary period formed the thick basaltic Trap Series across the Ethiopian plateau."
+    }
+  ]
+}

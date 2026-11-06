@@ -1,0 +1,390 @@
+{
+  "examId": "phil1011_mid_exam",
+  "examTitle": "Critical Thinking & Logic (Phil 1011) - Mid-Exam",
+  "department": "Department of Civics and Ethical Studies",
+  "target": "All Freshman Students",
+  "durationMinutes": 60,
+  "totalMarks": 30,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "question": "One of the basic characteristics of philosophy is its rational attempt to look at the world as a whole.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "Philosophy provides a comprehensive, holistic worldview using rational inquiry rather than narrow fragmentation."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "Studying philosophy helps to achieve intellectual and behavioral independence.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "Philosophical reflection fosters autonomous thinking, freeing individuals from unexamined dogmas and passive compliance."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "Citizens with low critical thinking skills, creativity, and problem-solving abilities can contribute to society in a meaningful way.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "Meaningful and constructive social development requires critical thinking, analytical problem-solving, and creative civic engagement."
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "question": "Rationalists believe that knowledge is acquired through our senses and that our experiences shape our understanding of the world.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "Empiricists hold that knowledge originates from sensory experience; rationalists argue that fundamental knowledge originates through innate reason."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "The study of philosophy does not enhance a person's critical thinking, decision making and problem-solving capacities.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "A core objective of philosophical training is to sharpen logic, decision-making rationality, and problem-solving skills."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Which one is NOT correct about an argument and an explanation?",
+      "options": [
+        "In an argument, one tries to persuade the audience, but in an explanation, one does not.",
+        "In an argument, the premises present reasons, but in an explanation, the explanans do the explaining.",
+        "In both, the statement that precedes 'because' has the same purpose and the same labeling.",
+        "None of the above"
+      ],
+      "answer": 2,
+      "explanation": "In an argument, the statement preceding 'because' is the conclusion being proven, whereas in an explanation, it is the explanandum (the accepted fact being clarified)."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Which one is correct when you reason deductively?",
+      "options": [
+        "You can be certain that if you start with true premises, you will end up with a true conclusion.",
+        "You can be certain that if you start with true premises, you will end up with a false conclusion.",
+        "The premises of the inference do not entail the conclusion.",
+        "All of the above"
+      ],
+      "answer": 0,
+      "explanation": "In valid deductive reasoning, true premises guarantee the truth of the conclusion with strict logical necessity."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Among the following statements, which one is INCORRECT?",
+      "options": [
+        "An argument consists of a set of premises and conclusions.",
+        "The premises give reasons for the conclusion.",
+        "The premises can be either true or false.",
+        "In a good argument, the conclusion is implied by the premises."
+      ],
+      "answer": 0,
+      "explanation": "An argument contains a set of premises but only a single conclusion, not plural conclusions."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Which one is correct about the statement: 'Napoleon died because he was poisoned with arsenic'?",
+      "options": [
+        "'Napoleon died' is the conclusion.",
+        "'He was poisoned with arsenic' is the explanans.",
+        "'He was poisoned with arsenic' is the premise.",
+        "In the statement 'because' is used as a premise indicator word."
+      ],
+      "answer": 1,
+      "explanation": "This passage is an explanation; that Napoleon died is an undisputed accepted fact (explanandum), and being poisoned with arsenic is the cause/explanation (explanans)."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Among the following, which one represents a deductive argument?",
+      "options": [
+        "An argument that proceeds from knowledge of a cause to knowledge of an effect.",
+        "An argument that draws a conclusion based on what someone has said.",
+        "An argument that proceeds from general truth to a particular case.",
+        "An argument that predicts what will happen in the future."
+      ],
+      "answer": 2,
+      "explanation": "Classic deduction moves from universal/general principles to necessary specific applications."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "'If global warming is happening on a significant scale, then the area of polar ice will show a steady decline over the long term. But the area of polar ice will not show a steady decline over the long term. Therefore, ______'",
+      "options": [
+        "Global warming is happening on a significant scale.",
+        "The area of polar ice will show a steady decline over the long term.",
+        "Global warming is not happening on a significant scale.",
+        "All but A"
+      ],
+      "answer": 2,
+      "explanation": "By Modus Tollens (If P then Q; Not Q; Therefore, Not P), the conclusion must be: 'Global warming is not happening on a significant scale.'"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "The polar ice argument above ('If P then Q; Not Q; Therefore Not P') with its correct conclusion is classified as:",
+      "options": [
+        "Deductive - Valid",
+        "Inductive - Strong",
+        "Inductive - Valid",
+        "Hypothetical syllogism - Invalid"
+      ],
+      "answer": 0,
+      "explanation": "Modus Tollens is a recognized valid deductive argument form."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "An argument could be unsound when:",
+      "options": [
+        "The premises are false",
+        "The conclusion does not follow from the premises (it is invalid)",
+        "The argument is invalid",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "A deductive argument is unsound if it is invalid, has one or more false premises, or both."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "'Most who live in Wolaita Sodo speak Wolaitatto language. Belay lives in Wolaita Sodo. Therefore, Belay speaks Wolaitatto language.' In this argument, which one is correct?",
+      "options": [
+        "The conclusion is not necessarily followed from the premises.",
+        "If you assume the premises true the conclusion is probably true.",
+        "It is an inductive argument in which the conclusion is only claimed to follow with probability.",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Because the premise uses 'Most' (statistical generalization), it establishes high probability rather than strict certainty."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Since the Department of Defense Building in Washington, D.C. has the shape of a hexagon, it follows that it has seven sides. This argument is:",
+      "options": [
+        "Deductive - by definition",
+        "Inductive - from sign",
+        "Inductive - causal inference",
+        "Deductive - syllogism"
+      ],
+      "answer": 0,
+      "explanation": "Arguments based on mathematics or geometry definitions (even if mistaken about the number of sides) are deductive by definition."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Arguments that draw a conclusion about an entity based on that entity's similarity to something else are:",
+      "options": [
+        "Deductive - mathematical",
+        "Inductive - analogy",
+        "Inductive - statistics",
+        "Deductive - categorical"
+      ],
+      "answer": 1,
+      "explanation": "An argument from analogy infers that because two items share certain observed traits, they likely share an additional trait."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Which of the following statements is INCORRECT?",
+      "options": [
+        "A deductive argument is almost valid or invalid.",
+        "An inductive argument is either very weak or strong.",
+        "An argument in logic never refers to disagreement or controversy.",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "In logic, an 'argument' technical term refers strictly to a group of propositions (premises and conclusion), not verbal fighting or social controversy."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Which is a common characteristic of philosophical questions?",
+      "options": [
+        "They are strictly empirical questions.",
+        "They involve fundamental concepts that are unavoidable by the thoughtful person.",
+        "They are purely semantic questions.",
+        "They aren't relevant to ordinary, everyday situations."
+      ],
+      "answer": 1,
+      "explanation": "Philosophical questions concern foundational human concerns (meaning, truth, justice) that reason cannot evade."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "A branch of philosophy that is concerned with the fundamental nature of reality and existence is known as:",
+      "options": [
+        "Existentialism",
+        "Cosmology",
+        "Metaphysics",
+        "Meta-Ethics"
+      ],
+      "answer": 2,
+      "explanation": "Metaphysics is the core philosophical discipline investigating reality, being, ontology, and existence."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Which branch of philosophy explores the nature of beauty, the principles of art, and the criteria for judging artistic works?",
+      "options": [
+        "Epistemology",
+        "Metaphysics",
+        "Aesthetics",
+        "Ethics"
+      ],
+      "answer": 2,
+      "explanation": "Aesthetics examines sensory appreciation, art, taste, and the nature of beauty."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Which one of the following is NOT a metaphysical question?",
+      "options": [
+        "What is the meaning of life?",
+        "Does God exist, and if so, can we prove it?",
+        "What is the relationship and difference between faith and reason?",
+        "How did the universe originate and develop?"
+      ],
+      "answer": 2,
+      "explanation": "Examining the relationship between faith and reason and criteria of justification is an epistemological question."
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "Which branch of philosophy deals with moral principles, values, and judgments that guide human actions in order to achieve a good life?",
+      "options": [
+        "Epistemology",
+        "Metaphysics",
+        "Ethics",
+        "Aesthetics"
+      ],
+      "answer": 2,
+      "explanation": "Ethics (moral philosophy) evaluates right versus wrong conduct, virtues, and moral obligation."
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "Of the following, which one is NOT a legitimate benefit of studying Logic?",
+      "options": [
+        "It sets up criteria for distinguishing good arguments from bad ones.",
+        "It helps students to evaluate and analyze arguments.",
+        "It enables students to convince others using methods such as intimidation and emotional bribery.",
+        "It assists students to become critical thinkers."
+      ],
+      "answer": 2,
+      "explanation": "Intimidation and emotional manipulation are informal fallacies (ad baculum, ad misericordiam) that sound logic explicitly rejects."
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "Of the following, which one is INCORRECT regarding deductive and inductive arguments?",
+      "options": [
+        "In an inductive argument, it is intended that the conclusion contains information not contained in the premises.",
+        "In a deductive argument, the conclusion is not supposed to contain information not contained in the premises.",
+        "An argument is either deductive or inductive based on the nature of the link between premises and conclusion.",
+        "None of the above"
+      ],
+      "answer": 3,
+      "explanation": "All three statements (A, B, and C) correctly reflect standard principles of deductive and inductive logic."
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "An argument is ______ if it's ______ and every premise is true.",
+      "options": [
+        "sound - valid",
+        "cogent - strong",
+        "uncogent - weak",
+        "All but C"
+      ],
+      "answer": 3,
+      "explanation": "A deductive argument is sound if valid with true premises; an inductive argument is cogent if strong with true premises."
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "'Couples intending to marry should always enter into a prenuptial agreement... If they cannot agree on something like that, they would be wise not to marry in the first place. But if they do, a prenuptial agreement will save them from lengthy legal action.' What is the main conclusion?",
+      "options": [
+        "Couples intending to marry should always enter into a prenuptial agreement.",
+        "If couples cannot agree, they should not marry.",
+        "Prenuptial agreements will save them from lengthy legal action.",
+        "Divorce courts are acrimonious and expensive."
+      ],
+      "answer": 0,
+      "explanation": "The leading prescriptive claim of the passage is the recommendation that couples should enter into a prenuptial agreement."
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "'All Wolaita Sodo University freshman students are students of WSU. No Addis Ababa University freshman students are students of WSU.' What is the valid conclusion that follows necessarily?",
+      "options": [
+        "No Addis Ababa University freshman students are Wolaita Sodo University freshman students.",
+        "Some WSU freshman students are AAU students.",
+        "All freshman students attend Wolaita Sodo University.",
+        "No conclusion follows from these premises."
+      ],
+      "answer": 0,
+      "explanation": "By Camestres / Celarent categorical syllogism: If All A are B, and No C are B, then No C are A."
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "The argument evaluated in Question 27 above is logically:",
+      "options": [
+        "Deductive, Valid, and Sound",
+        "Inductive, Weak, and Uncogent",
+        "Deductive, Invalid, and Unsound",
+        "Inductive, Strong, and Cogent"
+      ],
+      "answer": 0,
+      "explanation": "The conclusion follows with strict necessity (valid) and both premises state verifiable true institutional facts (sound)."
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "Which of the following symbolic forms represents a valid Pure Hypothetical Syllogism (PHS)?",
+      "options": [
+        "If P then Q; If Q then R; Therefore, If P then R.",
+        "If P then Q; P; Therefore, Q.",
+        "If P then Q; Not Q; Therefore, Not P.",
+        "P or Q; Not P; Therefore, Q."
+      ],
+      "answer": 0,
+      "explanation": "Pure Hypothetical Syllogism is composed entirely of conditional statements linked transitively: (P -> Q, Q -> R \u22a2 P -> R)."
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "Which informal fallacy occurs when an arguer attacks an opponent's character or personal traits rather than addressing the substance of their logical argument?",
+      "options": [
+        "Argumentum ad Hominem",
+        "Appeal to Pity (Ad Misericordiam)",
+        "False Dilemma",
+        "Begging the Question (Petitio Principii)"
+      ],
+      "answer": 0,
+      "explanation": "An Ad Hominem fallacy directs the critique against the person advancing the position instead of evaluating the evidence."
+    }
+  ]
+}

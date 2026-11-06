@@ -1,0 +1,381 @@
+{
+  "examId": "gees1011_mid_2016",
+  "examTitle": "Geography of Ethiopia & the Horn (GeES 1011) - Mid-Exam (2016 E.C)",
+  "department": "Department of Geography and Environmental Studies",
+  "target": "1st Year Regular Students",
+  "academicYear": "2016 E.C",
+  "durationMinutes": 60,
+  "totalMarks": 30,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "question": "Expanding irrigation agriculture in its vast lowlands can help Ethiopia boost its food production in the future.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "Ethiopia's vast lowlands possess significant river basins and irrigable command areas suitable for large-scale agricultural transformation."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "There is no perfectly compact shaped nation in the world so far.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "A perfectly compact state would be an exact theoretical circle; no nation in the world possesses an ideally circular border."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "Most of the population in Ethiopian highlands pursue the pastoral way of life.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "The highland population predominantly practices sedentary mixed agriculture (crop-livestock cultivation), while pastoralism dominates the lowlands."
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "question": "Ethiopia has longer latitudinal extension than its longitudinal one.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "Ethiopia extends about 12 degrees north-south (3\u00b0N to 15\u00b0N) and 15 degrees east-west (33\u00b0E to 48\u00b0E), meaning its longitudinal extension is greater."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "The proportion of lowlands exceed highlands in Ethiopia.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "In Ethiopia, highlands (elevations above 1,000 meters) constitute about 56% of the country, exceeding the lowlands."
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "question": "The approach of studying mineral production in Africa is more of systematic.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "Studying a specific topic or commodity (such as mineral production) across a region follows the systematic (thematic) approach in geography."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "A substantial proportion of Ethiopia's population lives within the Rift Valley system today.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "A significant portion of the Ethiopian population resides within the Rift Valley lakes region, Hawassa, Adama, and surrounding urban centers."
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "question": "The Southeastern lowlands in Ethiopia have an immense potential for petroleum extraction.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "The Ogaden sedimentary basin in the southeastern lowlands holds substantial confirmed reserves of natural gas and hydrocarbon potential."
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "question": "The Chew Bahir region is the lowest most point region in Ethiopia.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "The lowest point in Ethiopia is the Danakil Depression (Kobar Sink) at approximately 125 meters below sea level, not Chew Bahir."
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "question": "Djibouti has smaller area and less compact than Ethiopia.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "While Djibouti has a much smaller area than Ethiopia, its boundary-circumference shape index shows it is not necessarily less compact than elongated shapes."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "If you stand on one side of the deep river valley gorges of Abay and observe all the exposed vertical cross-cutting layers of the earth profiles, which of the following layers is probably missing?",
+      "options": [
+        "Precambrian deposit",
+        "Paleozoic deposits",
+        "Cenozoic deposits",
+        "Mesozoic deposits"
+      ],
+      "answer": 1,
+      "explanation": "The Paleozoic Era was predominantly a time of denudation and peneplanation in the Horn with minimal sedimentary deposition, creating an unconformity."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Which mineral is largely dominated in the Afar Depression than elsewhere in Ethiopia?",
+      "options": [
+        "Platinum",
+        "Gemstone",
+        "Potash",
+        "Gold"
+      ],
+      "answer": 2,
+      "explanation": "The Danakil Depression in the Afar region contains world-class evaporite deposits, predominantly potash and rock salt."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Which of the following geomorphic processes truly explains the characteristics of exogenic processes?",
+      "options": [
+        "Mostly results in denudational effects",
+        "Mostly result in building of structural features like plateaus",
+        "Internally imposed and build landforms",
+        "All of the above"
+      ],
+      "answer": 0,
+      "explanation": "Exogenic processes operate on the surface powered by solar energy and gravity, primarily causing weathering, erosion, and denudation."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "The principle of original horizontality states that:",
+      "options": [
+        "Most rocks in the earth's crust are layered horizontally",
+        "Igneous rocks form essentially horizontal layers",
+        "Metamorphic gradients are essentially horizontal before deformation",
+        "Sediments are deposited as essentially horizontal layers"
+      ],
+      "answer": 3,
+      "explanation": "Steno's law of original horizontality states that layers of sediment are originally deposited horizontally under the action of gravity."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Fossils are most common in which rock types?",
+      "options": [
+        "Sedimentary",
+        "Igneous",
+        "Metamorphic",
+        "All of these commonly contain fossils"
+      ],
+      "answer": 0,
+      "explanation": "Sedimentary rocks preserve organic remains because they form at low temperatures and pressures without melting or extreme recrystallization."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Which era was dominated by the dinosaurs?",
+      "options": [
+        "Precambrian",
+        "Paleozoic",
+        "Mesozoic",
+        "Cenozoic"
+      ],
+      "answer": 2,
+      "explanation": "The Mesozoic Era (Age of Reptiles) encompasses the Triassic, Jurassic, and Cretaceous periods dominated by dinosaurs."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "What is the Mesozoic supercontinent that consisted of all landmasses of the present continents?",
+      "options": [
+        "Laurasia",
+        "Pangaea",
+        "Panthalassa",
+        "Gondwanaland"
+      ],
+      "answer": 1,
+      "explanation": "Pangaea was the supercontinent that assembled in the late Paleozoic and persisted into the early Mesozoic before rifting."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Which of the following eras represents the longest time period in Earth's history?",
+      "options": [
+        "Paleozoic",
+        "Precambrian",
+        "Cenozoic",
+        "Mesozoic"
+      ],
+      "answer": 1,
+      "explanation": "The Precambrian spans roughly 4 billion years, covering approximately 88% of geologic time."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Which one of the following features is identified with the rift valley system within Ethiopia?",
+      "options": [
+        "Hostile environment for all forms of life",
+        "Presence of volcanic mountains",
+        "High geothermal energy potential",
+        "All"
+      ],
+      "answer": 2,
+      "explanation": "The rift floor features exceptional geothermal energy potential (e.g., Aluto Langano) and volcanic complexes, supporting various settlements and ecosystems."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Which one of the following is a typical feature of lowlands in Ethiopia?",
+      "options": [
+        "They are free from tropical diseases",
+        "They have less population density",
+        "They receive mild to high amounts of rainfall",
+        "They occupy most of the central parts of Ethiopia"
+      ],
+      "answer": 1,
+      "explanation": "Lowlands in Ethiopia are sparsely populated due to arid climates, high temperatures, and endemic tropical diseases like malaria."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Which of the following sub-divisions of the Western Highlands covers the largest area of the region?",
+      "options": [
+        "South-Western highlands",
+        "Shewan plateau",
+        "North Central Massifs",
+        "Tigray Plateau"
+      ],
+      "answer": 2,
+      "explanation": "The North Central Massifs form the most contiguous and largest subdivision of the Western Highlands."
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "The wettest part of the Ethiopian Rift Valley is the:",
+      "options": [
+        "The Main Ethiopia Rift Valley",
+        "The Afar Triangle",
+        "The Chew Bahir",
+        "None"
+      ],
+      "answer": 0,
+      "explanation": "The southern Main Ethiopian Rift (around Hawassa and the southern lake district) receives higher rainfall than the hyper-arid Afar or Chew Bahir basins."
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "All of the following best describes major events that happened in the Mesozoic era EXCEPT:",
+      "options": [
+        "Dinosaurs appeared and became extinct in this era",
+        "Epeirogenesis of the Horn of African landmass took place",
+        "The super continent begins to break up",
+        "Orogenic process occurred"
+      ],
+      "answer": 3,
+      "explanation": "The major orogenic folding episodes occurred during the Precambrian, not the Mesozoic."
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "Relatively, Ethiopia is situated:",
+      "options": [
+        "South of Kenya",
+        "East of Indian Ocean",
+        "West of Djibouti",
+        "North of Red Sea"
+      ],
+      "answer": 2,
+      "explanation": "Ethiopia lies to the west of Djibouti (and Djibouti lies east of Ethiopia)."
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "Which of the following statements is true about the Mesozoic Sediments in Ethiopia?",
+      "options": [
+        "The upper sandstone is the result of transgressions of the sea",
+        "The upper sandstone is older in the North West",
+        "Adigrat sand stone had occurred due to regression of the sea",
+        "The upper sandstone is thicker in the southwest direction"
+      ],
+      "answer": 1,
+      "explanation": "Because the sea retreated towards the southeast, Upper Sandstone deposition started earlier (making it older) in the northwest."
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "It is believed that the gigantic mountain ranges of the planet earth were reduced and the total topography became an undulating plain during the:",
+      "options": [
+        "Precambrian era",
+        "Paleozoic era",
+        "Mesozoic era",
+        "Cenozoic era"
+      ],
+      "answer": 1,
+      "explanation": "During the Paleozoic Era, prolonged erosion reduced the high Precambrian mountains down to a peneplain."
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "Which of the following statements best designates the process of uplifting of the Arabo-Ethiopian landmass and pouring of lava flood?",
+      "options": [
+        "This huge uplift had occurred in the quaternary period of Cenozoic era",
+        "It had occurred after rift valley formation",
+        "It is continuation of Mesozoic era and reaches the maximum in tertiary period",
+        "The process began and completed in the tertiary period of Cenozoic era"
+      ],
+      "answer": 2,
+      "explanation": "Uplift began toward the end of the Mesozoic (Cretaceous) and reached its maximum climax during the Tertiary period of the Cenozoic."
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "Human beings evolved during which geologic era?",
+      "options": [
+        "Cenozoic",
+        "Paleozoic",
+        "Mesozoic",
+        "Precambrian"
+      ],
+      "answer": 0,
+      "explanation": "Hominids and modern humans evolved during the Quaternary period of the Cenozoic Era."
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "Which of the following Age Dating Techniques infers the absolute/actual age of a rock?",
+      "options": [
+        "Counting the regular rates of decay for a given unstable element",
+        "Considering layers of rocks in a cliff or hillside",
+        "Identifying the type of fossil contained in the rock system",
+        "Considering the order of depositional materials in a given area"
+      ],
+      "answer": 0,
+      "explanation": "Radiometric dating measures the radioactive decay rates (half-life) of unstable isotopes to determine absolute chronological age."
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "Which of the following geologic activities and processes of the Cenozoic era took place first?",
+      "options": [
+        "Volcanism in south of Lake Tana regions",
+        "Red Sea and the Gulf of Aden were connected",
+        "Trap series lava covers the floor of the uplifted landmass",
+        "The formation of rift valley"
+      ],
+      "answer": 2,
+      "explanation": "Massive flood basalt outpouring (the Trap Series) occurred during the early Tertiary prior to the major faulting and splitting of the Rift Valley."
+    }
+  ]
+}
