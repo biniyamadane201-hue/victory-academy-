@@ -1,146 +1,175 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Victory Academy — Prepare Today. Succeed Tomorrow.</title>
-  <link rel="stylesheet" href="css/style.css">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <script src="https://telegram.org/js/telegram-web-app.js"></script>
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Victory Academy — Prepare Today. Succeed Tomorrow.</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container navbar">
+        <a href="index.html" class="brand-logo">
+          <div class="brand-icon">VA</div>
+          <span>VICTORY <span class="gold-gradient-text">ACADEMY</span></span>
+        </a>
 
-  <header class="site-header">
-    <div class="container navbar">
-      <a href="index.html" class="brand-logo">
-        <div class="brand-icon">VA</div>
-        <span>VICTORY <span class="gold-gradient-text">ACADEMY</span></span>
-      </a>
+        <nav>
+          <ul class="nav-menu" id="nav-menu">
+            <li><a href="index.html" class="nav-link active">Home</a></li>
+            <li><a href="courses.html" class="nav-link">Courses</a></li>
+            <li><a href="dashboard.html" class="nav-link">Dashboard</a></li>
+            <li>
+              <a href="exams/mid-exam.html" class="nav-link"
+                >🔥 Freshman Mid-Exam</a
+              >
+            </li>
+          </ul>
+        </nav>
 
-      <nav>
-        <ul class="nav-menu" id="nav-menu">
-          <li><a href="index.html" class="nav-link active">Home</a></li>
-          <li><a href="courses.html" class="nav-link">Courses</a></li>
-          <li><a href="dashboard.html" class="nav-link">Dashboard</a></li>
-          
-        </ul>
-      </nav>
-
-      <div class="nav-actions">
-        <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle Theme">🌓</button>
-        <button id="mobile-menu-btn" class="mobile-menu-toggle" aria-label="Toggle Navigation">☰</button>
-        <a href="courses.html" class="btn btn-gold btn-sm">Start Quiz</a>
-      </div>
-    </div>
-  </header>
-
-  <main>
-    <section class="hero-section">
-      <div class="hero-glow-1"></div>
-      <div class="hero-glow-2"></div>
-      <div class="container hero-content">
-        <div class="hero-badge">⚡ University Exam Preparation Portal</div>
-        <h1 class="hero-headline">
-          Prepare Today. <br>
-          <span class="gold-gradient-text">Succeed Tomorrow.</span>
-        </h1>
-        <p class="hero-subtitle">
-          Master your semester examinations with structured chapter-by-chapter questions, 
-          timed mock exams, comprehensive conceptual explanations, and instant analytics.
-        </p>
-        <div class="hero-cta-group">
-          <a href="courses.html" class="btn btn-gold btn-lg">Explore Courses</a>
-          <a href="dashboard.html" class="btn btn-outline btn-lg">Student Dashboard</a>
+        <div class="nav-actions">
+          <button
+            id="theme-toggle"
+            class="theme-toggle-btn"
+            aria-label="Toggle Theme"
+          >
+            🌓
+          </button>
+          <button
+            id="mobile-menu-btn"
+            class="mobile-menu-toggle"
+            aria-label="Toggle Navigation"
+          >
+            ☰
+          </button>
+          <a href="courses.html" class="btn btn-gold btn-sm">Start Quiz</a>
         </div>
       </div>
-    </section>
+    </header>
 
-    <section class="stats-section">
+    <main>
+      <section class="hero-section">
+        <div class="hero-glow-1"></div>
+        <div class="hero-glow-2"></div>
+        <div class="container hero-content">
+          <div class="hero-badge">⚡ University Exam Preparation Portal</div>
+          <h1 class="hero-headline">
+            Prepare Today. <br />
+            <span class="gold-gradient-text">Succeed Tomorrow.</span>
+          </h1>
+          <p class="hero-subtitle">
+            Master your semester examinations with structured chapter-by-chapter
+            questions, timed mock exams, comprehensive conceptual explanations,
+            and instant analytics.
+          </p>
+          <div class="hero-cta-group">
+            <a href="courses.html" class="btn btn-gold btn-lg"
+              >Explore Courses</a
+            >
+            <a href="dashboard.html" class="btn btn-outline btn-lg"
+              >Student Dashboard</a
+            >
+          </div>
+        </div>
+      </section>
+
+      <section class="stats-section">
+        <div class="container">
+          <div class="stats-grid">
+            <div class="stat-item">
+              <div class="stat-number gold-gradient-text">3,500+</div>
+              <div class="stat-label">Exam Questions</div>
+              <div class="stat-subtext">Curated across all chapters</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-number blue-gradient-text">24+</div>
+              <div class="stat-label">Modules & Courses</div>
+              <div class="stat-subtext">Engineering & Sciences</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-number gold-gradient-text">..</div>
+              <div class="stat-label">University Students</div>
+              <div class="stat-subtext">Active learners</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-number blue-gradient-text">98%</div>
+              <div class="stat-label">Exam Pass Rate</div>
+              <div class="stat-subtext">Verified performance</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="container">
+        <div class="tg-banner">
+          <div class="tg-banner-content">
+            <h3>📱 Study directly inside Telegram</h3>
+            <p>
+              Victory Academy connects seamlessly with Telegram Mini Apps.
+              Access your chapter mock exams, track your streaks, and practice
+              on mobile without extra installations.
+            </p>
+          </div>
+          <a href="courses.html" class="btn btn-primary">Open Practice Room</a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
       <div class="container">
-        <div class="stats-grid">
-          <div class="stat-item">
-            <div class="stat-number gold-gradient-text">3,500+</div>
-            <div class="stat-label">Exam Questions</div>
-            <div class="stat-subtext">Curated across all chapters</div>
+        <div class="footer-grid">
+          <div class="footer-col">
+            <div class="brand-logo" style="margin-bottom: 1rem">
+              <div class="brand-icon">VA</div>
+              <span
+                >VICTORY <span class="gold-gradient-text">ACADEMY</span></span
+              >
+            </div>
+            <p style="color: var(--text-muted); font-size: 0.9rem">
+              Empowering higher-education students to achieve academic mastery
+              through adaptive, chapter-based examination preparation.
+            </p>
           </div>
-          <div class="stat-item">
-            <div class="stat-number blue-gradient-text">24+</div>
-            <div class="stat-label">Modules & Courses</div>
-            <div class="stat-subtext">Engineering & Sciences</div>
+          <div class="footer-col">
+            <h4>Platform</h4>
+            <ul class="footer-links">
+              <li><a href="courses.html">All Courses</a></li>
+              <li><a href="dashboard.html">Student Dashboard</a></li>
+              <li><a href="admin.html">Admin Portal</a></li>
+            </ul>
           </div>
-          <div class="stat-item">
-            <div class="stat-number gold-gradient-text">12,000+</div>
-            <div class="stat-label">University Students</div>
-            <div class="stat-subtext">Active learners</div>
+          <div class="footer-col">
+            <h4>Supported Faculties</h4>
+            <ul class="footer-links">
+              <li><a href="courses.html">Pre-Engineering</a></li>
+              <li><a href="courses.html">Natural Science</a></li>
+              <li><a href="courses.html">Social Sciences</a></li>
+            </ul>
           </div>
-          <div class="stat-item">
-            <div class="stat-number blue-gradient-text">98%</div>
-            <div class="stat-label">Exam Pass Rate</div>
-            <div class="stat-subtext">Verified performance</div>
+          <div class="footer-col">
+            <h4>Connect</h4>
+            <ul class="footer-links">
+              <li><a href="https://t.me/" target="_blank">Telegram Bot</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="footer-bottom">
+          <div>
+            © 2026 Victory Academy. All rights reserved. Slogan: Prepare Today.
+            Succeed Tomorrow.
           </div>
         </div>
       </div>
-    </section>
+    </footer>
 
-    <section class="container">
-      <div class="tg-banner">
-        <div class="tg-banner-content">
-          <h3>📱 Study directly inside Telegram</h3>
-          <p>
-            Victory Academy connects seamlessly with Telegram Mini Apps. 
-            Access your chapter mock exams, track your streaks, and practice on mobile without extra installations.
-          </p>
-        </div>
-        <a href="courses.html" class="btn btn-primary">Open Practice Room</a>
-      </div>
-    </section>
-  </main>
-
-  <footer class="site-footer">
-    <div class="container">
-      <div class="footer-grid">
-        <div class="footer-col">
-          <div class="brand-logo" style="margin-bottom: 1rem;">
-            <div class="brand-icon">VA</div>
-            <span>VICTORY <span class="gold-gradient-text">ACADEMY</span></span>
-          </div>
-          <p style="color: var(--text-muted); font-size: 0.9rem;">
-            Empowering higher-education students to achieve academic mastery through adaptive, chapter-based examination preparation.
-          </p>
-        </div>
-        <div class="footer-col">
-          <h4>Platform</h4>
-          <ul class="footer-links">
-            <li><a href="courses.html">All Courses</a></li>
-            <li><a href="dashboard.html">Student Dashboard</a></li>
-            <li><a href="admin.html">Admin Portal</a></li>
-          </ul>
-        </div>
-        <div class="footer-col">
-          <h4>Supported Faculties</h4>
-          <ul class="footer-links">
-            <li><a href="courses.html">Pre-Engineering</a></li>
-            <li><a href="courses.html">Natural Science</a></li>
-            <li><a href="courses.html">Social Sciences</a></li>
-          </ul>
-        </div>
-        <div class="footer-col">
-          <h4>Connect</h4>
-          <ul class="footer-links">
-            <li><a href="https://t.me/" target="_blank">Telegram Bot</a></li>
-            <li><a href="https://github.com" target="_blank">GitHub Repository</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="footer-bottom">
-        <div>© 2026 Victory Academy. All rights reserved. Slogan: Prepare Today. Succeed Tomorrow.</div>
-      </div>
-    </div>
-  </footer>
-
-  <script src="js/app.js"></script>
-  <script src="js/telegram.js"></script>
-</body>
+    <script src="js/app.js"></script>
+    <script src="js/telegram.js"></script>
+  </body>
 </html>
